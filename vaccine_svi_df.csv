@@ -1,0 +1,2827 @@
+Date,FIPS,County,State,Vaccination_Complete_Pct,Metro_status,Social Vulnerability Index (SVI),SVI Category
+09/30/2021,49057,Weber County,UT,47.1,Metro,0.43,Moderate Concern
+09/30/2021,16027,Canyon County,ID,34.4,Metro,0.74,High Concern
+09/30/2021,18171,Warren County,IN,40.4,Non-metro,0.08,Very Low Concern
+09/30/2021,27007,Beltrami County,MN,50.1,Non-metro,0.78,High Concern
+09/30/2021,8041,El Paso County,CO,52.6,Metro,0.39,Low Concern
+09/30/2021,54085,Ritchie County,WV,19.1,Non-metro,0.36,Low Concern
+09/30/2021,47001,Anderson County,TN,47.7,Metro,0.61,High Concern
+09/30/2021,5007,Benton County,AR,43.9,Metro,0.27,Low Concern
+09/30/2021,46009,Bon Homme County,SD,44.7,Non-metro,0.24,Low Concern
+09/30/2021,26059,Hillsdale County,MI,33.2,Non-metro,0.5,Moderate Concern
+09/30/2021,41061,Union County,OR,42.0,Non-metro,0.67,High Concern
+09/30/2021,55123,Vernon County,WI,48.9,Non-metro,0.38,Low Concern
+09/30/2021,30059,Meagher County,MT,44.3,Non-metro,0.05,Very Low Concern
+09/30/2021,39035,Cuyahoga County,OH,56.0,Metro,0.68,High Concern
+09/30/2021,55129,Washburn County,WI,56.6,Non-metro,0.11,Very Low Concern
+09/30/2021,37083,Halifax County,NC,43.9,Non-metro,0.96,Very High Concern
+09/30/2021,20173,Sedgwick County,KS,43.1,Metro,0.54,Moderate Concern
+09/30/2021,45081,Saluda County,SC,26.3,Metro,0.79,High Concern
+09/30/2021,26077,Kalamazoo County,MI,52.7,Metro,0.41,Moderate Concern
+09/30/2021,27075,Lake County,MN,58.8,Non-metro,0.11,Very Low Concern
+09/30/2021,13117,Forsyth County,GA,21.5,Metro,0.04,Very Low Concern
+09/30/2021,56007,Carbon County,WY,37.9,Non-metro,0.5,Moderate Concern
+09/30/2021,47173,Union County,TN,29.6,Metro,0.67,High Concern
+09/30/2021,20091,Johnson County,KS,63.7,Metro,0.06,Very Low Concern
+09/30/2021,20083,Hodgeman County,KS,40.1,Non-metro,0.11,Very Low Concern
+09/30/2021,29183,St. Charles County,MO,53.4,Metro,0.04,Very Low Concern
+09/30/2021,31103,Keya Paha County,NE,25.7,Non-metro,0.0,Very Low Concern
+09/30/2021,5025,Cleveland County,AR,45.6,Metro,0.56,Moderate Concern
+09/30/2021,20061,Geary County,KS,55.6,Non-metro,0.66,High Concern
+09/30/2021,31123,Morrill County,NE,30.6,Non-metro,0.42,Moderate Concern
+09/30/2021,29117,Livingston County,MO,38.6,Non-metro,0.37,Low Concern
+09/30/2021,51057,Essex County,VA,44.0,Non-metro,0.56,Moderate Concern
+09/30/2021,55055,Jefferson County,WI,50.1,Non-metro,0.19,Very Low Concern
+09/30/2021,27137,St. Louis County,MN,57.3,Metro,0.31,Low Concern
+09/30/2021,17193,White County,IL,40.3,Non-metro,0.54,Moderate Concern
+09/30/2021,32011,Eureka County,NV,22.9,Non-metro,0.07,Very Low Concern
+09/30/2021,31065,Furnas County,NE,38.1,Non-metro,0.18,Very Low Concern
+09/30/2021,5081,Little River County,AR,26.1,Metro,0.63,High Concern
+09/30/2021,40053,Grant County,OK,36.7,Non-metro,0.16,Very Low Concern
+09/30/2021,36009,Cattaraugus County,NY,47.9,Non-metro,0.73,High Concern
+09/30/2021,40009,Beckham County,OK,35.8,Non-metro,0.71,High Concern
+09/30/2021,13141,Hancock County,GA,11.9,Non-metro,0.8,High Concern
+09/30/2021,30055,McCone County,MT,16.2,Non-metro,0.08,Very Low Concern
+09/30/2021,54043,Lincoln County,WV,16.4,Metro,0.61,High Concern
+09/30/2021,26049,Genesee County,MI,42.9,Metro,0.66,High Concern
+09/30/2021,38029,Emmons County,ND,29.2,Non-metro,0.1,Very Low Concern
+09/30/2021,39061,Hamilton County,OH,54.1,Metro,0.54,Moderate Concern
+09/30/2021,21213,Simpson County,KY,45.9,Non-metro,0.29,Low Concern
+09/30/2021,18005,Bartholomew County,IN,52.5,Metro,0.36,Low Concern
+09/30/2021,29041,Chariton County,MO,33.2,Non-metro,0.19,Very Low Concern
+09/30/2021,47129,Morgan County,TN,43.4,Metro,0.75,High Concern
+09/30/2021,37035,Catawba County,NC,46.5,Metro,0.65,High Concern
+09/30/2021,19005,Allamakee County,IA,47.0,Non-metro,0.32,Low Concern
+09/30/2021,19067,Floyd County,IA,47.6,Non-metro,0.36,Low Concern
+09/30/2021,25013,Hampden County,MA,55.7,Metro,0.82,Very High Concern
+09/30/2021,33015,Rockingham County,NH,58.6,Metro,0.01,Very Low Concern
+09/30/2021,37025,Cabarrus County,NC,45.9,Metro,0.42,Moderate Concern
+09/30/2021,17001,Adams County,IL,44.5,Non-metro,0.25,Low Concern
+09/30/2021,19047,Crawford County,IA,47.2,Non-metro,0.86,Very High Concern
+09/30/2021,13137,Habersham County,GA,17.2,Non-metro,0.71,High Concern
+09/30/2021,28055,Issaquena County,MS,32.0,Non-metro,0.95,Very High Concern
+09/30/2021,31169,Thayer County,NE,41.0,Non-metro,0.06,Very Low Concern
+09/30/2021,18179,Wells County,IN,37.6,Metro,0.14,Very Low Concern
+09/30/2021,13067,Cobb County,GA,37.3,Metro,0.27,Low Concern
+09/30/2021,12035,Flagler County,FL,56.1,Metro,0.28,Low Concern
+09/30/2021,16005,Bannock County,ID,40.3,Metro,0.58,Moderate Concern
+09/30/2021,29071,Franklin County,MO,48.3,Metro,0.15,Very Low Concern
+09/30/2021,31057,Dundy County,NE,33.1,Non-metro,0.3,Low Concern
+09/30/2021,29031,Cape Girardeau County,MO,41.8,Metro,0.41,Moderate Concern
+09/30/2021,23025,Somerset County,ME,53.2,Non-metro,0.62,High Concern
+09/30/2021,38065,Oliver County,ND,21.7,Metro,0.21,Low Concern
+09/30/2021,27113,Pennington County,MN,43.9,Non-metro,0.3,Low Concern
+09/30/2021,40133,Seminole County,OK,44.8,Non-metro,0.93,Very High Concern
+09/30/2021,20077,Harper County,KS,40.9,Non-metro,0.32,Low Concern
+09/30/2021,56033,Sheridan County,WY,43.3,Non-metro,0.09,Very Low Concern
+09/30/2021,37153,Richmond County,NC,39.9,Non-metro,0.98,Very High Concern
+09/30/2021,28155,Webster County,MS,42.2,Non-metro,0.6,Moderate Concern
+09/30/2021,54075,Pocahontas County,WV,23.7,Non-metro,0.5,Moderate Concern
+09/30/2021,37177,Tyrrell County,NC,39.8,Non-metro,0.88,Very High Concern
+09/30/2021,13229,Pierce County,GA,23.3,Non-metro,0.66,High Concern
+09/30/2021,47041,DeKalb County,TN,34.3,Non-metro,0.43,Moderate Concern
+09/30/2021,33007,Coos County,NH,55.5,Non-metro,0.53,Moderate Concern
+09/30/2021,22035,East Carroll Parish,LA,38.6,Non-metro,0.94,Very High Concern
+09/30/2021,40069,Johnston County,OK,35.2,Non-metro,0.85,Very High Concern
+09/30/2021,51800,Suffolk city,VA,43.7,Metro,0.35,Low Concern
+09/30/2021,45043,Georgetown County,SC,48.1,Non-metro,0.68,High Concern
+09/30/2021,5033,Crawford County,AR,39.4,Metro,0.61,High Concern
+09/30/2021,31081,Hamilton County,NE,39.7,Metro,0.01,Very Low Concern
+09/30/2021,27033,Cottonwood County,MN,48.0,Non-metro,0.47,Moderate Concern
+09/30/2021,24035,Queen Anne's County,MD,58.6,Metro,0.02,Very Low Concern
+09/30/2021,28111,Perry County,MS,31.3,Metro,0.71,High Concern
+09/30/2021,36025,Delaware County,NY,50.7,Non-metro,0.63,High Concern
+09/30/2021,46067,Hutchinson County,SD,38.3,Non-metro,0.25,Low Concern
+09/30/2021,13283,Treutlen County,GA,13.9,Non-metro,0.95,Very High Concern
+09/30/2021,39029,Columbiana County,OH,42.7,Non-metro,0.49,Moderate Concern
+09/30/2021,17163,St. Clair County,IL,48.9,Metro,0.52,Moderate Concern
+09/30/2021,51053,Dinwiddie County,VA,43.0,Metro,0.42,Moderate Concern
+09/30/2021,27011,Big Stone County,MN,57.2,Non-metro,0.2,Low Concern
+09/30/2021,40139,Texas County,OK,36.0,Non-metro,0.82,Very High Concern
+09/30/2021,13097,Douglas County,GA,26.5,Metro,0.54,Moderate Concern
+09/30/2021,50011,Franklin County,VT,31.7,Metro,0.11,Very Low Concern
+09/30/2021,19011,Benton County,IA,51.3,Metro,0.01,Very Low Concern
+09/30/2021,12027,DeSoto County,FL,38.6,Non-metro,0.96,Very High Concern
+09/30/2021,41065,Wasco County,OR,57.1,Non-metro,0.84,Very High Concern
+09/30/2021,56035,Sublette County,WY,27.4,Non-metro,0.03,Very Low Concern
+09/30/2021,42035,Clinton County,PA,38.4,Non-metro,0.49,Moderate Concern
+09/30/2021,36051,Livingston County,NY,52.6,Metro,0.34,Low Concern
+09/30/2021,26013,Baraga County,MI,50.8,Non-metro,0.66,High Concern
+09/30/2021,1113,Russell County,AL,31.9,Metro,0.91,Very High Concern
+09/30/2021,30065,Musselshell County,MT,30.1,Non-metro,0.36,Low Concern
+09/30/2021,38015,Burleigh County,ND,40.8,Metro,0.17,Very Low Concern
+09/30/2021,8055,Huerfano County,CO,47.6,Non-metro,0.6,Moderate Concern
+09/30/2021,46097,Miner County,SD,45.3,Non-metro,0.11,Very Low Concern
+09/30/2021,46125,Turner County,SD,35.5,Metro,0.11,Very Low Concern
+09/30/2021,12053,Hernando County,FL,47.5,Metro,0.55,Moderate Concern
+09/30/2021,21189,Owsley County,KY,39.0,Non-metro,0.84,Very High Concern
+09/30/2021,51193,Westmoreland County,VA,42.9,Non-metro,0.29,Low Concern
+09/30/2021,46025,Clark County,SD,44.6,Non-metro,0.17,Very Low Concern
+09/30/2021,6037,Los Angeles County,CA,59.6,Metro,0.77,High Concern
+09/30/2021,20045,Douglas County,KS,53.4,Metro,0.22,Low Concern
+09/30/2021,51660,Harrisonburg city,VA,37.3,Metro,0.79,High Concern
+09/30/2021,37091,Hertford County,NC,28.6,Non-metro,0.99,Very High Concern
+09/30/2021,18151,Steuben County,IN,42.8,Non-metro,0.27,Low Concern
+09/30/2021,29095,Jackson County,MO,47.0,Metro,0.54,Moderate Concern
+09/30/2021,26113,Missaukee County,MI,40.6,Non-metro,0.48,Moderate Concern
+09/30/2021,8103,Rio Blanco County,CO,33.2,Non-metro,0.34,Low Concern
+09/30/2021,13209,Montgomery County,GA,20.4,Non-metro,0.85,Very High Concern
+09/30/2021,20195,Trego County,KS,35.3,Non-metro,0.04,Very Low Concern
+09/30/2021,55127,Walworth County,WI,47.0,Non-metro,0.27,Low Concern
+09/30/2021,21037,Campbell County,KY,65.3,Metro,0.22,Low Concern
+09/30/2021,29059,Dallas County,MO,31.4,Metro,0.7,High Concern
+09/30/2021,13149,Heard County,GA,12.1,Metro,0.72,High Concern
+09/30/2021,13043,Candler County,GA,17.8,Non-metro,0.98,Very High Concern
+09/30/2021,28125,Sharkey County,MS,47.7,Non-metro,0.97,Very High Concern
+09/30/2021,5003,Ashley County,AR,43.2,Non-metro,0.86,Very High Concern
+09/30/2021,13241,Rabun County,GA,25.2,Non-metro,0.53,Moderate Concern
+09/30/2021,22091,St. Helena Parish,LA,26.6,Metro,0.9,Very High Concern
+09/30/2021,30011,Carter County,MT,26.3,Non-metro,0.05,Very Low Concern
+09/30/2021,40051,Grady County,OK,32.4,Metro,0.31,Low Concern
+09/30/2021,19075,Grundy County,IA,55.0,Metro,0.0,Very Low Concern
+09/30/2021,6021,Glenn County,CA,45.4,Non-metro,0.89,Very High Concern
+09/30/2021,23015,Lincoln County,ME,71.1,Non-metro,0.11,Very Low Concern
+09/30/2021,29007,Audrain County,MO,32.7,Non-metro,0.62,High Concern
+09/30/2021,5037,Cross County,AR,44.4,Non-metro,0.7,High Concern
+09/30/2021,20047,Edwards County,KS,41.7,Non-metro,0.37,Low Concern
+09/30/2021,25007,Dukes County,MA,3.6,Non-metro,0.01,Very Low Concern
+09/30/2021,37095,Hyde County,NC,56.3,Non-metro,0.86,Very High Concern
+09/30/2021,13127,Glynn County,GA,43.2,Metro,0.72,High Concern
+09/30/2021,33009,Grafton County,NH,66.8,Non-metro,0.19,Very Low Concern
+09/30/2021,46105,Perkins County,SD,23.3,Non-metro,0.11,Very Low Concern
+09/30/2021,19033,Cerro Gordo County,IA,56.0,Non-metro,0.25,Low Concern
+09/30/2021,13177,Lee County,GA,16.4,Metro,0.35,Low Concern
+09/30/2021,38073,Ransom County,ND,52.5,Non-metro,0.09,Very Low Concern
+09/30/2021,36013,Chautauqua County,NY,50.7,Non-metro,0.72,High Concern
+09/30/2021,26145,Saginaw County,MI,45.8,Metro,0.7,High Concern
+09/30/2021,18121,Parke County,IN,35.5,Non-metro,0.58,Moderate Concern
+09/30/2021,31009,Blaine County,NE,21.9,Non-metro,0.09,Very Low Concern
+09/30/2021,31129,Nuckolls County,NE,44.7,Non-metro,0.17,Very Low Concern
+09/30/2021,21139,Livingston County,KY,42.5,Non-metro,0.26,Low Concern
+09/30/2021,37127,Nash County,NC,48.6,Metro,0.83,Very High Concern
+09/30/2021,5067,Jackson County,AR,33.0,Non-metro,0.76,High Concern
+09/30/2021,51141,Patrick County,VA,35.2,Non-metro,0.64,High Concern
+09/30/2021,16083,Twin Falls County,ID,37.6,Non-metro,0.5,Moderate Concern
+09/30/2021,1009,Blount County,AL,26.1,Metro,0.42,Moderate Concern
+09/30/2021,27173,Yellow Medicine County,MN,48.9,Non-metro,0.33,Low Concern
+09/30/2021,40123,Pontotoc County,OK,44.6,Non-metro,0.65,High Concern
+09/30/2021,21011,Bath County,KY,47.4,Non-metro,0.73,High Concern
+09/30/2021,17079,Jasper County,IL,31.1,Non-metro,0.24,Low Concern
+09/30/2021,20149,Pottawatomie County,KS,33.9,Metro,0.15,Very Low Concern
+09/30/2021,24001,Allegany County,MD,47.7,Metro,0.62,High Concern
+09/30/2021,51117,Mecklenburg County,VA,39.8,Non-metro,0.78,High Concern
+09/30/2021,51171,Shenandoah County,VA,43.6,Non-metro,0.36,Low Concern
+09/30/2021,47119,Maury County,TN,54.6,Metro,0.39,Low Concern
+09/30/2021,55005,Barron County,WI,47.0,Non-metro,0.33,Low Concern
+09/30/2021,41049,Morrow County,OR,45.6,Non-metro,0.76,High Concern
+09/30/2021,26097,Mackinac County,MI,65.6,Non-metro,0.65,High Concern
+09/30/2021,51810,Virginia Beach city,VA,50.3,Metro,0.19,Very Low Concern
+09/30/2021,46127,Union County,SD,43.6,Metro,0.03,Very Low Concern
+09/30/2021,37005,Alleghany County,NC,49.1,Non-metro,0.63,High Concern
+09/30/2021,37075,Graham County,NC,41.2,Non-metro,0.63,High Concern
+09/30/2021,37001,Alamance County,NC,49.0,Metro,0.78,High Concern
+09/30/2021,31177,Washington County,NE,48.8,Metro,0.04,Very Low Concern
+09/30/2021,17113,McLean County,IL,51.3,Metro,0.19,Very Low Concern
+09/30/2021,53001,Adams County,WA,47.1,Non-metro,0.96,Very High Concern
+09/30/2021,38033,Golden Valley County,ND,24.4,Non-metro,0.09,Very Low Concern
+09/30/2021,26099,Macomb County,MI,49.6,Metro,0.33,Low Concern
+09/30/2021,20051,Ellis County,KS,42.5,Non-metro,0.16,Very Low Concern
+09/30/2021,20191,Sumner County,KS,36.7,Metro,0.22,Low Concern
+09/30/2021,47043,Dickson County,TN,40.1,Metro,0.43,Moderate Concern
+09/30/2021,8011,Bent County,CO,21.7,Non-metro,0.9,Very High Concern
+09/30/2021,18097,Marion County,IN,48.7,Metro,0.8,High Concern
+09/30/2021,27041,Douglas County,MN,49.7,Non-metro,0.04,Very Low Concern
+09/30/2021,13075,Cook County,GA,33.8,Non-metro,0.85,Very High Concern
+09/30/2021,20127,Morris County,KS,49.0,Non-metro,0.24,Low Concern
+09/30/2021,21075,Fulton County,KY,48.7,Non-metro,0.87,Very High Concern
+09/30/2021,23023,Sagadahoc County,ME,68.3,Metro,0.05,Very Low Concern
+09/30/2021,42045,Delaware County,PA,63.1,Metro,0.41,Moderate Concern
+09/30/2021,56029,Park County,WY,39.4,Non-metro,0.07,Very Low Concern
+09/30/2021,20001,Allen County,KS,38.7,Non-metro,0.4,Low Concern
+09/30/2021,28023,Clarke County,MS,47.4,Non-metro,0.67,High Concern
+09/30/2021,27127,Redwood County,MN,45.5,Non-metro,0.23,Low Concern
+09/30/2021,27071,Koochiching County,MN,51.6,Non-metro,0.44,Moderate Concern
+09/30/2021,51131,Northampton County,VA,63.1,Non-metro,0.68,High Concern
+09/30/2021,5031,Craighead County,AR,37.0,Metro,0.8,Very High Concern
+09/30/2021,56009,Converse County,WY,27.6,Non-metro,0.2,Low Concern
+09/30/2021,28147,Walthall County,MS,34.4,Non-metro,0.86,Very High Concern
+09/30/2021,36041,Hamilton County,NY,77.7,Non-metro,0.39,Low Concern
+09/30/2021,17197,Will County,IL,52.8,Metro,0.2,Low Concern
+09/30/2021,56023,Lincoln County,WY,33.4,Non-metro,0.08,Very Low Concern
+09/30/2021,46115,Spink County,SD,36.0,Non-metro,0.18,Very Low Concern
+09/30/2021,2282,Yakutat City and Borough,AK,69.1,Non-metro,0.59,Moderate Concern
+09/30/2021,32009,Esmeralda County,NV,35.3,Non-metro,0.64,High Concern
+09/30/2021,18133,Putnam County,IN,37.9,Metro,0.35,Low Concern
+09/30/2021,55079,Milwaukee County,WI,54.0,Metro,0.81,Very High Concern
+09/30/2021,18083,Knox County,IN,44.7,Non-metro,0.59,Moderate Concern
+09/30/2021,28103,Noxubee County,MS,48.3,Non-metro,0.99,Very High Concern
+09/30/2021,9009,New Haven County,CT,67.4,Metro,0.52,Moderate Concern
+09/30/2021,47073,Hawkins County,TN,38.0,Metro,0.71,High Concern
+09/30/2021,13211,Morgan County,GA,21.9,Metro,0.24,Low Concern
+09/30/2021,40027,Cleveland County,OK,45.7,Metro,0.34,Low Concern
+09/30/2021,37137,Pamlico County,NC,48.6,Metro,0.72,High Concern
+09/30/2021,36039,Greene County,NY,54.5,Non-metro,0.42,Moderate Concern
+09/30/2021,19173,Taylor County,IA,41.9,Non-metro,0.28,Low Concern
+09/30/2021,42117,Tioga County,PA,38.5,Non-metro,0.32,Low Concern
+09/30/2021,47083,Houston County,TN,34.6,Non-metro,0.56,Moderate Concern
+09/30/2021,8107,Routt County,CO,67.0,Non-metro,0.06,Very Low Concern
+09/30/2021,19045,Clinton County,IA,48.0,Non-metro,0.26,Low Concern
+09/30/2021,55023,Crawford County,WI,51.0,Non-metro,0.4,Low Concern
+09/30/2021,28049,Hinds County,MS,49.6,Metro,0.87,Very High Concern
+09/30/2021,25017,Middlesex County,MA,69.1,Metro,0.23,Low Concern
+09/30/2021,31041,Custer County,NE,33.3,Non-metro,0.18,Very Low Concern
+09/30/2021,49009,Daggett County,UT,50.2,Non-metro,0.08,Very Low Concern
+09/30/2021,21073,Franklin County,KY,68.8,Non-metro,0.55,Moderate Concern
+09/30/2021,29081,Harrison County,MO,29.3,Non-metro,0.74,High Concern
+09/30/2021,39057,Greene County,OH,55.9,Metro,0.21,Low Concern
+09/30/2021,36045,Jefferson County,NY,60.0,Metro,0.65,High Concern
+09/30/2021,28045,Hancock County,MS,34.1,Metro,0.59,Moderate Concern
+09/30/2021,42115,Susquehanna County,PA,41.6,Non-metro,0.21,Low Concern
+09/30/2021,32007,Elko County,NV,33.5,Non-metro,0.52,Moderate Concern
+09/30/2021,19159,Ringgold County,IA,46.0,Non-metro,0.13,Very Low Concern
+09/30/2021,12045,Gulf County,FL,44.4,Metro,0.59,Moderate Concern
+09/30/2021,22073,Ouachita Parish,LA,38.6,Metro,0.85,Very High Concern
+09/30/2021,6033,Lake County,CA,50.6,Non-metro,0.92,Very High Concern
+09/30/2021,19107,Keokuk County,IA,41.5,Non-metro,0.04,Very Low Concern
+09/30/2021,17085,Jo Daviess County,IL,66.7,Non-metro,0.05,Very Low Concern
+09/30/2021,40031,Comanche County,OK,48.8,Metro,0.84,Very High Concern
+09/30/2021,20147,Phillips County,KS,38.7,Non-metro,0.24,Low Concern
+09/30/2021,46049,Faulk County,SD,43.9,Non-metro,0.08,Very Low Concern
+09/30/2021,27139,Scott County,MN,58.4,Metro,0.11,Very Low Concern
+09/30/2021,8069,Larimer County,CO,59.3,Metro,0.12,Very Low Concern
+09/30/2021,29179,Reynolds County,MO,21.7,Non-metro,0.56,Moderate Concern
+09/30/2021,13109,Evans County,GA,19.7,Non-metro,0.98,Very High Concern
+09/30/2021,31179,Wayne County,NE,36.3,Non-metro,0.08,Very Low Concern
+09/30/2021,18013,Brown County,IN,45.4,Metro,0.06,Very Low Concern
+09/30/2021,30005,Blaine County,MT,69.5,Non-metro,0.92,Very High Concern
+09/30/2021,26133,Osceola County,MI,35.3,Non-metro,0.74,High Concern
+09/30/2021,13217,Newton County,GA,16.2,Metro,0.71,High Concern
+09/30/2021,46051,Grant County,SD,38.6,Non-metro,0.06,Very Low Concern
+09/30/2021,13001,Appling County,GA,12.7,Non-metro,0.97,Very High Concern
+09/30/2021,51036,Charles City County,VA,46.5,Metro,0.24,Low Concern
+09/30/2021,18119,Owen County,IN,38.3,Metro,0.35,Low Concern
+09/30/2021,47189,Wilson County,TN,44.8,Metro,0.15,Very Low Concern
+09/30/2021,21019,Boyd County,KY,38.8,Metro,0.69,High Concern
+09/30/2021,50023,Washington County,VT,40.2,Non-metro,0.18,Very Low Concern
+09/30/2021,12055,Highlands County,FL,44.5,Metro,0.87,Very High Concern
+09/30/2021,27087,Mahnomen County,MN,51.7,Non-metro,0.87,Very High Concern
+09/30/2021,38045,LaMoure County,ND,43.0,Non-metro,0.04,Very Low Concern
+09/30/2021,25011,Franklin County,MA,59.0,Non-metro,0.21,Low Concern
+09/30/2021,40117,Pawnee County,OK,42.4,Metro,0.54,Moderate Concern
+09/30/2021,1087,Macon County,AL,39.7,Non-metro,0.9,Very High Concern
+09/30/2021,17029,Coles County,IL,37.4,Non-metro,0.5,Moderate Concern
+09/30/2021,40039,Custer County,OK,41.3,Non-metro,0.75,High Concern
+09/30/2021,33013,Merrimack County,NH,61.9,Non-metro,0.15,Very Low Concern
+09/30/2021,29027,Callaway County,MO,41.3,Metro,0.32,Low Concern
+09/30/2021,51143,Pittsylvania County,VA,37.6,Non-metro,0.64,High Concern
+09/30/2021,28051,Holmes County,MS,50.1,Non-metro,0.98,Very High Concern
+09/30/2021,17165,Saline County,IL,38.6,Non-metro,0.86,Very High Concern
+09/30/2021,28027,Coahoma County,MS,42.6,Non-metro,0.93,Very High Concern
+09/30/2021,30057,Madison County,MT,39.6,Non-metro,0.17,Very Low Concern
+09/30/2021,42051,Fayette County,PA,51.5,Metro,0.62,High Concern
+09/30/2021,38075,Renville County,ND,31.8,Non-metro,0.03,Very Low Concern
+09/30/2021,21115,Johnson County,KY,41.5,Non-metro,0.81,Very High Concern
+09/30/2021,22113,Vermilion Parish,LA,32.5,Metro,0.82,Very High Concern
+09/30/2021,17043,DuPage County,IL,61.2,Metro,0.16,Very Low Concern
+09/30/2021,56019,Johnson County,WY,36.7,Non-metro,0.18,Very Low Concern
+09/30/2021,56041,Uinta County,WY,39.2,Non-metro,0.45,Moderate Concern
+09/30/2021,42059,Greene County,PA,41.9,Non-metro,0.44,Moderate Concern
+09/30/2021,21051,Clay County,KY,36.5,Non-metro,0.91,Very High Concern
+09/30/2021,22005,Ascension Parish,LA,43.3,Metro,0.4,Low Concern
+09/30/2021,45007,Anderson County,SC,34.6,Metro,0.7,High Concern
+09/30/2021,20023,Cheyenne County,KS,39.4,Non-metro,0.1,Very Low Concern
+09/30/2021,40077,Latimer County,OK,29.2,Non-metro,0.89,Very High Concern
+09/30/2021,22057,Lafourche Parish,LA,38.2,Metro,0.77,High Concern
+09/30/2021,27077,Lake of the Woods County,MN,49.3,Non-metro,0.16,Very Low Concern
+09/30/2021,32005,Douglas County,NV,46.5,Non-metro,0.18,Very Low Concern
+09/30/2021,24015,Cecil County,MD,50.4,Metro,0.29,Low Concern
+09/30/2021,23003,Aroostook County,ME,59.9,Non-metro,0.59,Moderate Concern
+09/30/2021,42133,York County,PA,52.9,Metro,0.33,Low Concern
+09/30/2021,5043,Drew County,AR,41.9,Non-metro,0.8,Very High Concern
+09/30/2021,13221,Oglethorpe County,GA,25.3,Metro,0.52,Moderate Concern
+09/30/2021,27107,Norman County,MN,47.5,Non-metro,0.32,Low Concern
+09/30/2021,55091,Pepin County,WI,44.3,Non-metro,0.1,Very Low Concern
+09/30/2021,49053,Washington County,UT,42.0,Metro,0.41,Moderate Concern
+09/30/2021,30061,Mineral County,MT,47.6,Non-metro,0.56,Moderate Concern
+09/30/2021,37045,Cleveland County,NC,39.7,Non-metro,0.83,Very High Concern
+09/30/2021,6011,Colusa County,CA,49.4,Non-metro,0.74,High Concern
+09/30/2021,16065,Madison County,ID,40.4,Non-metro,0.4,Moderate Concern
+09/30/2021,54019,Fayette County,WV,26.3,Metro,0.76,High Concern
+09/30/2021,29093,Iron County,MO,33.0,Non-metro,0.78,High Concern
+09/30/2021,5125,Saline County,AR,42.7,Metro,0.33,Low Concern
+09/30/2021,8077,Mesa County,CO,42.6,Metro,0.58,Moderate Concern
+09/30/2021,20201,Washington County,KS,45.8,Non-metro,0.15,Very Low Concern
+09/30/2021,39111,Monroe County,OH,39.1,Non-metro,0.44,Moderate Concern
+09/30/2021,46041,Dewey County,SD,56.6,Non-metro,0.88,Very High Concern
+09/30/2021,5145,White County,AR,39.2,Non-metro,0.74,High Concern
+09/30/2021,32001,Churchill County,NV,40.6,Non-metro,0.6,High Concern
+09/30/2021,28015,Carroll County,MS,35.7,Non-metro,0.63,High Concern
+09/30/2021,13033,Burke County,GA,38.4,Metro,0.85,Very High Concern
+09/30/2021,55059,Kenosha County,WI,51.4,Metro,0.51,Moderate Concern
+09/30/2021,19051,Davis County,IA,32.4,Non-metro,0.35,Low Concern
+09/30/2021,45041,Florence County,SC,46.4,Metro,0.9,Very High Concern
+09/30/2021,21197,Powell County,KY,46.3,Non-metro,0.77,High Concern
+09/30/2021,46039,Deuel County,SD,33.0,Non-metro,0.08,Very Low Concern
+09/30/2021,13089,DeKalb County,GA,30.2,Metro,0.66,High Concern
+09/30/2021,12079,Madison County,FL,37.2,Non-metro,0.96,Very High Concern
+09/30/2021,2122,Kenai Peninsula Borough,AK,40.3,Non-metro,0.41,Moderate Concern
+09/30/2021,31133,Pawnee County,NE,38.8,Non-metro,0.23,Low Concern
+09/30/2021,26091,Lenawee County,MI,45.7,Non-metro,0.41,Moderate Concern
+09/30/2021,47067,Hancock County,TN,27.7,Non-metro,0.77,High Concern
+09/30/2021,41041,Lincoln County,OR,63.2,Non-metro,0.55,Moderate Concern
+09/30/2021,36063,Niagara County,NY,58.0,Metro,0.33,Low Concern
+09/30/2021,37157,Rockingham County,NC,41.8,Metro,0.79,High Concern
+09/30/2021,37167,Stanly County,NC,22.5,Non-metro,0.63,High Concern
+09/30/2021,1129,Washington County,AL,40.4,Non-metro,0.73,High Concern
+09/30/2021,55099,Price County,WI,54.6,Non-metro,0.16,Very Low Concern
+09/30/2021,1029,Cleburne County,AL,26.4,Non-metro,0.54,Moderate Concern
+09/30/2021,27079,Le Sueur County,MN,41.4,Metro,0.11,Very Low Concern
+09/30/2021,21177,Muhlenberg County,KY,44.2,Non-metro,0.61,High Concern
+09/30/2021,12083,Marion County,FL,50.0,Metro,0.75,High Concern
+09/30/2021,26071,Iron County,MI,49.8,Non-metro,0.28,Low Concern
+09/30/2021,28159,Winston County,MS,42.3,Non-metro,0.93,Very High Concern
+09/30/2021,51165,Rockingham County,VA,40.3,Metro,0.32,Low Concern
+09/30/2021,28013,Calhoun County,MS,36.0,Non-metro,0.96,Very High Concern
+09/30/2021,29011,Barton County,MO,29.9,Non-metro,0.6,Moderate Concern
+09/30/2021,22045,Iberia Parish,LA,39.4,Metro,0.96,Very High Concern
+09/30/2021,22009,Avoyelles Parish,LA,38.6,Non-metro,0.96,Very High Concern
+09/30/2021,53075,Whitman County,WA,40.0,Non-metro,0.51,Moderate Concern
+09/30/2021,12071,Lee County,FL,54.3,Metro,0.55,Moderate Concern
+09/30/2021,49045,Tooele County,UT,45.7,Metro,0.31,Low Concern
+09/30/2021,30043,Jefferson County,MT,43.2,Non-metro,0.05,Very Low Concern
+09/30/2021,39077,Huron County,OH,41.4,Non-metro,0.43,Moderate Concern
+09/30/2021,56005,Campbell County,WY,23.5,Non-metro,0.33,Low Concern
+09/30/2021,29141,Morgan County,MO,33.5,Non-metro,0.63,High Concern
+09/30/2021,53061,Snohomish County,WA,59.5,Metro,0.28,Low Concern
+09/30/2021,24011,Caroline County,MD,50.4,Non-metro,0.55,Moderate Concern
+09/30/2021,20169,Saline County,KS,42.7,Non-metro,0.42,Moderate Concern
+09/30/2021,26163,Wayne County,MI,45.7,Metro,0.87,Very High Concern
+09/30/2021,53007,Chelan County,WA,60.8,Metro,0.68,High Concern
+09/30/2021,40019,Carter County,OK,36.8,Non-metro,0.79,High Concern
+09/30/2021,46015,Brule County,SD,37.3,Non-metro,0.57,Moderate Concern
+09/30/2021,54011,Cabell County,WV,21.7,Metro,0.62,High Concern
+09/30/2021,17191,Wayne County,IL,34.3,Non-metro,0.43,Moderate Concern
+09/30/2021,46059,Hand County,SD,35.1,Non-metro,0.03,Very Low Concern
+09/30/2021,51049,Cumberland County,VA,34.1,Non-metro,0.58,Moderate Concern
+09/30/2021,21099,Hart County,KY,30.3,Non-metro,0.77,High Concern
+09/30/2021,55001,Adams County,WI,49.7,Non-metro,0.57,Moderate Concern
+09/30/2021,19153,Polk County,IA,58.0,Metro,0.38,Low Concern
+09/30/2021,1053,Escambia County,AL,30.5,Non-metro,0.86,Very High Concern
+09/30/2021,16049,Idaho County,ID,25.3,Non-metro,0.54,Moderate Concern
+09/30/2021,12061,Indian River County,FL,58.8,Metro,0.4,Low Concern
+09/30/2021,37061,Duplin County,NC,35.0,Non-metro,0.98,Very High Concern
+09/30/2021,36011,Cayuga County,NY,52.2,Non-metro,0.5,Moderate Concern
+09/30/2021,46087,McCook County,SD,40.2,Metro,0.22,Low Concern
+09/30/2021,19097,Jackson County,IA,47.6,Non-metro,0.13,Very Low Concern
+09/30/2021,40059,Harper County,OK,38.5,Non-metro,0.32,Low Concern
+09/30/2021,16057,Latah County,ID,47.5,Non-metro,0.25,Low Concern
+09/30/2021,29003,Andrew County,MO,31.8,Metro,0.03,Very Low Concern
+09/30/2021,54057,Mineral County,WV,33.2,Metro,0.59,Moderate Concern
+09/30/2021,29037,Cass County,MO,43.7,Metro,0.12,Very Low Concern
+09/30/2021,46061,Hanson County,SD,31.2,Non-metro,0.0,Very Low Concern
+09/30/2021,31019,Buffalo County,NE,34.7,Non-metro,0.27,Low Concern
+09/30/2021,54023,Grant County,WV,13.4,Non-metro,0.37,Low Concern
+09/30/2021,13263,Talbot County,GA,26.8,Non-metro,0.86,Very High Concern
+09/30/2021,20003,Anderson County,KS,37.2,Non-metro,0.23,Low Concern
+09/30/2021,45001,Abbeville County,SC,34.6,Non-metro,0.86,Very High Concern
+09/30/2021,47111,Macon County,TN,26.4,Metro,0.69,High Concern
+09/30/2021,51740,Portsmouth city,VA,78.5,Metro,0.8,Very High Concern
+09/30/2021,18101,Martin County,IN,42.8,Non-metro,0.24,Low Concern
+09/30/2021,12009,Brevard County,FL,55.8,Metro,0.37,Low Concern
+09/30/2021,39065,Hardin County,OH,32.5,Non-metro,0.47,Moderate Concern
+09/30/2021,26109,Menominee County,MI,62.4,Non-metro,0.28,Low Concern
+09/30/2021,31185,York County,NE,46.1,Non-metro,0.18,Very Low Concern
+09/30/2021,36073,Orleans County,NY,47.6,Metro,0.64,High Concern
+09/30/2021,20155,Reno County,KS,43.8,Non-metro,0.59,Moderate Concern
+09/30/2021,34027,Morris County,NJ,68.5,Metro,0.12,Very Low Concern
+09/30/2021,6057,Nevada County,CA,54.7,Non-metro,0.2,Low Concern
+09/30/2021,31087,Hitchcock County,NE,29.5,Non-metro,0.19,Very Low Concern
+09/30/2021,47171,Unicoi County,TN,46.7,Metro,0.8,High Concern
+09/30/2021,28093,Marshall County,MS,44.1,Metro,0.69,High Concern
+09/30/2021,5079,Lincoln County,AR,30.2,Metro,0.81,Very High Concern
+09/30/2021,6099,Stanislaus County,CA,46.2,Metro,0.87,Very High Concern
+09/30/2021,47169,Trousdale County,TN,31.1,Metro,0.52,Moderate Concern
+09/30/2021,39109,Miami County,OH,41.3,Metro,0.12,Very Low Concern
+09/30/2021,45027,Clarendon County,SC,39.8,Non-metro,0.98,Very High Concern
+09/30/2021,36107,Tioga County,NY,52.8,Metro,0.2,Very Low Concern
+09/30/2021,42061,Huntingdon County,PA,44.8,Non-metro,0.49,Moderate Concern
+09/30/2021,13237,Putnam County,GA,11.8,Non-metro,0.43,Moderate Concern
+09/30/2021,47081,Hickman County,TN,34.9,Metro,0.57,Moderate Concern
+09/30/2021,36057,Montgomery County,NY,58.1,Non-metro,0.83,Very High Concern
+09/30/2021,37149,Polk County,NC,39.1,Non-metro,0.38,Low Concern
+09/30/2021,40119,Payne County,OK,41.6,Non-metro,0.51,Moderate Concern
+09/30/2021,38063,Nelson County,ND,62.0,Non-metro,0.04,Very Low Concern
+09/30/2021,53051,Pend Oreille County,WA,34.2,Metro,0.54,Moderate Concern
+09/30/2021,29067,Douglas County,MO,21.1,Non-metro,0.52,Moderate Concern
+09/30/2021,26021,Berrien County,MI,48.0,Metro,0.65,High Concern
+09/30/2021,19111,Lee County,IA,45.0,Non-metro,0.5,Moderate Concern
+09/30/2021,18073,Jasper County,IN,41.0,Metro,0.27,Low Concern
+09/30/2021,37039,Cherokee County,NC,45.0,Non-metro,0.49,Moderate Concern
+09/30/2021,18077,Jefferson County,IN,50.3,Non-metro,0.44,Moderate Concern
+09/30/2021,27165,Watonwan County,MN,49.1,Non-metro,0.52,Moderate Concern
+09/30/2021,51061,Fauquier County,VA,52.7,Metro,0.03,Very Low Concern
+09/30/2021,20095,Kingman County,KS,41.7,Metro,0.05,Very Low Concern
+09/30/2021,39089,Licking County,OH,47.8,Metro,0.23,Low Concern
+09/30/2021,18153,Sullivan County,IN,43.8,Metro,0.64,High Concern
+09/30/2021,51650,Hampton city,VA,51.8,Metro,0.67,High Concern
+09/30/2021,30017,Custer County,MT,37.1,Non-metro,0.29,Low Concern
+09/30/2021,13011,Banks County,GA,12.6,Non-metro,0.56,Moderate Concern
+09/30/2021,17091,Kankakee County,IL,40.4,Metro,0.67,High Concern
+09/30/2021,42039,Crawford County,PA,44.1,Non-metro,0.51,Moderate Concern
+09/30/2021,12125,Union County,FL,31.5,Non-metro,0.84,Very High Concern
+09/30/2021,19149,Plymouth County,IA,46.2,Metro,0.13,Very Low Concern
+09/30/2021,40045,Ellis County,OK,30.9,Non-metro,0.3,Low Concern
+09/30/2021,40057,Harmon County,OK,41.7,Non-metro,0.81,Very High Concern
+09/30/2021,6015,Del Norte County,CA,35.3,Non-metro,0.97,Very High Concern
+09/30/2021,46023,Charles Mix County,SD,41.8,Non-metro,0.74,High Concern
+09/30/2021,21167,Mercer County,KY,50.5,Non-metro,0.41,Moderate Concern
+09/30/2021,5069,Jefferson County,AR,35.3,Metro,0.94,Very High Concern
+09/30/2021,20041,Dickinson County,KS,45.9,Non-metro,0.33,Low Concern
+09/30/2021,26085,Lake County,MI,51.4,Non-metro,0.78,High Concern
+09/30/2021,19019,Buchanan County,IA,48.0,Non-metro,0.07,Very Low Concern
+09/30/2021,37029,Camden County,NC,36.4,Non-metro,0.31,Low Concern
+09/30/2021,26143,Roscommon County,MI,48.6,Non-metro,0.46,Moderate Concern
+09/30/2021,12077,Liberty County,FL,30.8,Non-metro,0.83,Very High Concern
+09/30/2021,12005,Bay County,FL,42.9,Metro,0.61,High Concern
+09/30/2021,55135,Waupaca County,WI,47.0,Non-metro,0.18,Very Low Concern
+09/30/2021,26159,Van Buren County,MI,48.0,Metro,0.66,High Concern
+09/30/2021,6007,Butte County,CA,45.3,Metro,0.81,Very High Concern
+09/30/2021,34019,Hunterdon County,NJ,60.8,Metro,0.03,Very Low Concern
+09/30/2021,19145,Page County,IA,46.9,Non-metro,0.33,Low Concern
+09/30/2021,44001,Bristol County,RI,68.7,Metro,0.12,Very Low Concern
+09/30/2021,28113,Pike County,MS,42.2,Non-metro,0.99,Very High Concern
+09/30/2021,29113,Lincoln County,MO,33.9,Metro,0.29,Low Concern
+09/30/2021,18135,Randolph County,IN,39.1,Non-metro,0.43,Moderate Concern
+09/30/2021,36059,Nassau County,NY,68.7,Metro,0.24,Low Concern
+09/30/2021,54049,Marion County,WV,8.9,Non-metro,0.49,Moderate Concern
+09/30/2021,13265,Taliaferro County,GA,18.7,Non-metro,0.91,Very High Concern
+09/30/2021,13271,Telfair County,GA,16.8,Non-metro,0.84,Very High Concern
+09/30/2021,29149,Oregon County,MO,26.9,Non-metro,0.49,Moderate Concern
+09/30/2021,17087,Johnson County,IL,32.5,Non-metro,0.46,Moderate Concern
+09/30/2021,22099,St. Martin Parish,LA,34.8,Metro,0.78,High Concern
+09/30/2021,29005,Atchison County,MO,49.8,Non-metro,0.07,Very Low Concern
+09/30/2021,54001,Barbour County,WV,6.6,Non-metro,0.65,High Concern
+09/30/2021,39173,Wood County,OH,54.3,Metro,0.17,Very Low Concern
+09/30/2021,51005,Alleghany County,VA,37.2,Non-metro,0.45,Moderate Concern
+09/30/2021,1119,Sumter County,AL,42.1,Non-metro,0.96,Very High Concern
+09/30/2021,28009,Benton County,MS,43.0,Metro,0.66,High Concern
+09/30/2021,46111,Sanborn County,SD,38.6,Non-metro,0.04,Very Low Concern
+09/30/2021,30069,Petroleum County,MT,27.7,Non-metro,0.0,Very Low Concern
+09/30/2021,39175,Wyandot County,OH,41.8,Non-metro,0.23,Low Concern
+09/30/2021,21035,Calloway County,KY,41.8,Non-metro,0.5,Moderate Concern
+09/30/2021,27017,Carlton County,MN,54.7,Metro,0.27,Low Concern
+09/30/2021,21127,Lawrence County,KY,38.1,Non-metro,0.76,High Concern
+09/30/2021,51009,Amherst County,VA,41.8,Metro,0.47,Moderate Concern
+09/30/2021,37119,Mecklenburg County,NC,52.1,Metro,0.44,Moderate Concern
+09/30/2021,41059,Umatilla County,OR,46.4,Non-metro,0.97,Very High Concern
+09/30/2021,13063,Clayton County,GA,18.8,Metro,0.91,Very High Concern
+09/30/2021,51790,Staunton city,VA,46.1,Metro,0.44,Moderate Concern
+09/30/2021,30015,Chouteau County,MT,26.7,Non-metro,0.48,Moderate Concern
+09/30/2021,18091,LaPorte County,IN,50.0,Metro,0.72,High Concern
+09/30/2021,51540,Charlottesville city,VA,47.4,Metro,0.41,Moderate Concern
+09/30/2021,46081,Lawrence County,SD,40.4,Non-metro,0.26,Low Concern
+09/30/2021,19039,Clarke County,IA,47.8,Non-metro,0.48,Moderate Concern
+09/30/2021,17107,Logan County,IL,41.6,Non-metro,0.23,Low Concern
+09/30/2021,13025,Brantley County,GA,11.2,Metro,0.62,High Concern
+09/30/2021,54071,Pendleton County,WV,36.7,Non-metro,0.36,Low Concern
+09/30/2021,19163,Scott County,IA,52.0,Metro,0.27,Low Concern
+09/30/2021,40085,Love County,OK,34.8,Non-metro,0.63,High Concern
+09/30/2021,51109,Louisa County,VA,40.1,Non-metro,0.33,Low Concern
+09/30/2021,2240,Southeast Fairbanks Census Area,AK,26.8,Non-metro,0.58,Moderate Concern
+09/30/2021,53071,Walla Walla County,WA,54.7,Metro,0.68,High Concern
+09/30/2021,29111,Lewis County,MO,30.4,Non-metro,0.45,Moderate Concern
+09/30/2021,13321,Worth County,GA,15.6,Metro,0.74,High Concern
+09/30/2021,50007,Chittenden County,VT,62.9,Metro,0.18,Very Low Concern
+09/30/2021,30081,Ravalli County,MT,43.0,Non-metro,0.19,Very Low Concern
+09/30/2021,47059,Greene County,TN,40.4,Non-metro,0.54,Moderate Concern
+09/30/2021,20171,Scott County,KS,40.5,Non-metro,0.31,Low Concern
+09/30/2021,44003,Kent County,RI,68.9,Metro,0.15,Very Low Concern
+09/30/2021,51081,Greensville County,VA,33.2,Non-metro,0.81,Very High Concern
+09/30/2021,5001,Arkansas County,AR,48.7,Non-metro,0.78,High Concern
+09/30/2021,26053,Gogebic County,MI,55.7,Non-metro,0.4,Moderate Concern
+09/30/2021,47101,Lewis County,TN,30.8,Non-metro,0.64,High Concern
+09/30/2021,6017,El Dorado County,CA,54.6,Metro,0.18,Very Low Concern
+09/30/2021,55015,Calumet County,WI,49.1,Metro,0.02,Very Low Concern
+09/30/2021,41047,Marion County,OR,54.2,Metro,0.85,Very High Concern
+09/30/2021,17057,Fulton County,IL,44.1,Non-metro,0.58,Moderate Concern
+09/30/2021,30007,Broadwater County,MT,28.3,Non-metro,0.04,Very Low Concern
+09/30/2021,17203,Woodford County,IL,46.1,Metro,0.02,Very Low Concern
+09/30/2021,6089,Shasta County,CA,41.1,Metro,0.7,High Concern
+09/30/2021,24510,Baltimore city,MD,54.7,Metro,0.83,Very High Concern
+09/30/2021,20011,Bourbon County,KS,32.4,Non-metro,0.58,Moderate Concern
+09/30/2021,17135,Montgomery County,IL,39.9,Non-metro,0.39,Low Concern
+09/30/2021,47061,Grundy County,TN,23.9,Non-metro,0.87,Very High Concern
+09/30/2021,26153,Schoolcraft County,MI,45.0,Non-metro,0.55,Moderate Concern
+09/30/2021,39021,Champaign County,OH,39.0,Non-metro,0.3,Low Concern
+09/30/2021,39083,Knox County,OH,37.7,Non-metro,0.29,Low Concern
+09/30/2021,12017,Citrus County,FL,50.6,Metro,0.6,High Concern
+09/30/2021,21013,Bell County,KY,40.1,Non-metro,0.89,Very High Concern
+09/30/2021,5123,St. Francis County,AR,42.4,Non-metro,0.97,Very High Concern
+09/30/2021,21111,Jefferson County,KY,58.9,Metro,0.57,Moderate Concern
+09/30/2021,26121,Muskegon County,MI,46.9,Metro,0.7,High Concern
+09/30/2021,26075,Jackson County,MI,45.3,Metro,0.55,Moderate Concern
+09/30/2021,31045,Dawes County,NE,33.4,Non-metro,0.17,Very Low Concern
+09/30/2021,53031,Jefferson County,WA,70.1,Non-metro,0.24,Low Concern
+09/30/2021,16033,Clark County,ID,31.7,Non-metro,0.89,Very High Concern
+09/30/2021,17021,Christian County,IL,39.1,Non-metro,0.24,Low Concern
+09/30/2021,39135,Preble County,OH,37.3,Non-metro,0.17,Very Low Concern
+09/30/2021,51177,Spotsylvania County,VA,41.5,Metro,0.22,Low Concern
+09/30/2021,17157,Randolph County,IL,39.0,Non-metro,0.46,Moderate Concern
+09/30/2021,20039,Decatur County,KS,35.4,Non-metro,0.16,Very Low Concern
+09/30/2021,31025,Cass County,NE,51.6,Metro,0.01,Very Low Concern
+09/30/2021,47013,Campbell County,TN,36.6,Metro,0.73,High Concern
+09/30/2021,13157,Jackson County,GA,22.9,Non-metro,0.35,Low Concern
+09/30/2021,31029,Chase County,NE,27.5,Non-metro,0.16,Very Low Concern
+09/30/2021,21077,Gallatin County,KY,37.7,Metro,0.61,High Concern
+09/30/2021,22029,Concordia Parish,LA,34.4,Non-metro,0.91,Very High Concern
+09/30/2021,13121,Fulton County,GA,28.2,Metro,0.53,Moderate Concern
+09/30/2021,31131,Otoe County,NE,48.7,Non-metro,0.23,Low Concern
+09/30/2021,19189,Winnebago County,IA,46.6,Non-metro,0.21,Low Concern
+09/30/2021,23005,Cumberland County,ME,75.8,Metro,0.14,Very Low Concern
+09/30/2021,22041,Franklin Parish,LA,32.0,Non-metro,0.95,Very High Concern
+09/30/2021,17047,Edwards County,IL,33.6,Non-metro,0.24,Low Concern
+09/30/2021,20133,Neosho County,KS,22.5,Non-metro,0.66,High Concern
+09/30/2021,36001,Albany County,NY,65.4,Metro,0.3,Low Concern
+09/30/2021,29197,Schuyler County,MO,25.0,Non-metro,0.38,Low Concern
+09/30/2021,19175,Union County,IA,45.4,Non-metro,0.45,Moderate Concern
+09/30/2021,13003,Atkinson County,GA,15.8,Non-metro,0.96,Very High Concern
+09/30/2021,39063,Hancock County,OH,44.6,Non-metro,0.21,Low Concern
+09/30/2021,40091,McIntosh County,OK,47.9,Non-metro,0.78,High Concern
+09/30/2021,27133,Rock County,MN,45.8,Non-metro,0.15,Very Low Concern
+09/30/2021,19103,Johnson County,IA,63.9,Metro,0.27,Low Concern
+09/30/2021,29171,Putnam County,MO,29.0,Non-metro,0.58,Moderate Concern
+09/30/2021,17103,Lee County,IL,44.5,Non-metro,0.3,Low Concern
+09/30/2021,1017,Chambers County,AL,26.6,Non-metro,0.74,High Concern
+09/30/2021,31159,Seward County,NE,44.3,Metro,0.05,Very Low Concern
+09/30/2021,55049,Iowa County,WI,61.7,Metro,0.01,Very Low Concern
+09/30/2021,31097,Johnson County,NE,48.0,Non-metro,0.58,Moderate Concern
+09/30/2021,25005,Bristol County,MA,55.8,Metro,0.52,Moderate Concern
+09/30/2021,45035,Dorchester County,SC,44.4,Metro,0.42,Moderate Concern
+09/30/2021,1065,Hale County,AL,52.2,Metro,0.96,Very High Concern
+09/30/2021,29077,Greene County,MO,43.3,Metro,0.44,Moderate Concern
+09/30/2021,20029,Cloud County,KS,41.1,Non-metro,0.27,Low Concern
+09/30/2021,30023,Deer Lodge County,MT,51.3,Non-metro,0.47,Moderate Concern
+09/30/2021,32510,Carson City,NV,56.3,Metro,0.84,Very High Concern
+09/30/2021,51145,Powhatan County,VA,38.5,Metro,0.01,Very Low Concern
+09/30/2021,55057,Juneau County,WI,46.0,Non-metro,0.38,Low Concern
+09/30/2021,54067,Nicholas County,WV,29.7,Non-metro,0.54,Moderate Concern
+09/30/2021,38077,Richland County,ND,44.9,Non-metro,0.12,Very Low Concern
+09/30/2021,18063,Hendricks County,IN,63.8,Metro,0.08,Very Low Concern
+09/30/2021,27081,Lincoln County,MN,42.8,Non-metro,0.07,Very Low Concern
+09/30/2021,8051,Gunnison County,CO,60.5,Non-metro,0.14,Very Low Concern
+09/30/2021,36071,Orange County,NY,56.2,Metro,0.55,Moderate Concern
+09/30/2021,45023,Chester County,SC,38.1,Metro,0.74,High Concern
+09/30/2021,28089,Madison County,MS,56.0,Metro,0.29,Low Concern
+09/30/2021,28025,Clay County,MS,39.9,Non-metro,0.71,High Concern
+09/30/2021,34033,Salem County,NJ,46.5,Metro,0.59,Moderate Concern
+09/30/2021,51153,Prince William County,VA,61.2,Metro,0.3,Low Concern
+09/30/2021,45065,McCormick County,SC,53.8,Non-metro,0.74,High Concern
+09/30/2021,13317,Wilkes County,GA,16.2,Non-metro,0.76,High Concern
+09/30/2021,8039,Elbert County,CO,31.8,Metro,0.0,Very Low Concern
+09/30/2021,37151,Randolph County,NC,36.7,Metro,0.7,High Concern
+09/30/2021,8005,Arapahoe County,CO,57.4,Metro,0.27,Low Concern
+09/30/2021,29049,Clinton County,MO,40.9,Metro,0.16,Very Low Concern
+09/30/2021,5015,Carroll County,AR,38.2,Non-metro,0.6,Moderate Concern
+09/30/2021,31115,Loup County,NE,25.3,Non-metro,0.0,Very Low Concern
+09/30/2021,5047,Franklin County,AR,42.5,Non-metro,0.59,Moderate Concern
+09/30/2021,1071,Jackson County,AL,40.8,Non-metro,0.57,Moderate Concern
+09/30/2021,16051,Jefferson County,ID,30.9,Metro,0.25,Low Concern
+09/30/2021,55047,Green Lake County,WI,47.9,Non-metro,0.29,Low Concern
+09/30/2021,37183,Wake County,NC,60.8,Metro,0.28,Low Concern
+09/30/2021,27103,Nicollet County,MN,54.3,Metro,0.25,Low Concern
+09/30/2021,27051,Grant County,MN,48.4,Non-metro,0.09,Very Low Concern
+09/30/2021,37189,Watauga County,NC,47.3,Non-metro,0.41,Moderate Concern
+09/30/2021,37049,Craven County,NC,49.4,Metro,0.81,Very High Concern
+09/30/2021,32031,Washoe County,NV,56.0,Metro,0.53,Moderate Concern
+09/30/2021,12059,Holmes County,FL,25.3,Non-metro,0.93,Very High Concern
+09/30/2021,19041,Clay County,IA,46.5,Non-metro,0.34,Low Concern
+09/30/2021,27097,Morrison County,MN,40.7,Non-metro,0.27,Low Concern
+09/30/2021,22119,Webster Parish,LA,36.7,Metro,0.88,Very High Concern
+09/30/2021,18069,Huntington County,IN,45.6,Non-metro,0.12,Very Low Concern
+09/30/2021,46003,Aurora County,SD,41.5,Non-metro,0.27,Low Concern
+09/30/2021,34017,Hudson County,NJ,64.4,Metro,0.64,High Concern
+09/30/2021,19197,Wright County,IA,51.1,Non-metro,0.48,Moderate Concern
+09/30/2021,8079,Mineral County,CO,70.0,Non-metro,0.03,Very Low Concern
+09/30/2021,47017,Carroll County,TN,40.4,Non-metro,0.74,High Concern
+09/30/2021,13171,Lamar County,GA,12.3,Metro,0.49,Moderate Concern
+09/30/2021,6111,Ventura County,CA,61.3,Metro,0.48,Moderate Concern
+09/30/2021,42021,Cambria County,PA,49.3,Metro,0.49,Moderate Concern
+09/30/2021,42091,Montgomery County,PA,59.8,Metro,0.17,Very Low Concern
+09/30/2021,18003,Allen County,IN,46.7,Metro,0.52,Moderate Concern
+09/30/2021,21063,Elliott County,KY,29.2,Non-metro,0.72,High Concern
+09/30/2021,18033,DeKalb County,IN,38.2,Non-metro,0.23,Low Concern
+09/30/2021,42097,Northumberland County,PA,53.0,Non-metro,0.5,Moderate Concern
+09/30/2021,21025,Breathitt County,KY,42.2,Non-metro,0.82,Very High Concern
+09/30/2021,19029,Cass County,IA,52.3,Non-metro,0.2,Very Low Concern
+09/30/2021,26157,Tuscola County,MI,38.9,Non-metro,0.4,Low Concern
+09/30/2021,18129,Posey County,IN,42.6,Metro,0.01,Very Low Concern
+09/30/2021,38067,Pembina County,ND,46.7,Non-metro,0.04,Very Low Concern
+09/30/2021,20075,Hamilton County,KS,32.8,Non-metro,0.26,Low Concern
+09/30/2021,41021,Gilliam County,OR,38.3,Non-metro,0.51,Moderate Concern
+09/30/2021,22095,St. John the Baptist Parish,LA,49.8,Metro,0.75,High Concern
+09/30/2021,6071,San Bernardino County,CA,47.0,Metro,0.9,Very High Concern
+09/30/2021,5057,Hempstead County,AR,28.0,Non-metro,0.95,Very High Concern
+09/30/2021,13035,Butts County,GA,12.4,Metro,0.77,High Concern
+09/30/2021,26029,Charlevoix County,MI,57.5,Non-metro,0.1,Very Low Concern
+09/30/2021,27009,Benton County,MN,33.8,Metro,0.43,Moderate Concern
+09/30/2021,28031,Covington County,MS,43.3,Non-metro,0.79,High Concern
+09/30/2021,40047,Garfield County,OK,41.6,Non-metro,0.59,Moderate Concern
+09/30/2021,56031,Platte County,WY,35.0,Non-metro,0.1,Very Low Concern
+09/30/2021,46099,Minnehaha County,SD,52.1,Metro,0.36,Low Concern
+09/30/2021,27015,Brown County,MN,57.5,Non-metro,0.13,Very Low Concern
+09/30/2021,51079,Greene County,VA,44.5,Metro,0.16,Very Low Concern
+09/30/2021,28131,Stone County,MS,38.1,Non-metro,0.6,High Concern
+09/30/2021,8033,Dolores County,CO,36.5,Non-metro,0.15,Very Low Concern
+09/30/2021,13231,Pike County,GA,13.1,Metro,0.15,Very Low Concern
+09/30/2021,16085,Valley County,ID,51.4,Non-metro,0.09,Very Low Concern
+09/30/2021,38057,Mercer County,ND,33.1,Non-metro,0.1,Very Low Concern
+09/30/2021,31091,Hooker County,NE,37.7,Non-metro,0.15,Very Low Concern
+09/30/2021,28151,Washington County,MS,41.8,Non-metro,0.98,Very High Concern
+09/30/2021,39097,Madison County,OH,44.3,Metro,0.34,Low Concern
+09/30/2021,54061,Monongalia County,WV,15.6,Metro,0.41,Moderate Concern
+09/30/2021,47105,Loudon County,TN,55.5,Metro,0.39,Low Concern
+09/30/2021,19137,Montgomery County,IA,49.7,Non-metro,0.53,Moderate Concern
+09/30/2021,8091,Ouray County,CO,56.9,Non-metro,0.02,Very Low Concern
+09/30/2021,23017,Oxford County,ME,58.4,Non-metro,0.37,Low Concern
+09/30/2021,5055,Greene County,AR,37.2,Non-metro,0.58,Moderate Concern
+09/30/2021,55075,Marinette County,WI,44.5,Non-metro,0.3,Low Concern
+09/30/2021,34041,Warren County,NJ,58.5,Metro,0.22,Low Concern
+09/30/2021,46123,Tripp County,SD,30.6,Non-metro,0.34,Low Concern
+09/30/2021,21001,Adair County,KY,33.6,Non-metro,0.71,High Concern
+09/30/2021,55131,Washington County,WI,50.5,Metro,0.01,Very Low Concern
+09/30/2021,34001,Atlantic County,NJ,56.4,Metro,0.79,High Concern
+09/30/2021,46053,Gregory County,SD,37.2,Non-metro,0.28,Low Concern
+09/30/2021,5143,Washington County,AR,46.0,Metro,0.67,High Concern
+09/30/2021,55043,Grant County,WI,48.9,Non-metro,0.19,Very Low Concern
+09/30/2021,55078,Menominee County,WI,65.7,Non-metro,0.77,High Concern
+09/30/2021,2188,Northwest Arctic Borough,AK,49.4,Non-metro,0.94,Very High Concern
+09/30/2021,24003,Anne Arundel County,MD,66.6,Metro,0.18,Very Low Concern
+09/30/2021,54095,Tyler County,WV,18.4,Non-metro,0.22,Low Concern
+09/30/2021,28063,Jefferson County,MS,58.9,Non-metro,0.96,Very High Concern
+09/30/2021,5027,Columbia County,AR,40.4,Non-metro,0.94,Very High Concern
+09/30/2021,22063,Livingston Parish,LA,33.9,Metro,0.43,Moderate Concern
+09/30/2021,51630,Fredericksburg city,VA,37.7,Metro,0.56,Moderate Concern
+09/30/2021,29021,Buchanan County,MO,32.9,Metro,0.72,High Concern
+09/30/2021,39103,Medina County,OH,56.0,Metro,0.01,Very Low Concern
+09/30/2021,19099,Jasper County,IA,51.5,Non-metro,0.25,Low Concern
+09/30/2021,8097,Pitkin County,CO,69.2,Non-metro,0.07,Very Low Concern
+09/30/2021,1005,Barbour County,AL,35.4,Non-metro,1.0,Very High Concern
+09/30/2021,13133,Greene County,GA,38.7,Non-metro,0.54,Moderate Concern
+09/30/2021,53045,Mason County,WA,51.3,Non-metro,0.64,High Concern
+09/30/2021,30019,Daniels County,MT,35.7,Non-metro,0.02,Very Low Concern
+09/30/2021,54045,Logan County,WV,29.9,Non-metro,0.75,High Concern
+09/30/2021,28035,Forrest County,MS,35.3,Metro,0.94,Very High Concern
+09/30/2021,46085,Lyman County,SD,52.3,Non-metro,0.71,High Concern
+09/30/2021,38093,Stutsman County,ND,45.3,Non-metro,0.24,Low Concern
+09/30/2021,53069,Wahkiakum County,WA,44.5,Non-metro,0.18,Very Low Concern
+09/30/2021,5089,Marion County,AR,30.8,Non-metro,0.52,Moderate Concern
+09/30/2021,46103,Pennington County,SD,40.0,Metro,0.42,Moderate Concern
+09/30/2021,26151,Sanilac County,MI,37.6,Non-metro,0.48,Moderate Concern
+09/30/2021,21033,Caldwell County,KY,44.0,Non-metro,0.5,Moderate Concern
+09/30/2021,47149,Rutherford County,TN,44.5,Metro,0.33,Low Concern
+09/30/2021,17083,Jersey County,IL,47.5,Metro,0.1,Very Low Concern
+09/30/2021,10005,Sussex County,DE,57.9,Metro,0.4,Moderate Concern
+09/30/2021,26155,Shiawassee County,MI,43.7,Non-metro,0.13,Very Low Concern
+09/30/2021,37081,Guilford County,NC,51.4,Metro,0.64,High Concern
+09/30/2021,39055,Geauga County,OH,54.5,Metro,0.09,Very Low Concern
+09/30/2021,26117,Montcalm County,MI,35.5,Metro,0.61,High Concern
+09/30/2021,26087,Lapeer County,MI,40.4,Metro,0.24,Low Concern
+09/30/2021,19141,O'Brien County,IA,45.2,Non-metro,0.23,Low Concern
+09/30/2021,29029,Camden County,MO,40.2,Non-metro,0.34,Low Concern
+09/30/2021,29185,St. Clair County,MO,30.3,Non-metro,0.5,Moderate Concern
+09/30/2021,39007,Ashtabula County,OH,45.3,Non-metro,0.79,High Concern
+09/30/2021,31117,McPherson County,NE,11.7,Non-metro,0.08,Very Low Concern
+09/30/2021,8029,Delta County,CO,41.4,Non-metro,0.69,High Concern
+09/30/2021,38095,Towner County,ND,41.5,Non-metro,0.19,Very Low Concern
+09/30/2021,18113,Noble County,IN,34.5,Non-metro,0.47,Moderate Concern
+09/30/2021,40113,Osage County,OK,29.0,Metro,0.62,High Concern
+09/30/2021,19023,Butler County,IA,52.0,Non-metro,0.02,Very Low Concern
+09/30/2021,17041,Douglas County,IL,39.3,Non-metro,0.44,Moderate Concern
+09/30/2021,17019,Champaign County,IL,53.1,Metro,0.5,Moderate Concern
+09/30/2021,5103,Ouachita County,AR,46.7,Non-metro,0.87,Very High Concern
+09/30/2021,29051,Cole County,MO,47.1,Metro,0.26,Low Concern
+09/30/2021,40043,Dewey County,OK,22.8,Non-metro,0.22,Low Concern
+09/30/2021,11001,District of Columbia,DC,57.2,Metro,0.6,Moderate Concern
+09/30/2021,31077,Greeley County,NE,35.7,Non-metro,0.04,Very Low Concern
+09/30/2021,21027,Breckinridge County,KY,37.6,Non-metro,0.74,High Concern
+09/30/2021,30073,Pondera County,MT,46.0,Non-metro,0.83,Very High Concern
+09/30/2021,13291,Union County,GA,12.0,Non-metro,0.31,Low Concern
+09/30/2021,28069,Kemper County,MS,38.7,Non-metro,0.93,Very High Concern
+09/30/2021,53023,Garfield County,WA,32.9,Non-metro,0.18,Very Low Concern
+09/30/2021,37135,Orange County,NC,64.5,Metro,0.3,Low Concern
+09/30/2021,37193,Wilkes County,NC,38.3,Non-metro,0.69,High Concern
+09/30/2021,51187,Warren County,VA,35.0,Metro,0.26,Low Concern
+09/30/2021,29209,Stone County,MO,34.1,Non-metro,0.35,Low Concern
+09/30/2021,17053,Ford County,IL,45.7,Metro,0.31,Low Concern
+09/30/2021,5039,Dallas County,AR,49.9,Non-metro,0.88,Very High Concern
+09/30/2021,17075,Iroquois County,IL,41.4,Non-metro,0.34,Low Concern
+09/30/2021,37013,Beaufort County,NC,46.5,Non-metro,0.72,High Concern
+09/30/2021,34039,Union County,NJ,59.4,Metro,0.62,High Concern
+09/30/2021,21021,Boyle County,KY,53.6,Non-metro,0.43,Moderate Concern
+09/30/2021,2100,Haines Borough,AK,62.6,Non-metro,0.21,Low Concern
+09/30/2021,6101,Sutter County,CA,48.9,Metro,0.88,Very High Concern
+09/30/2021,33001,Belknap County,NH,55.3,Non-metro,0.08,Very Low Concern
+09/30/2021,21097,Harrison County,KY,42.1,Non-metro,0.51,Moderate Concern
+09/30/2021,36061,New York County,NY,71.4,Metro,0.55,Moderate Concern
+09/30/2021,47047,Fayette County,TN,47.1,Metro,0.26,Low Concern
+09/30/2021,39095,Lucas County,OH,49.6,Metro,0.69,High Concern
+09/30/2021,39165,Warren County,OH,55.5,Metro,0.05,Very Low Concern
+09/30/2021,21193,Perry County,KY,52.6,Non-metro,0.91,Very High Concern
+09/30/2021,49013,Duchesne County,UT,33.7,Non-metro,0.48,Moderate Concern
+09/30/2021,20143,Ottawa County,KS,35.6,Non-metro,0.03,Very Low Concern
+09/30/2021,21233,Webster County,KY,40.0,Non-metro,0.79,High Concern
+09/30/2021,21187,Owen County,KY,33.4,Non-metro,0.53,Moderate Concern
+09/30/2021,5101,Newton County,AR,28.8,Non-metro,0.28,Low Concern
+09/30/2021,1033,Colbert County,AL,41.8,Metro,0.43,Moderate Concern
+09/30/2021,41069,Wheeler County,OR,50.5,Non-metro,0.39,Low Concern
+09/30/2021,31173,Thurston County,NE,55.1,Non-metro,0.89,Very High Concern
+09/30/2021,55115,Shawano County,WI,46.2,Non-metro,0.14,Very Low Concern
+09/30/2021,51051,Dickenson County,VA,39.9,Non-metro,0.68,High Concern
+09/30/2021,31147,Richardson County,NE,46.1,Non-metro,0.1,Very Low Concern
+09/30/2021,47161,Stewart County,TN,35.2,Non-metro,0.41,Moderate Concern
+09/30/2021,36083,Rensselaer County,NY,61.8,Metro,0.34,Low Concern
+09/30/2021,40001,Adair County,OK,27.7,Non-metro,0.9,Very High Concern
+09/30/2021,39143,Sandusky County,OH,46.4,Non-metro,0.4,Low Concern
+09/30/2021,38035,Grand Forks County,ND,48.2,Metro,0.3,Low Concern
+09/30/2021,34005,Burlington County,NJ,64.2,Metro,0.21,Low Concern
+09/30/2021,51075,Goochland County,VA,60.6,Metro,0.05,Very Low Concern
+09/30/2021,29069,Dunklin County,MO,30.8,Non-metro,0.96,Very High Concern
+09/30/2021,13115,Floyd County,GA,15.8,Metro,0.89,Very High Concern
+09/30/2021,47079,Henry County,TN,40.7,Non-metro,0.63,High Concern
+09/30/2021,53013,Columbia County,WA,40.4,Metro,0.31,Low Concern
+09/30/2021,6079,San Luis Obispo County,CA,51.6,Metro,0.37,Low Concern
+09/30/2021,22043,Grant Parish,LA,36.4,Metro,0.63,High Concern
+09/30/2021,28121,Rankin County,MS,45.1,Metro,0.31,Low Concern
+09/30/2021,21131,Leslie County,KY,44.2,Non-metro,0.77,High Concern
+09/30/2021,6023,Humboldt County,CA,56.4,Non-metro,0.76,High Concern
+09/30/2021,27161,Waseca County,MN,49.6,Non-metro,0.25,Low Concern
+09/30/2021,37179,Union County,NC,45.8,Metro,0.19,Very Low Concern
+09/30/2021,21059,Daviess County,KY,49.1,Metro,0.62,High Concern
+09/30/2021,40115,Ottawa County,OK,32.8,Non-metro,0.96,Very High Concern
+09/30/2021,21047,Christian County,KY,28.9,Metro,0.91,Very High Concern
+09/30/2021,2150,Kodiak Island Borough,AK,55.6,Non-metro,0.7,High Concern
+09/30/2021,17031,Cook County,IL,55.7,Metro,0.68,High Concern
+09/30/2021,16039,Elmore County,ID,35.9,Non-metro,0.59,Moderate Concern
+09/30/2021,42027,Centre County,PA,53.4,Metro,0.29,Low Concern
+09/30/2021,49001,Beaver County,UT,37.4,Non-metro,0.25,Low Concern
+09/30/2021,38053,McKenzie County,ND,17.4,Non-metro,0.39,Low Concern
+09/30/2021,19015,Boone County,IA,57.1,Non-metro,0.12,Very Low Concern
+09/30/2021,2220,Sitka City and Borough,AK,68.0,Non-metro,0.4,Moderate Concern
+09/30/2021,17131,Mercer County,IL,48.0,Metro,0.11,Very Low Concern
+09/30/2021,18127,Porter County,IN,50.8,Metro,0.15,Very Low Concern
+09/30/2021,1063,Greene County,AL,41.0,Non-metro,0.99,Very High Concern
+09/30/2021,20053,Ellsworth County,KS,48.6,Non-metro,0.4,Low Concern
+09/30/2021,13087,Decatur County,GA,36.3,Non-metro,0.95,Very High Concern
+09/30/2021,13239,Quitman County,GA,10.8,Non-metro,0.94,Very High Concern
+09/30/2021,51025,Brunswick County,VA,43.9,Non-metro,0.9,Very High Concern
+09/30/2021,22059,La Salle Parish,LA,35.3,Non-metro,0.76,High Concern
+09/30/2021,40141,Tillman County,OK,40.2,Non-metro,0.87,Very High Concern
+09/30/2021,1013,Butler County,AL,33.5,Non-metro,0.87,Very High Concern
+09/30/2021,29091,Howell County,MO,28.2,Non-metro,0.67,High Concern
+09/30/2021,32015,Lander County,NV,32.1,Non-metro,0.83,Very High Concern
+09/30/2021,27055,Houston County,MN,37.9,Metro,0.02,Very Low Concern
+09/30/2021,20163,Rooks County,KS,42.3,Non-metro,0.14,Very Low Concern
+09/30/2021,26141,Presque Isle County,MI,53.1,Non-metro,0.28,Low Concern
+09/30/2021,47131,Obion County,TN,33.0,Non-metro,0.77,High Concern
+09/30/2021,13129,Gordon County,GA,13.8,Non-metro,0.88,Very High Concern
+09/30/2021,54091,Taylor County,WV,4.3,Non-metro,0.49,Moderate Concern
+09/30/2021,47095,Lake County,TN,28.5,Non-metro,0.92,Very High Concern
+09/30/2021,54097,Upshur County,WV,8.3,Non-metro,0.69,High Concern
+09/30/2021,46119,Sully County,SD,31.4,Non-metro,0.01,Very Low Concern
+09/30/2021,18075,Jay County,IN,33.9,Non-metro,0.67,High Concern
+09/30/2021,21121,Knox County,KY,30.8,Non-metro,0.83,Very High Concern
+09/30/2021,39141,Ross County,OH,43.8,Non-metro,0.73,High Concern
+09/30/2021,20019,Chautauqua County,KS,36.0,Non-metro,0.72,High Concern
+09/30/2021,51199,York County,VA,50.6,Metro,0.2,Very Low Concern
+09/30/2021,6083,Santa Barbara County,CA,59.5,Metro,0.71,High Concern
+09/30/2021,29065,Dent County,MO,26.9,Non-metro,0.63,High Concern
+09/30/2021,22025,Catahoula Parish,LA,34.7,Non-metro,0.78,High Concern
+09/30/2021,29127,Marion County,MO,37.4,Non-metro,0.55,Moderate Concern
+09/30/2021,13173,Lanier County,GA,10.8,Metro,0.87,Very High Concern
+09/30/2021,42003,Allegheny County,PA,59.6,Metro,0.25,Low Concern
+09/30/2021,40067,Jefferson County,OK,35.4,Non-metro,0.87,Very High Concern
+09/30/2021,50019,Orleans County,VT,50.4,Non-metro,0.43,Moderate Concern
+09/30/2021,5013,Calhoun County,AR,31.4,Non-metro,0.55,Moderate Concern
+09/30/2021,4027,Yuma County,AZ,56.3,Metro,0.99,Very High Concern
+09/30/2021,45063,Lexington County,SC,46.3,Metro,0.44,Moderate Concern
+09/30/2021,51610,Falls Church city,VA,54.0,Metro,0.14,Very Low Concern
+09/30/2021,19157,Poweshiek County,IA,51.9,Non-metro,0.15,Very Low Concern
+09/30/2021,46005,Beadle County,SD,36.5,Non-metro,0.65,High Concern
+09/30/2021,8065,Lake County,CO,52.2,Non-metro,0.45,Moderate Concern
+09/30/2021,34037,Sussex County,NJ,55.0,Metro,0.02,Very Low Concern
+09/30/2021,28081,Lee County,MS,38.2,Non-metro,0.8,High Concern
+09/30/2021,1025,Clarke County,AL,44.1,Non-metro,0.85,Very High Concern
+09/30/2021,51095,James City County,VA,50.5,Metro,0.12,Very Low Concern
+09/30/2021,46007,Bennett County,SD,42.9,Non-metro,0.79,High Concern
+09/30/2021,26017,Bay County,MI,49.9,Metro,0.44,Moderate Concern
+09/30/2021,5091,Miller County,AR,12.4,Metro,0.91,Very High Concern
+09/30/2021,27095,Mille Lacs County,MN,49.4,Metro,0.59,Moderate Concern
+09/30/2021,13273,Terrell County,GA,23.2,Metro,0.96,Very High Concern
+09/30/2021,1043,Cullman County,AL,33.4,Non-metro,0.52,Moderate Concern
+09/30/2021,31007,Banner County,NE,24.6,Non-metro,0.0,Very Low Concern
+09/30/2021,8073,Lincoln County,CO,30.7,Non-metro,0.49,Moderate Concern
+09/30/2021,30095,Stillwater County,MT,37.1,Non-metro,0.04,Very Low Concern
+09/30/2021,19003,Adams County,IA,47.9,Non-metro,0.04,Very Low Concern
+09/30/2021,29187,St. Francois County,MO,37.0,Non-metro,0.7,High Concern
+09/30/2021,21171,Monroe County,KY,39.1,Non-metro,0.7,High Concern
+09/30/2021,38051,McIntosh County,ND,37.3,Non-metro,0.11,Very Low Concern
+09/30/2021,13295,Walker County,GA,21.5,Metro,0.64,High Concern
+09/30/2021,19081,Hancock County,IA,44.2,Non-metro,0.07,Very Low Concern
+09/30/2021,39019,Carroll County,OH,38.2,Metro,0.15,Very Low Concern
+09/30/2021,55003,Ashland County,WI,60.6,Non-metro,0.55,Moderate Concern
+09/30/2021,29097,Jasper County,MO,41.7,Metro,0.66,High Concern
+09/30/2021,13161,Jeff Davis County,GA,10.2,Non-metro,0.94,Very High Concern
+09/30/2021,5011,Bradley County,AR,49.3,Non-metro,0.98,Very High Concern
+09/30/2021,31035,Clay County,NE,37.0,Non-metro,0.16,Very Low Concern
+09/30/2021,31043,Dakota County,NE,53.5,Metro,0.86,Very High Concern
+09/30/2021,1125,Tuscaloosa County,AL,37.3,Metro,0.63,High Concern
+09/30/2021,38081,Sargent County,ND,52.6,Non-metro,0.02,Very Low Concern
+09/30/2021,8071,Las Animas County,CO,53.2,Non-metro,0.84,Very High Concern
+09/30/2021,41035,Klamath County,OR,43.4,Non-metro,0.87,Very High Concern
+09/30/2021,46075,Jones County,SD,52.2,Non-metro,0.01,Very Low Concern
+09/30/2021,1079,Lawrence County,AL,40.3,Metro,0.5,Moderate Concern
+09/30/2021,45009,Bamberg County,SC,42.3,Non-metro,0.95,Very High Concern
+09/30/2021,13257,Stephens County,GA,11.9,Non-metro,0.8,High Concern
+09/30/2021,24039,Somerset County,MD,43.3,Metro,0.9,Very High Concern
+09/30/2021,13287,Turner County,GA,19.9,Non-metro,0.98,Very High Concern
+09/30/2021,51085,Hanover County,VA,54.3,Metro,0.02,Very Low Concern
+09/30/2021,55027,Dodge County,WI,45.2,Non-metro,0.2,Low Concern
+09/30/2021,46077,Kingsbury County,SD,56.4,Non-metro,0.02,Very Low Concern
+09/30/2021,27065,Kanabec County,MN,35.5,Non-metro,0.28,Low Concern
+09/30/2021,17123,Marshall County,IL,46.2,Metro,0.05,Very Low Concern
+09/30/2021,42055,Franklin County,PA,43.2,Metro,0.34,Low Concern
+09/30/2021,19125,Marion County,IA,46.6,Non-metro,0.19,Very Low Concern
+09/30/2021,53057,Skagit County,WA,57.6,Metro,0.54,Moderate Concern
+09/30/2021,41027,Hood River County,OR,73.2,Non-metro,0.55,Moderate Concern
+09/30/2021,24025,Harford County,MD,61.6,Metro,0.09,Very Low Concern
+09/30/2021,31171,Thomas County,NE,21.6,Non-metro,0.0,Very Low Concern
+09/30/2021,13215,Muscogee County,GA,30.7,Metro,0.9,Very High Concern
+09/30/2021,30045,Judith Basin County,MT,33.8,Non-metro,0.02,Very Low Concern
+09/30/2021,27091,Martin County,MN,48.3,Non-metro,0.19,Very Low Concern
+09/30/2021,37147,Pitt County,NC,44.7,Metro,0.82,Very High Concern
+09/30/2021,38055,McLean County,ND,38.6,Non-metro,0.08,Very Low Concern
+09/30/2021,21039,Carlisle County,KY,35.3,Non-metro,0.34,Low Concern
+09/30/2021,53043,Lincoln County,WA,45.6,Non-metro,0.2,Very Low Concern
+09/30/2021,49005,Cache County,UT,44.9,Metro,0.32,Low Concern
+09/30/2021,29510,St. Louis city,MO,47.9,Metro,0.78,High Concern
+09/30/2021,39071,Highland County,OH,32.4,Non-metro,0.69,High Concern
+09/30/2021,17185,Wabash County,IL,41.9,Non-metro,0.32,Low Concern
+09/30/2021,31163,Sherman County,NE,35.7,Non-metro,0.07,Very Low Concern
+09/30/2021,47109,McNairy County,TN,41.2,Non-metro,0.72,High Concern
+09/30/2021,42089,Monroe County,PA,53.1,Metro,0.31,Low Concern
+09/30/2021,31141,Platte County,NE,39.7,Non-metro,0.3,Low Concern
+09/30/2021,21029,Bullitt County,KY,42.7,Metro,0.14,Very Low Concern
+09/30/2021,22067,Morehouse Parish,LA,38.4,Non-metro,0.88,Very High Concern
+09/30/2021,16029,Caribou County,ID,31.0,Non-metro,0.19,Very Low Concern
+09/30/2021,13101,Echols County,GA,13.7,Metro,0.66,High Concern
+09/30/2021,39169,Wayne County,OH,39.4,Non-metro,0.48,Moderate Concern
+09/30/2021,32013,Humboldt County,NV,35.2,Non-metro,0.59,Moderate Concern
+09/30/2021,51179,Stafford County,VA,47.5,Metro,0.15,Very Low Concern
+09/30/2021,17067,Hancock County,IL,39.9,Non-metro,0.12,Very Low Concern
+09/30/2021,1115,St. Clair County,AL,33.3,Metro,0.37,Low Concern
+09/30/2021,18167,Vigo County,IN,44.4,Metro,0.73,High Concern
+09/30/2021,17151,Pope County,IL,26.4,Non-metro,0.45,Moderate Concern
+09/30/2021,28139,Tippah County,MS,36.2,Non-metro,0.86,Very High Concern
+09/30/2021,28047,Harrison County,MS,45.0,Metro,0.88,Very High Concern
+09/30/2021,17159,Richland County,IL,39.7,Non-metro,0.41,Moderate Concern
+09/30/2021,5129,Searcy County,AR,34.6,Non-metro,0.44,Moderate Concern
+09/30/2021,38009,Bottineau County,ND,42.9,Non-metro,0.07,Very Low Concern
+09/30/2021,12019,Clay County,FL,42.0,Metro,0.38,Low Concern
+09/30/2021,6029,Kern County,CA,41.8,Metro,0.97,Very High Concern
+09/30/2021,19193,Woodbury County,IA,48.4,Metro,0.7,High Concern
+09/30/2021,30097,Sweet Grass County,MT,35.9,Non-metro,0.01,Very Low Concern
+09/30/2021,13169,Jones County,GA,21.8,Metro,0.38,Low Concern
+09/30/2021,28085,Lincoln County,MS,33.3,Non-metro,0.76,High Concern
+09/30/2021,22055,Lafayette Parish,LA,43.4,Metro,0.62,High Concern
+09/30/2021,39073,Hocking County,OH,40.7,Metro,0.47,Moderate Concern
+09/30/2021,18027,Daviess County,IN,28.9,Non-metro,0.69,High Concern
+09/30/2021,13163,Jefferson County,GA,29.2,Non-metro,0.94,Very High Concern
+09/30/2021,27089,Marshall County,MN,38.2,Non-metro,0.14,Very Low Concern
+09/30/2021,47031,Coffee County,TN,38.3,Non-metro,0.49,Moderate Concern
+09/30/2021,17017,Cass County,IL,49.0,Non-metro,0.7,High Concern
+09/30/2021,36015,Chemung County,NY,51.3,Metro,0.49,Moderate Concern
+09/30/2021,22071,Orleans Parish,LA,59.5,Metro,0.74,High Concern
+09/30/2021,28163,Yazoo County,MS,42.1,Metro,1.0,Very High Concern
+09/30/2021,51680,Lynchburg city,VA,30.2,Metro,0.74,High Concern
+09/30/2021,21141,Logan County,KY,45.3,Non-metro,0.53,Moderate Concern
+09/30/2021,36109,Tompkins County,NY,70.1,Metro,0.35,Low Concern
+09/30/2021,13277,Tift County,GA,19.7,Non-metro,0.88,Very High Concern
+09/30/2021,51013,Arlington County,VA,66.7,Metro,0.14,Very Low Concern
+09/30/2021,21101,Henderson County,KY,43.3,Metro,0.71,High Concern
+09/30/2021,29227,Worth County,MO,35.7,Non-metro,0.22,Low Concern
+09/30/2021,37011,Avery County,NC,46.0,Non-metro,0.64,High Concern
+09/30/2021,55133,Waukesha County,WI,61.3,Metro,0.02,Very Low Concern
+09/30/2021,42107,Schuylkill County,PA,54.5,Non-metro,0.45,Moderate Concern
+09/30/2021,47143,Rhea County,TN,36.6,Non-metro,0.82,Very High Concern
+09/30/2021,19167,Sioux County,IA,36.9,Non-metro,0.22,Low Concern
+09/30/2021,20027,Clay County,KS,49.8,Non-metro,0.05,Very Low Concern
+09/30/2021,56013,Fremont County,WY,50.4,Non-metro,0.56,Moderate Concern
+09/30/2021,12041,Gilchrist County,FL,31.7,Metro,0.76,High Concern
+09/30/2021,42017,Bucks County,PA,62.5,Metro,0.08,Very Low Concern
+09/30/2021,2060,Bristol Bay Borough,AK,89.5,Non-metro,0.35,Low Concern
+09/30/2021,17115,Macon County,IL,42.2,Metro,0.6,Moderate Concern
+09/30/2021,2070,Dillingham Census Area,AK,41.9,Non-metro,0.87,Very High Concern
+09/30/2021,21151,Madison County,KY,44.4,Non-metro,0.5,Moderate Concern
+09/30/2021,51127,New Kent County,VA,46.9,Metro,0.01,Very Low Concern
+09/30/2021,42023,Cameron County,PA,51.8,Non-metro,0.3,Low Concern
+09/30/2021,5029,Conway County,AR,47.2,Non-metro,0.76,High Concern
+09/30/2021,49003,Box Elder County,UT,38.7,Metro,0.16,Very Low Concern
+09/30/2021,54109,Wyoming County,WV,35.5,Non-metro,0.64,High Concern
+09/30/2021,37111,McDowell County,NC,41.2,Non-metro,0.79,High Concern
+09/30/2021,50017,Orange County,VT,45.5,Non-metro,0.17,Very Low Concern
+09/30/2021,17081,Jefferson County,IL,34.8,Non-metro,0.81,Very High Concern
+09/30/2021,39003,Allen County,OH,37.1,Metro,0.58,Moderate Concern
+09/30/2021,31031,Cherry County,NE,29.5,Non-metro,0.23,Low Concern
+09/30/2021,16017,Bonner County,ID,35.8,Non-metro,0.24,Low Concern
+09/30/2021,20151,Pratt County,KS,42.5,Non-metro,0.39,Low Concern
+09/30/2021,26047,Emmet County,MI,64.4,Non-metro,0.14,Very Low Concern
+09/30/2021,41063,Wallowa County,OR,52.3,Non-metro,0.5,Moderate Concern
+09/30/2021,22109,Terrebonne Parish,LA,38.1,Metro,0.9,Very High Concern
+09/30/2021,47113,Madison County,TN,47.0,Metro,0.71,High Concern
+09/30/2021,45053,Jasper County,SC,31.1,Metro,0.94,Very High Concern
+09/30/2021,41001,Baker County,OR,64.5,Non-metro,0.69,High Concern
+09/30/2021,22065,Madison Parish,LA,36.1,Non-metro,0.97,Very High Concern
+09/30/2021,4021,Pinal County,AZ,44.3,Metro,0.86,Very High Concern
+09/30/2021,28071,Lafayette County,MS,48.6,Non-metro,0.51,Moderate Concern
+09/30/2021,31001,Adams County,NE,36.7,Non-metro,0.36,Low Concern
+09/30/2021,20037,Crawford County,KS,41.5,Non-metro,0.7,High Concern
+09/30/2021,8049,Grand County,CO,55.2,Non-metro,0.1,Very Low Concern
+09/30/2021,17121,Marion County,IL,36.4,Non-metro,0.74,High Concern
+09/30/2021,45037,Edgefield County,SC,50.5,Metro,0.85,Very High Concern
+09/30/2021,13269,Taylor County,GA,26.2,Non-metro,0.92,Very High Concern
+09/30/2021,1107,Pickens County,AL,41.0,Metro,0.92,Very High Concern
+09/30/2021,32019,Lyon County,NV,35.4,Non-metro,0.58,Moderate Concern
+09/30/2021,20117,Marshall County,KS,55.7,Non-metro,0.13,Very Low Concern
+09/30/2021,47147,Robertson County,TN,43.7,Metro,0.43,Moderate Concern
+09/30/2021,19117,Lucas County,IA,40.5,Non-metro,0.28,Low Concern
+09/30/2021,31071,Garfield County,NE,26.5,Non-metro,0.04,Very Low Concern
+09/30/2021,51019,Bedford County,VA,40.4,Metro,0.1,Very Low Concern
+09/30/2021,47003,Bedford County,TN,34.3,Non-metro,0.78,High Concern
+09/30/2021,47177,Warren County,TN,34.1,Non-metro,0.83,Very High Concern
+09/30/2021,13005,Bacon County,GA,11.5,Non-metro,0.94,Very High Concern
+09/30/2021,1077,Lauderdale County,AL,40.1,Metro,0.45,Moderate Concern
+09/30/2021,39087,Lawrence County,OH,37.7,Metro,0.56,Moderate Concern
+09/30/2021,54081,Raleigh County,WV,21.2,Metro,0.77,High Concern
+09/30/2021,53055,San Juan County,WA,73.2,Non-metro,0.09,Very Low Concern
+09/30/2021,16015,Boise County,ID,27.3,Metro,0.07,Very Low Concern
+09/30/2021,18079,Jennings County,IN,35.3,Non-metro,0.38,Low Concern
+09/30/2021,13083,Dade County,GA,19.1,Metro,0.52,Moderate Concern
+09/30/2021,6031,Kings County,CA,35.9,Metro,0.97,Very High Concern
+09/30/2021,22079,Rapides Parish,LA,42.0,Metro,0.91,Very High Concern
+09/30/2021,28137,Tate County,MS,37.0,Metro,0.87,Very High Concern
+09/30/2021,56043,Washakie County,WY,34.9,Non-metro,0.37,Low Concern
+09/30/2021,22121,West Baton Rouge Parish,LA,46.6,Metro,0.76,High Concern
+09/30/2021,13267,Tattnall County,GA,12.7,Non-metro,0.91,Very High Concern
+09/30/2021,29035,Carter County,MO,28.7,Non-metro,0.75,High Concern
+09/30/2021,6041,Marin County,CA,76.9,Metro,0.27,Low Concern
+09/30/2021,39159,Union County,OH,53.3,Metro,0.08,Very Low Concern
+09/30/2021,45013,Beaufort County,SC,55.5,Metro,0.4,Moderate Concern
+09/30/2021,2198,Prince of Wales-Hyder Census Area,AK,47.5,Non-metro,0.77,High Concern
+09/30/2021,39075,Holmes County,OH,16.0,Non-metro,0.44,Moderate Concern
+09/30/2021,53011,Clark County,WA,55.4,Metro,0.29,Low Concern
+09/30/2021,40103,Noble County,OK,53.4,Non-metro,0.34,Low Concern
+09/30/2021,54009,Brooke County,WV,21.4,Metro,0.33,Low Concern
+09/30/2021,54063,Monroe County,WV,29.2,Non-metro,0.47,Moderate Concern
+09/30/2021,31039,Cuming County,NE,46.0,Non-metro,0.19,Very Low Concern
+09/30/2021,25019,Nantucket County,MA,1.3,Non-metro,0.03,Very Low Concern
+09/30/2021,37185,Warren County,NC,32.7,Non-metro,0.89,Very High Concern
+09/30/2021,51071,Giles County,VA,40.5,Metro,0.27,Low Concern
+09/30/2021,55069,Lincoln County,WI,48.9,Non-metro,0.1,Very Low Concern
+09/30/2021,18051,Gibson County,IN,41.6,Non-metro,0.32,Low Concern
+09/30/2021,28099,Neshoba County,MS,33.7,Non-metro,0.97,Very High Concern
+09/30/2021,36113,Warren County,NY,68.8,Metro,0.17,Very Low Concern
+09/30/2021,21203,Rockcastle County,KY,32.2,Non-metro,0.79,High Concern
+09/30/2021,20129,Morton County,KS,33.4,Non-metro,0.41,Moderate Concern
+09/30/2021,17055,Franklin County,IL,35.4,Non-metro,0.61,High Concern
+09/30/2021,54003,Berkeley County,WV,30.1,Metro,0.44,Moderate Concern
+09/30/2021,46035,Davison County,SD,41.1,Non-metro,0.23,Low Concern
+09/30/2021,46027,Clay County,SD,55.5,Non-metro,0.25,Low Concern
+09/30/2021,29215,Texas County,MO,28.7,Non-metro,0.83,Very High Concern
+09/30/2021,36097,Schuyler County,NY,55.7,Non-metro,0.37,Low Concern
+09/30/2021,56037,Sweetwater County,WY,36.5,Non-metro,0.37,Low Concern
+09/30/2021,5071,Johnson County,AR,41.7,Non-metro,0.88,Very High Concern
+09/30/2021,20141,Osborne County,KS,37.4,Non-metro,0.07,Very Low Concern
+09/30/2021,21231,Wayne County,KY,34.5,Non-metro,0.75,High Concern
+09/30/2021,37175,Transylvania County,NC,48.0,Non-metro,0.4,Low Concern
+09/30/2021,19073,Greene County,IA,51.5,Non-metro,0.2,Very Low Concern
+09/30/2021,8037,Eagle County,CO,70.5,Non-metro,0.14,Very Low Concern
+09/30/2021,38001,Adams County,ND,42.5,Non-metro,0.03,Very Low Concern
+09/30/2021,38039,Griggs County,ND,42.5,Non-metro,0.07,Very Low Concern
+09/30/2021,27125,Red Lake County,MN,46.6,Non-metro,0.15,Very Low Concern
+09/30/2021,22083,Richland Parish,LA,37.4,Non-metro,0.86,Very High Concern
+09/30/2021,13205,Mitchell County,GA,19.0,Non-metro,0.99,Very High Concern
+09/30/2021,55035,Eau Claire County,WI,54.6,Metro,0.22,Low Concern
+09/30/2021,20043,Doniphan County,KS,41.7,Metro,0.23,Low Concern
+09/30/2021,36069,Ontario County,NY,60.6,Metro,0.23,Low Concern
+09/30/2021,54105,Wirt County,WV,5.8,Metro,0.37,Low Concern
+09/30/2021,47015,Cannon County,TN,26.6,Metro,0.37,Low Concern
+09/30/2021,20055,Finney County,KS,35.5,Non-metro,0.82,Very High Concern
+09/30/2021,56015,Goshen County,WY,33.3,Non-metro,0.33,Low Concern
+09/30/2021,18117,Orange County,IN,49.4,Non-metro,0.65,High Concern
+09/30/2021,19009,Audubon County,IA,53.0,Non-metro,0.02,Very Low Concern
+09/30/2021,37009,Ashe County,NC,44.1,Non-metro,0.5,Moderate Concern
+09/30/2021,2185,North Slope Borough,AK,32.4,Non-metro,0.73,High Concern
+09/30/2021,1019,Cherokee County,AL,27.1,Non-metro,0.45,Moderate Concern
+09/30/2021,46029,Codington County,SD,39.0,Non-metro,0.24,Low Concern
+09/30/2021,6087,Santa Cruz County,CA,68.2,Metro,0.54,Moderate Concern
+09/30/2021,49019,Grand County,UT,57.0,Non-metro,0.52,Moderate Concern
+09/30/2021,21199,Pulaski County,KY,41.9,Non-metro,0.74,High Concern
+09/30/2021,2130,Ketchikan Gateway Borough,AK,56.5,Non-metro,0.55,Moderate Concern
+09/30/2021,55107,Rusk County,WI,35.7,Non-metro,0.35,Low Concern
+09/30/2021,27129,Renville County,MN,46.6,Non-metro,0.2,Very Low Concern
+09/30/2021,30085,Roosevelt County,MT,50.1,Non-metro,0.89,Very High Concern
+09/30/2021,20065,Graham County,KS,65.9,Non-metro,0.13,Very Low Concern
+09/30/2021,12095,Orange County,FL,58.9,Metro,0.67,High Concern
+09/30/2021,29201,Scott County,MO,38.3,Non-metro,0.78,High Concern
+09/30/2021,28157,Wilkinson County,MS,55.3,Non-metro,0.92,Very High Concern
+09/30/2021,37063,Durham County,NC,59.3,Metro,0.62,High Concern
+09/30/2021,39137,Putnam County,OH,42.3,Non-metro,0.02,Very Low Concern
+09/30/2021,5041,Desha County,AR,50.5,Non-metro,0.96,Very High Concern
+09/30/2021,39123,Ottawa County,OH,54.9,Non-metro,0.15,Very Low Concern
+09/30/2021,19177,Van Buren County,IA,37.0,Non-metro,0.25,Low Concern
+09/30/2021,17033,Crawford County,IL,42.1,Non-metro,0.38,Low Concern
+09/30/2021,49015,Emery County,UT,36.7,Non-metro,0.26,Low Concern
+09/30/2021,16079,Shoshone County,ID,36.3,Non-metro,0.76,High Concern
+09/30/2021,6115,Yuba County,CA,41.6,Metro,0.94,Very High Concern
+09/30/2021,26045,Eaton County,MI,48.6,Metro,0.31,Low Concern
+09/30/2021,50013,Grand Isle County,VT,70.2,Metro,0.0,Very Low Concern
+09/30/2021,39151,Stark County,OH,47.3,Metro,0.37,Low Concern
+09/30/2021,20109,Logan County,KS,41.2,Non-metro,0.13,Very Low Concern
+09/30/2021,13009,Baldwin County,GA,12.6,Non-metro,0.87,Very High Concern
+09/30/2021,42109,Snyder County,PA,40.5,Non-metro,0.23,Low Concern
+09/30/2021,45089,Williamsburg County,SC,48.9,Non-metro,0.97,Very High Concern
+09/30/2021,1039,Covington County,AL,32.5,Non-metro,0.77,High Concern
+09/30/2021,20123,Mitchell County,KS,48.0,Non-metro,0.28,Low Concern
+09/30/2021,20175,Seward County,KS,37.5,Non-metro,0.91,Very High Concern
+09/30/2021,1003,Baldwin County,AL,42.5,Metro,0.22,Low Concern
+09/30/2021,12115,Sarasota County,FL,62.4,Metro,0.25,Low Concern
+09/30/2021,12067,Lafayette County,FL,34.2,Non-metro,0.98,Very High Concern
+09/30/2021,17145,Perry County,IL,35.5,Non-metro,0.65,High Concern
+09/30/2021,28033,DeSoto County,MS,44.0,Metro,0.3,Low Concern
+09/30/2021,30033,Garfield County,MT,17.2,Non-metro,0.01,Very Low Concern
+09/30/2021,18181,White County,IN,48.9,Non-metro,0.24,Low Concern
+09/30/2021,17127,Massac County,IL,30.9,Non-metro,0.75,High Concern
+09/30/2021,18019,Clark County,IN,53.8,Metro,0.25,Low Concern
+09/30/2021,47183,Weakley County,TN,31.7,Non-metro,0.66,High Concern
+09/30/2021,40035,Craig County,OK,45.2,Non-metro,0.85,Very High Concern
+09/30/2021,55081,Monroe County,WI,45.5,Non-metro,0.46,Moderate Concern
+09/30/2021,40025,Cimarron County,OK,25.1,Non-metro,0.45,Moderate Concern
+09/30/2021,9003,Hartford County,CT,66.0,Metro,0.51,Moderate Concern
+09/30/2021,19187,Webster County,IA,50.7,Non-metro,0.46,Moderate Concern
+09/30/2021,17133,Monroe County,IL,50.6,Metro,0.0,Very Low Concern
+09/30/2021,4015,Mohave County,AZ,35.3,Metro,0.86,Very High Concern
+09/30/2021,27037,Dakota County,MN,58.7,Metro,0.12,Very Low Concern
+09/30/2021,19151,Pocahontas County,IA,47.2,Non-metro,0.15,Very Low Concern
+09/30/2021,42015,Bradford County,PA,36.8,Non-metro,0.35,Low Concern
+09/30/2021,19165,Shelby County,IA,53.3,Non-metro,0.13,Very Low Concern
+09/30/2021,42121,Venango County,PA,38.7,Non-metro,0.42,Moderate Concern
+09/30/2021,28073,Lamar County,MS,51.3,Metro,0.53,Moderate Concern
+09/30/2021,29023,Butler County,MO,29.3,Non-metro,0.82,Very High Concern
+09/30/2021,17093,Kendall County,IL,52.0,Metro,0.14,Very Low Concern
+09/30/2021,53053,Pierce County,WA,53.5,Metro,0.49,Moderate Concern
+09/30/2021,13125,Glascock County,GA,12.4,Non-metro,0.69,High Concern
+09/30/2021,55097,Portage County,WI,54.3,Non-metro,0.17,Very Low Concern
+09/30/2021,39053,Gallia County,OH,38.6,Non-metro,0.66,High Concern
+09/30/2021,17009,Brown County,IL,30.6,Non-metro,0.47,Moderate Concern
+09/30/2021,29013,Bates County,MO,34.0,Metro,0.39,Low Concern
+09/30/2021,47075,Haywood County,TN,43.2,Non-metro,0.87,Very High Concern
+09/30/2021,26005,Allegan County,MI,44.2,Non-metro,0.18,Very Low Concern
+09/30/2021,39049,Franklin County,OH,55.1,Metro,0.51,Moderate Concern
+09/30/2021,47157,Shelby County,TN,44.4,Metro,0.78,High Concern
+09/30/2021,20185,Stafford County,KS,39.1,Non-metro,0.28,Low Concern
+09/30/2021,21217,Taylor County,KY,46.0,Non-metro,0.72,High Concern
+09/30/2021,22027,Claiborne Parish,LA,35.6,Non-metro,0.95,Very High Concern
+09/30/2021,39099,Mahoning County,OH,49.6,Metro,0.59,Moderate Concern
+09/30/2021,2261,Valdez-Cordova Census Area,AK,50.6,,0.27,Low Concern
+09/30/2021,47055,Giles County,TN,32.8,Non-metro,0.6,High Concern
+09/30/2021,51067,Franklin County,VA,39.2,Metro,0.4,Moderate Concern
+09/30/2021,8013,Boulder County,CO,68.2,Metro,0.17,Very Low Concern
+09/30/2021,22015,Bossier Parish,LA,39.4,Metro,0.59,Moderate Concern
+09/30/2021,13279,Toombs County,GA,18.6,Non-metro,0.98,Very High Concern
+09/30/2021,28105,Oktibbeha County,MS,45.5,Non-metro,0.64,High Concern
+09/30/2021,51161,Roanoke County,VA,47.1,Metro,0.13,Very Low Concern
+09/30/2021,40131,Rogers County,OK,39.7,Metro,0.28,Low Concern
+09/30/2021,13201,Miller County,GA,20.0,Non-metro,0.78,High Concern
+09/30/2021,21071,Floyd County,KY,48.7,Non-metro,0.85,Very High Concern
+09/30/2021,31105,Kimball County,NE,31.3,Non-metro,0.56,Moderate Concern
+09/30/2021,26031,Cheboygan County,MI,45.6,Non-metro,0.29,Low Concern
+09/30/2021,18047,Franklin County,IN,32.1,Non-metro,0.15,Very Low Concern
+09/30/2021,5095,Monroe County,AR,47.3,Non-metro,0.85,Very High Concern
+09/30/2021,29165,Platte County,MO,47.9,Metro,0.1,Very Low Concern
+09/30/2021,51181,Surry County,VA,48.4,Non-metro,0.37,Low Concern
+09/30/2021,26079,Kalkaska County,MI,41.7,Non-metro,0.51,Moderate Concern
+09/30/2021,16087,Washington County,ID,33.3,Non-metro,0.85,Very High Concern
+09/30/2021,8009,Baca County,CO,34.9,Non-metro,0.61,High Concern
+09/30/2021,22123,West Carroll Parish,LA,36.1,Non-metro,0.67,High Concern
+09/30/2021,13193,Macon County,GA,17.0,Non-metro,0.93,Very High Concern
+09/30/2021,47165,Sumner County,TN,40.6,Metro,0.21,Low Concern
+09/30/2021,28053,Humphreys County,MS,48.4,Non-metro,0.94,Very High Concern
+09/30/2021,20145,Pawnee County,KS,47.0,Non-metro,0.29,Low Concern
+09/30/2021,4025,Yavapai County,AZ,39.4,Metro,0.52,Moderate Concern
+09/30/2021,6073,San Diego County,CA,49.7,Metro,0.56,Moderate Concern
+09/30/2021,42113,Sullivan County,PA,43.4,Non-metro,0.36,Low Concern
+09/30/2021,27111,Otter Tail County,MN,42.3,Non-metro,0.21,Low Concern
+09/30/2021,46137,Ziebach County,SD,24.1,Non-metro,0.95,Very High Concern
+09/30/2021,42053,Forest County,PA,67.5,Non-metro,0.71,High Concern
+09/30/2021,51163,Rockbridge County,VA,43.8,Non-metro,0.14,Very Low Concern
+09/30/2021,18071,Jackson County,IN,46.6,Non-metro,0.54,Moderate Concern
+09/30/2021,17059,Gallatin County,IL,44.3,Non-metro,0.45,Moderate Concern
+09/30/2021,45005,Allendale County,SC,48.8,Non-metro,0.99,Very High Concern
+09/30/2021,13219,Oconee County,GA,26.2,Metro,0.04,Very Low Concern
+09/30/2021,31161,Sheridan County,NE,27.9,Non-metro,0.6,Moderate Concern
+09/30/2021,40073,Kingfisher County,OK,38.7,Non-metro,0.38,Low Concern
+09/30/2021,20073,Greenwood County,KS,43.9,Non-metro,0.21,Low Concern
+09/30/2021,40129,Roger Mills County,OK,31.4,Non-metro,0.4,Moderate Concern
+09/30/2021,38027,Eddy County,ND,46.7,Non-metro,0.29,Low Concern
+09/30/2021,29219,Warren County,MO,36.7,Metro,0.38,Low Concern
+09/30/2021,32023,Nye County,NV,39.6,Non-metro,0.73,High Concern
+09/30/2021,20063,Gove County,KS,43.0,Non-metro,0.1,Very Low Concern
+09/30/2021,37181,Vance County,NC,40.1,Non-metro,0.98,Very High Concern
+09/30/2021,38089,Stark County,ND,30.1,Non-metro,0.21,Low Concern
+09/30/2021,31153,Sarpy County,NE,54.3,Metro,0.1,Very Low Concern
+09/30/2021,13299,Ware County,GA,21.9,Non-metro,0.84,Very High Concern
+09/30/2021,23019,Penobscot County,ME,61.7,Metro,0.45,Moderate Concern
+09/30/2021,28149,Warren County,MS,49.6,Non-metro,0.86,Very High Concern
+09/30/2021,29033,Carroll County,MO,43.7,Non-metro,0.53,Moderate Concern
+09/30/2021,20135,Ness County,KS,44.8,Non-metro,0.15,Very Low Concern
+09/30/2021,38097,Traill County,ND,44.1,Non-metro,0.09,Very Low Concern
+09/30/2021,22103,St. Tammany Parish,LA,49.6,Metro,0.31,Low Concern
+09/30/2021,37169,Stokes County,NC,33.1,Metro,0.31,Low Concern
+09/30/2021,26161,Washtenaw County,MI,62.8,Metro,0.22,Low Concern
+09/30/2021,17119,Madison County,IL,48.3,Metro,0.3,Low Concern
+09/30/2021,18011,Boone County,IN,62.5,Metro,0.04,Very Low Concern
+09/30/2021,1075,Lamar County,AL,37.2,Non-metro,0.63,High Concern
+09/30/2021,4013,Maricopa County,AZ,47.9,Metro,0.64,High Concern
+09/30/2021,28003,Alcorn County,MS,33.0,Non-metro,0.7,High Concern
+09/30/2021,19179,Wapello County,IA,43.1,Non-metro,0.74,High Concern
+09/30/2021,42069,Lackawanna County,PA,64.6,Metro,0.53,Moderate Concern
+09/30/2021,21229,Washington County,KY,46.8,Non-metro,0.51,Moderate Concern
+09/30/2021,51185,Tazewell County,VA,36.7,Non-metro,0.59,Moderate Concern
+09/30/2021,51059,Fairfax County,VA,67.6,Metro,0.19,Very Low Concern
+09/30/2021,42083,McKean County,PA,34.2,Non-metro,0.55,Moderate Concern
+09/30/2021,39079,Jackson County,OH,39.6,Non-metro,0.77,High Concern
+09/30/2021,1055,Etowah County,AL,34.6,Metro,0.66,High Concern
+09/30/2021,20177,Shawnee County,KS,52.9,Metro,0.51,Moderate Concern
+09/30/2021,33017,Strafford County,NH,54.7,Metro,0.17,Very Low Concern
+09/30/2021,26015,Barry County,MI,41.5,Metro,0.09,Very Low Concern
+09/30/2021,41009,Columbia County,OR,52.9,Metro,0.4,Moderate Concern
+09/30/2021,21003,Allen County,KY,36.6,Metro,0.68,High Concern
+09/30/2021,55109,St. Croix County,WI,42.7,Metro,0.01,Very Low Concern
+09/30/2021,47133,Overton County,TN,30.5,Non-metro,0.46,Moderate Concern
+09/30/2021,17039,De Witt County,IL,43.5,Metro,0.13,Very Low Concern
+09/30/2021,30109,Wibaux County,MT,23.7,Non-metro,0.39,Low Concern
+09/30/2021,37015,Bertie County,NC,39.9,Non-metro,0.94,Very High Concern
+09/30/2021,28029,Copiah County,MS,46.1,Metro,0.94,Very High Concern
+09/30/2021,40153,Woodward County,OK,32.7,Non-metro,0.57,Moderate Concern
+09/30/2021,18049,Fulton County,IN,36.0,Non-metro,0.35,Low Concern
+09/30/2021,37087,Haywood County,NC,49.3,Metro,0.28,Low Concern
+09/30/2021,37055,Dare County,NC,64.6,Non-metro,0.14,Very Low Concern
+09/30/2021,40061,Haskell County,OK,35.0,Non-metro,0.87,Very High Concern
+09/30/2021,1001,Autauga County,AL,33.8,Metro,0.44,Moderate Concern
+09/30/2021,2275,Wrangell City and Borough,AK,51.9,Non-metro,0.56,Moderate Concern
+09/30/2021,4009,Graham County,AZ,52.5,Non-metro,0.96,Very High Concern
+09/30/2021,18017,Cass County,IN,39.2,Non-metro,0.72,High Concern
+09/30/2021,21123,Larue County,KY,40.3,Metro,0.53,Moderate Concern
+09/30/2021,25003,Berkshire County,MA,49.5,Metro,0.41,Moderate Concern
+09/30/2021,1047,Dallas County,AL,35.8,Non-metro,0.95,Very High Concern
+09/30/2021,34021,Mercer County,NJ,59.3,Metro,0.56,Moderate Concern
+09/30/2021,34025,Monmouth County,NJ,59.0,Metro,0.16,Very Low Concern
+09/30/2021,6093,Siskiyou County,CA,46.2,Non-metro,0.72,High Concern
+09/30/2021,40041,Delaware County,OK,31.3,Non-metro,0.77,High Concern
+09/30/2021,51073,Gloucester County,VA,51.3,Metro,0.04,Very Low Concern
+09/30/2021,46121,Todd County,SD,44.9,Non-metro,0.96,Very High Concern
+09/30/2021,29143,New Madrid County,MO,28.5,Non-metro,0.9,Very High Concern
+09/30/2021,37165,Scotland County,NC,39.0,Non-metro,0.99,Very High Concern
+09/30/2021,42011,Berks County,PA,53.3,Metro,0.62,High Concern
+09/30/2021,21211,Shelby County,KY,45.3,Metro,0.43,Moderate Concern
+09/30/2021,42073,Lawrence County,PA,48.1,Non-metro,0.47,Moderate Concern
+09/30/2021,8125,Yuma County,CO,36.4,Non-metro,0.56,Moderate Concern
+09/30/2021,8087,Morgan County,CO,39.1,Non-metro,0.74,High Concern
+09/30/2021,13175,Laurens County,GA,22.4,Non-metro,0.8,Very High Concern
+09/30/2021,54017,Doddridge County,WV,4.2,Non-metro,0.36,Low Concern
+09/30/2021,13275,Thomas County,GA,22.4,Non-metro,0.91,Very High Concern
+09/30/2021,19055,Delaware County,IA,47.7,Non-metro,0.03,Very Low Concern
+09/30/2021,21087,Green County,KY,37.1,Non-metro,0.52,Moderate Concern
+09/30/2021,12127,Volusia County,FL,52.6,Metro,0.53,Moderate Concern
+09/30/2021,20181,Sherman County,KS,37.8,Non-metro,0.5,Moderate Concern
+09/30/2021,12105,Polk County,FL,48.0,Metro,0.9,Very High Concern
+09/30/2021,29079,Grundy County,MO,30.9,Non-metro,0.62,High Concern
+09/30/2021,29085,Hickory County,MO,34.6,Non-metro,0.47,Moderate Concern
+09/30/2021,21185,Oldham County,KY,53.5,Metro,0.04,Very Low Concern
+09/30/2021,20007,Barber County,KS,41.0,Non-metro,0.28,Low Concern
+09/30/2021,13053,Chattahoochee County,GA,99.9,Metro,0.64,High Concern
+09/30/2021,36047,Kings County,NY,55.7,Metro,0.82,Very High Concern
+09/30/2021,13187,Lumpkin County,GA,9.5,Non-metro,0.43,Moderate Concern
+09/30/2021,37145,Person County,NC,47.6,Metro,0.77,High Concern
+09/30/2021,22001,Acadia Parish,LA,45.5,Metro,0.92,Very High Concern
+09/30/2021,55071,Manitowoc County,WI,53.0,Non-metro,0.16,Very Low Concern
+09/30/2021,54025,Greenbrier County,WV,34.0,Non-metro,0.56,Moderate Concern
+09/30/2021,25025,Suffolk County,MA,63.0,Metro,0.74,High Concern
+09/30/2021,37031,Carteret County,NC,38.7,Non-metro,0.43,Moderate Concern
+09/30/2021,29103,Knox County,MO,36.0,Non-metro,0.56,Moderate Concern
+09/30/2021,1049,DeKalb County,AL,27.8,Non-metro,0.8,Very High Concern
+09/30/2021,37171,Surry County,NC,42.7,Non-metro,0.73,High Concern
+09/30/2021,22127,Winn Parish,LA,38.6,Non-metro,0.78,High Concern
+09/30/2021,25001,Barnstable County,MA,5.0,Metro,0.06,Very Low Concern
+09/30/2021,20057,Ford County,KS,35.6,Non-metro,0.86,Very High Concern
+09/30/2021,51113,Madison County,VA,48.6,Non-metro,0.16,Very Low Concern
+09/30/2021,12107,Putnam County,FL,34.7,Non-metro,0.95,Very High Concern
+09/30/2021,56025,Natrona County,WY,36.8,Metro,0.3,Low Concern
+09/30/2021,53005,Benton County,WA,46.8,Metro,0.51,Moderate Concern
+09/30/2021,31135,Perkins County,NE,34.4,Non-metro,0.05,Very Low Concern
+09/30/2021,27029,Clearwater County,MN,36.5,Non-metro,0.79,High Concern
+09/30/2021,17139,Moultrie County,IL,35.7,Non-metro,0.29,Low Concern
+09/30/2021,54037,Jefferson County,WV,31.3,Metro,0.23,Low Concern
+09/30/2021,17125,Mason County,IL,42.8,Non-metro,0.29,Low Concern
+09/30/2021,5005,Baxter County,AR,41.5,Non-metro,0.28,Low Concern
+09/30/2021,30075,Powder River County,MT,19.0,Non-metro,0.04,Very Low Concern
+09/30/2021,22007,Assumption Parish,LA,37.0,Non-metro,0.78,High Concern
+09/30/2021,6039,Madera County,CA,43.0,Metro,0.95,Very High Concern
+09/30/2021,16073,Owyhee County,ID,25.9,Metro,0.82,Very High Concern
+09/30/2021,38007,Billings County,ND,19.1,Non-metro,0.03,Very Low Concern
+09/30/2021,33005,Cheshire County,NH,55.7,Non-metro,0.14,Very Low Concern
+09/30/2021,24019,Dorchester County,MD,52.1,Non-metro,0.75,High Concern
+09/30/2021,27135,Roseau County,MN,45.0,Non-metro,0.25,Low Concern
+09/30/2021,55009,Brown County,WI,55.7,Metro,0.33,Low Concern
+09/30/2021,29145,Newton County,MO,22.4,Metro,0.43,Moderate Concern
+09/30/2021,28101,Newton County,MS,44.9,Non-metro,0.92,Very High Concern
+09/30/2021,26065,Ingham County,MI,49.6,Metro,0.57,Moderate Concern
+09/30/2021,2164,Lake and Peninsula Borough,AK,50.3,Non-metro,0.8,High Concern
+09/30/2021,20207,Woodson County,KS,37.2,Non-metro,0.44,Moderate Concern
+09/30/2021,54027,Hampshire County,WV,22.3,Metro,0.64,High Concern
+09/30/2021,39129,Pickaway County,OH,43.6,Metro,0.28,Low Concern
+09/30/2021,18045,Fountain County,IN,41.2,Non-metro,0.2,Low Concern
+09/30/2021,17175,Stark County,IL,45.4,Metro,0.06,Very Low Concern
+09/30/2021,17073,Henry County,IL,48.9,Metro,0.2,Low Concern
+09/30/2021,5117,Prairie County,AR,37.2,Non-metro,0.65,High Concern
+09/30/2021,1069,Houston County,AL,36.4,Metro,0.68,High Concern
+09/30/2021,47103,Lincoln County,TN,35.9,Non-metro,0.68,High Concern
+09/30/2021,45045,Greenville County,SC,46.6,Metro,0.5,Moderate Concern
+09/30/2021,20121,Miami County,KS,41.5,Metro,0.03,Very Low Concern
+09/30/2021,42101,Philadelphia County,PA,50.8,Metro,0.92,Very High Concern
+09/30/2021,39059,Guernsey County,OH,38.8,Non-metro,0.67,High Concern
+09/30/2021,51105,Lee County,VA,43.1,Non-metro,0.81,Very High Concern
+09/30/2021,17063,Grundy County,IL,43.4,Metro,0.08,Very Low Concern
+09/30/2021,18099,Marshall County,IN,39.8,Non-metro,0.58,Moderate Concern
+09/30/2021,51111,Lunenburg County,VA,43.5,Non-metro,0.86,Very High Concern
+09/30/2021,39043,Erie County,OH,52.5,Non-metro,0.29,Low Concern
+09/30/2021,39153,Summit County,OH,55.0,Metro,0.33,Low Concern
+09/30/2021,37053,Currituck County,NC,43.9,Metro,0.12,Very Low Concern
+09/30/2021,27163,Washington County,MN,58.6,Metro,0.07,Very Low Concern
+09/30/2021,39121,Noble County,OH,36.7,Non-metro,0.43,Moderate Concern
+09/30/2021,34015,Gloucester County,NJ,53.1,Metro,0.17,Very Low Concern
+09/30/2021,20205,Wilson County,KS,37.6,Non-metro,0.64,High Concern
+09/30/2021,54101,Webster County,WV,30.5,Non-metro,0.75,High Concern
+09/30/2021,40097,Mayes County,OK,36.4,Non-metro,0.75,High Concern
+09/30/2021,13285,Troup County,GA,19.2,Non-metro,0.9,Very High Concern
+09/30/2021,22051,Jefferson Parish,LA,56.2,Metro,0.61,High Concern
+09/30/2021,42105,Potter County,PA,29.0,Non-metro,0.44,Moderate Concern
+09/30/2021,13281,Towns County,GA,10.7,Non-metro,0.33,Low Concern
+09/30/2021,13031,Bulloch County,GA,24.8,Non-metro,0.81,Very High Concern
+09/30/2021,17105,Livingston County,IL,37.5,Non-metro,0.48,Moderate Concern
+09/30/2021,37105,Lee County,NC,46.9,Non-metro,0.85,Very High Concern
+09/30/2021,16059,Lemhi County,ID,39.3,Non-metro,0.3,Low Concern
+09/30/2021,13167,Johnson County,GA,13.3,Non-metro,0.91,Very High Concern
+09/30/2021,21119,Knott County,KY,41.1,Non-metro,0.85,Very High Concern
+09/30/2021,36023,Cortland County,NY,52.2,Non-metro,0.35,Low Concern
+09/30/2021,12099,Palm Beach County,FL,58.0,Metro,0.56,Moderate Concern
+09/30/2021,5045,Faulkner County,AR,42.3,Metro,0.48,Moderate Concern
+09/30/2021,40037,Creek County,OK,36.9,Metro,0.49,Moderate Concern
+09/30/2021,51600,Fairfax city,VA,55.8,Metro,0.24,Low Concern
+09/30/2021,12091,Okaloosa County,FL,48.2,Metro,0.39,Low Concern
+09/30/2021,26007,Alpena County,MI,46.3,Non-metro,0.34,Low Concern
+09/30/2021,17179,Tazewell County,IL,49.8,Metro,0.11,Very Low Concern
+09/30/2021,8057,Jackson County,CO,39.2,Non-metro,0.11,Very Low Concern
+09/30/2021,17129,Menard County,IL,48.5,Metro,0.05,Very Low Concern
+09/30/2021,20079,Harvey County,KS,39.6,Metro,0.34,Low Concern
+09/30/2021,38023,Divide County,ND,35.7,Non-metro,0.03,Very Low Concern
+09/30/2021,32029,Storey County,NV,18.2,Metro,0.07,Very Low Concern
+09/30/2021,29213,Taney County,MO,35.6,Non-metro,0.82,Very High Concern
+09/30/2021,40143,Tulsa County,OK,52.3,Metro,0.62,High Concern
+09/30/2021,37043,Clay County,NC,33.4,Non-metro,0.22,Low Concern
+09/30/2021,23009,Hancock County,ME,67.5,Non-metro,0.19,Very Low Concern
+09/30/2021,40149,Washita County,OK,33.1,Non-metro,0.4,Moderate Concern
+09/30/2021,45083,Spartanburg County,SC,36.9,Metro,0.76,High Concern
+09/30/2021,47145,Roane County,TN,38.1,Metro,0.38,Low Concern
+09/30/2021,55053,Jackson County,WI,43.6,Non-metro,0.5,Moderate Concern
+09/30/2021,28059,Jackson County,MS,38.2,Metro,0.54,Moderate Concern
+09/30/2021,30093,Silver Bow County,MT,54.7,Non-metro,0.53,Moderate Concern
+09/30/2021,16025,Camas County,ID,35.3,Non-metro,0.13,Very Low Concern
+09/30/2021,5063,Independence County,AR,34.5,Non-metro,0.75,High Concern
+09/30/2021,42005,Armstrong County,PA,51.8,Metro,0.25,Low Concern
+09/30/2021,55089,Ozaukee County,WI,63.2,Metro,0.01,Very Low Concern
+09/30/2021,36029,Erie County,NY,60.3,Metro,0.41,Moderate Concern
+09/30/2021,55031,Douglas County,WI,37.4,Metro,0.27,Low Concern
+09/30/2021,38013,Burke County,ND,33.7,Non-metro,0.01,Very Low Concern
+09/30/2021,18173,Warrick County,IN,56.3,Metro,0.07,Very Low Concern
+09/30/2021,19127,Marshall County,IA,56.1,Non-metro,0.69,High Concern
+09/30/2021,31053,Dodge County,NE,46.0,Non-metro,0.57,Moderate Concern
+09/30/2021,20025,Clark County,KS,41.2,Non-metro,0.31,Low Concern
+09/30/2021,17069,Hardin County,IL,34.8,Non-metro,0.5,Moderate Concern
+09/30/2021,36065,Oneida County,NY,53.9,Metro,0.69,High Concern
+09/30/2021,8067,La Plata County,CO,62.7,Non-metro,0.11,Very Low Concern
+09/30/2021,47085,Humphreys County,TN,33.7,Non-metro,0.37,Low Concern
+09/30/2021,12085,Martin County,FL,56.4,Metro,0.4,Low Concern
+09/30/2021,12117,Seminole County,FL,53.9,Metro,0.18,Very Low Concern
+09/30/2021,19131,Mitchell County,IA,44.0,Non-metro,0.09,Very Low Concern
+09/30/2021,42031,Clarion County,PA,40.2,Non-metro,0.48,Moderate Concern
+09/30/2021,17155,Putnam County,IL,47.2,Non-metro,0.03,Very Low Concern
+09/30/2021,54087,Roane County,WV,5.2,Non-metro,0.65,High Concern
+09/30/2021,51175,Southampton County,VA,34.7,Non-metro,0.48,Moderate Concern
+09/30/2021,22097,St. Landry Parish,LA,35.4,Non-metro,0.92,Very High Concern
+09/30/2021,24047,Worcester County,MD,63.6,Metro,0.28,Low Concern
+09/30/2021,32027,Pershing County,NV,31.4,Non-metro,0.9,Very High Concern
+09/30/2021,29199,Scotland County,MO,23.1,Non-metro,0.53,Moderate Concern
+09/30/2021,38041,Hettinger County,ND,33.6,Non-metro,0.06,Very Low Concern
+09/30/2021,21181,Nicholas County,KY,45.9,Non-metro,0.82,Very High Concern
+09/30/2021,37161,Rutherford County,NC,34.0,Non-metro,0.76,High Concern
+09/30/2021,39045,Fairfield County,OH,49.1,Metro,0.24,Low Concern
+09/30/2021,21007,Ballard County,KY,31.1,Non-metro,0.45,Moderate Concern
+09/30/2021,22017,Caddo Parish,LA,40.8,Metro,0.84,Very High Concern
+09/30/2021,37159,Rowan County,NC,36.7,Metro,0.81,Very High Concern
+09/30/2021,40121,Pittsburg County,OK,37.8,Non-metro,0.83,Very High Concern
+09/30/2021,8043,Fremont County,CO,37.1,Non-metro,0.65,High Concern
+09/30/2021,8123,Weld County,CO,50.8,Metro,0.4,Low Concern
+09/30/2021,17077,Jackson County,IL,40.6,Metro,0.7,High Concern
+09/30/2021,18067,Howard County,IN,41.9,Metro,0.48,Moderate Concern
+09/30/2021,37187,Washington County,NC,38.8,Non-metro,0.88,Very High Concern
+09/30/2021,28129,Smith County,MS,29.0,Non-metro,0.47,Moderate Concern
+09/30/2021,18143,Scott County,IN,39.7,Metro,0.42,Moderate Concern
+09/30/2021,12121,Suwannee County,FL,32.6,Non-metro,0.94,Very High Concern
+09/30/2021,19133,Monona County,IA,48.7,Non-metro,0.18,Very Low Concern
+09/30/2021,29045,Clark County,MO,26.4,Non-metro,0.34,Low Concern
+09/30/2021,26129,Ogemaw County,MI,38.9,Non-metro,0.63,High Concern
+09/30/2021,39093,Lorain County,OH,54.9,Metro,0.51,Moderate Concern
+09/30/2021,4017,Navajo County,AZ,60.3,Non-metro,1.0,Very High Concern
+09/30/2021,18107,Montgomery County,IN,40.8,Non-metro,0.37,Low Concern
+09/30/2021,39047,Fayette County,OH,37.5,Non-metro,0.5,Moderate Concern
+09/30/2021,18109,Morgan County,IN,47.9,Metro,0.22,Low Concern
+09/30/2021,51167,Russell County,VA,41.4,Non-metro,0.45,Moderate Concern
+09/30/2021,54099,Wayne County,WV,30.0,Metro,0.6,High Concern
+09/30/2021,54059,Mingo County,WV,23.2,Non-metro,0.79,High Concern
+09/30/2021,25009,Essex County,MA,63.5,Metro,0.51,Moderate Concern
+09/30/2021,21093,Hardin County,KY,54.7,Metro,0.57,Moderate Concern
+09/30/2021,39009,Athens County,OH,44.7,Non-metro,0.73,High Concern
+09/30/2021,36033,Franklin County,NY,55.8,Non-metro,0.71,High Concern
+09/30/2021,12033,Escambia County,FL,45.7,Metro,0.49,Moderate Concern
+09/30/2021,39001,Adams County,OH,29.3,Non-metro,0.77,High Concern
+09/30/2021,19181,Warren County,IA,52.1,Metro,0.07,Very Low Concern
+09/30/2021,20183,Smith County,KS,40.1,Non-metro,0.05,Very Low Concern
+09/30/2021,55013,Burnett County,WI,50.3,Non-metro,0.17,Very Low Concern
+09/30/2021,39105,Meigs County,OH,37.4,Non-metro,0.68,High Concern
+09/30/2021,36123,Yates County,NY,46.4,Metro,0.44,Moderate Concern
+09/30/2021,45051,Horry County,SC,48.9,Metro,0.61,High Concern
+09/30/2021,19031,Cedar County,IA,53.5,Non-metro,0.01,Very Low Concern
+09/30/2021,54033,Harrison County,WV,20.8,Non-metro,0.41,Moderate Concern
+09/30/2021,22087,St. Bernard Parish,LA,40.3,Metro,0.77,High Concern
+09/30/2021,42127,Wayne County,PA,55.8,Non-metro,0.26,Low Concern
+09/30/2021,19169,Story County,IA,55.8,Metro,0.21,Low Concern
+09/30/2021,30101,Toole County,MT,38.3,Non-metro,0.48,Moderate Concern
+09/30/2021,51830,Williamsburg city,VA,38.6,Metro,0.38,Low Concern
+09/30/2021,12069,Lake County,FL,58.1,Metro,0.6,High Concern
+09/30/2021,16031,Cassia County,ID,28.6,Non-metro,0.67,High Concern
+09/30/2021,5059,Hot Spring County,AR,37.6,Non-metro,0.82,Very High Concern
+09/30/2021,8121,Washington County,CO,25.6,Non-metro,0.28,Low Concern
+09/30/2021,21083,Graves County,KY,38.4,Non-metro,0.78,High Concern
+09/30/2021,23011,Kennebec County,ME,61.5,Non-metro,0.38,Low Concern
+09/30/2021,5135,Sharp County,AR,33.7,Non-metro,0.62,High Concern
+09/30/2021,29137,Monroe County,MO,39.3,Non-metro,0.39,Low Concern
+09/30/2021,53025,Grant County,WA,46.7,Non-metro,0.85,Very High Concern
+09/30/2021,51191,Washington County,VA,50.7,Metro,0.36,Low Concern
+09/30/2021,13007,Baker County,GA,31.8,Metro,0.74,High Concern
+09/30/2021,17117,Macoupin County,IL,44.4,Metro,0.2,Very Low Concern
+09/30/2021,27109,Olmsted County,MN,64.8,Metro,0.26,Low Concern
+09/30/2021,51107,Loudoun County,VA,62.0,Metro,0.09,Very Low Concern
+09/30/2021,39107,Mercer County,OH,33.6,Non-metro,0.05,Very Low Concern
+09/30/2021,17005,Bond County,IL,44.1,Metro,0.37,Low Concern
+09/30/2021,39069,Henry County,OH,47.6,Non-metro,0.16,Very Low Concern
+09/30/2021,1111,Randolph County,AL,28.2,Non-metro,0.72,High Concern
+09/30/2021,54015,Clay County,WV,23.2,Metro,0.69,High Concern
+09/30/2021,54089,Summers County,WV,17.5,Non-metro,0.83,Very High Concern
+09/30/2021,20179,Sheridan County,KS,31.4,Non-metro,0.07,Very Low Concern
+09/30/2021,39167,Washington County,OH,46.6,Non-metro,0.35,Low Concern
+09/30/2021,39025,Clermont County,OH,49.5,Metro,0.1,Very Low Concern
+09/30/2021,46095,Mellette County,SD,29.1,Non-metro,0.92,Very High Concern
+09/30/2021,39033,Crawford County,OH,39.4,Non-metro,0.32,Low Concern
+09/30/2021,51183,Sussex County,VA,33.1,Metro,0.91,Very High Concern
+09/30/2021,36017,Chenango County,NY,53.6,Non-metro,0.56,Moderate Concern
+09/30/2021,21079,Garrard County,KY,42.9,Non-metro,0.43,Moderate Concern
+09/30/2021,45021,Cherokee County,SC,28.0,Non-metro,0.7,High Concern
+09/30/2021,13079,Crawford County,GA,16.6,Metro,0.68,High Concern
+09/30/2021,40107,Okfuskee County,OK,40.4,Non-metro,0.93,Very High Concern
+09/30/2021,27021,Cass County,MN,44.4,Non-metro,0.35,Low Concern
+09/30/2021,8014,Broomfield County,CO,70.1,Metro,0.05,Very Low Concern
+09/30/2021,19109,Kossuth County,IA,47.1,Non-metro,0.1,Very Low Concern
+09/30/2021,13111,Fannin County,GA,19.4,Non-metro,0.3,Low Concern
+09/30/2021,18015,Carroll County,IN,30.4,Metro,0.12,Very Low Concern
+09/30/2021,55111,Sauk County,WI,55.7,Non-metro,0.23,Low Concern
+09/30/2021,27123,Ramsey County,MN,60.5,Metro,0.63,High Concern
+09/30/2021,4007,Gila County,AZ,50.8,Non-metro,0.9,Very High Concern
+09/30/2021,18001,Adams County,IN,30.0,Non-metro,0.59,Moderate Concern
+09/30/2021,55051,Iron County,WI,51.6,Non-metro,0.36,Low Concern
+09/30/2021,55045,Green County,WI,56.7,Metro,0.05,Very Low Concern
+09/30/2021,21157,Marshall County,KY,47.0,Non-metro,0.27,Low Concern
+09/30/2021,13051,Chatham County,GA,42.2,Metro,0.69,High Concern
+09/30/2021,56017,Hot Springs County,WY,41.7,Non-metro,0.12,Very Low Concern
+09/30/2021,13183,Long County,GA,6.4,Metro,0.83,Very High Concern
+09/30/2021,21065,Estill County,KY,43.4,Non-metro,0.8,High Concern
+09/30/2021,12129,Wakulla County,FL,39.1,Metro,0.4,Moderate Concern
+09/30/2021,26033,Chippewa County,MI,61.4,Non-metro,0.72,High Concern
+09/30/2021,2170,Matanuska-Susitna Borough,AK,31.6,Metro,0.32,Low Concern
+09/30/2021,46071,Jackson County,SD,35.5,Non-metro,0.97,Very High Concern
+09/30/2021,18165,Vermillion County,IN,41.2,Metro,0.45,Moderate Concern
+09/30/2021,18183,Whitley County,IN,42.9,Metro,0.03,Very Low Concern
+09/30/2021,37069,Franklin County,NC,41.8,Metro,0.64,High Concern
+09/30/2021,53049,Pacific County,WA,48.8,Non-metro,0.74,High Concern
+09/30/2021,19161,Sac County,IA,46.9,Non-metro,0.07,Very Low Concern
+09/30/2021,47051,Franklin County,TN,34.3,Non-metro,0.38,Low Concern
+09/30/2021,26093,Livingston County,MI,52.6,Metro,0.01,Very Low Concern
+09/30/2021,21137,Lincoln County,KY,36.3,Non-metro,0.71,High Concern
+09/30/2021,27073,Lac qui Parle County,MN,51.4,Non-metro,0.1,Very Low Concern
+09/30/2021,12075,Levy County,FL,40.5,Non-metro,0.78,High Concern
+09/30/2021,38005,Benson County,ND,43.9,Non-metro,0.84,Very High Concern
+09/30/2021,28011,Bolivar County,MS,50.8,Non-metro,0.97,Very High Concern
+09/30/2021,28019,Choctaw County,MS,30.6,Non-metro,0.85,Very High Concern
+09/30/2021,12047,Hamilton County,FL,31.5,Non-metro,0.99,Very High Concern
+09/30/2021,6113,Yolo County,CA,59.0,Metro,0.68,High Concern
+09/30/2021,13029,Bryan County,GA,31.5,Metro,0.34,Low Concern
+09/30/2021,23029,Washington County,ME,62.0,Non-metro,0.64,High Concern
+09/30/2021,13165,Jenkins County,GA,19.9,Non-metro,0.83,Very High Concern
+09/30/2021,47029,Cocke County,TN,43.5,Non-metro,0.69,High Concern
+09/30/2021,18089,Lake County,IN,49.2,Metro,0.73,High Concern
+09/30/2021,56045,Weston County,WY,30.6,Non-metro,0.35,Low Concern
+09/30/2021,1091,Marengo County,AL,46.9,Non-metro,0.76,High Concern
+09/30/2021,23031,York County,ME,69.7,Metro,0.09,Very Low Concern
+09/30/2021,13195,Madison County,GA,20.8,Metro,0.64,High Concern
+09/30/2021,12043,Glades County,FL,28.9,Non-metro,0.9,Very High Concern
+09/30/2021,51041,Chesterfield County,VA,50.3,Metro,0.18,Very Low Concern
+09/30/2021,21067,Fayette County,KY,63.0,Metro,0.49,Moderate Concern
+09/30/2021,13123,Gilmer County,GA,12.2,Non-metro,0.56,Moderate Concern
+09/30/2021,39017,Butler County,OH,48.5,Metro,0.36,Low Concern
+09/30/2021,46083,Lincoln County,SD,40.0,Metro,0.02,Very Low Concern
+09/30/2021,17003,Alexander County,IL,24.9,Metro,0.96,Very High Concern
+09/30/2021,22011,Beauregard Parish,LA,28.1,Non-metro,0.65,High Concern
+09/30/2021,28043,Grenada County,MS,45.7,Non-metro,0.88,Very High Concern
+09/30/2021,29129,Mercer County,MO,30.6,Non-metro,0.3,Low Concern
+09/30/2021,8061,Kiowa County,CO,33.0,Non-metro,0.32,Low Concern
+09/30/2021,50021,Rutland County,VT,60.7,Non-metro,0.28,Low Concern
+09/30/2021,47057,Grainger County,TN,42.4,Metro,0.59,Moderate Concern
+09/30/2021,12013,Calhoun County,FL,30.4,Non-metro,0.84,Very High Concern
+09/30/2021,20005,Atchison County,KS,38.7,Non-metro,0.49,Moderate Concern
+09/30/2021,17089,Kane County,IL,51.5,Metro,0.42,Moderate Concern
+09/30/2021,13303,Washington County,GA,13.3,Non-metro,0.95,Very High Concern
+09/30/2021,55007,Bayfield County,WI,73.3,Non-metro,0.1,Very Low Concern
+09/30/2021,26051,Gladwin County,MI,41.6,Non-metro,0.54,Moderate Concern
+09/30/2021,26083,Keweenaw County,MI,49.7,Non-metro,0.08,Very Low Concern
+09/30/2021,31183,Wheeler County,NE,26.8,Non-metro,0.0,Very Low Concern
+09/30/2021,28065,Jefferson Davis County,MS,37.9,Non-metro,0.84,Very High Concern
+09/30/2021,28057,Itawamba County,MS,30.7,Non-metro,0.55,Moderate Concern
+09/30/2021,18057,Hamilton County,IN,63.5,Metro,0.03,Very Low Concern
+09/30/2021,45071,Newberry County,SC,45.4,Non-metro,0.92,Very High Concern
+09/30/2021,41017,Deschutes County,OR,60.5,Metro,0.16,Very Low Concern
+09/30/2021,37107,Lenoir County,NC,44.3,Non-metro,0.99,Very High Concern
+09/30/2021,18157,Tippecanoe County,IN,51.7,Metro,0.49,Moderate Concern
+09/30/2021,17027,Clinton County,IL,45.5,Metro,0.18,Very Low Concern
+09/30/2021,22039,Evangeline Parish,LA,32.6,Non-metro,1.0,Very High Concern
+09/30/2021,21085,Grayson County,KY,42.7,Non-metro,0.61,High Concern
+09/30/2021,26027,Cass County,MI,36.9,Metro,0.33,Low Concern
+09/30/2021,21069,Fleming County,KY,43.5,Non-metro,0.77,High Concern
+09/30/2021,47005,Benton County,TN,37.7,Non-metro,0.7,High Concern
+09/30/2021,13085,Dawson County,GA,11.4,Metro,0.1,Very Low Concern
+09/30/2021,51750,Radford city,VA,34.3,Metro,0.41,Moderate Concern
+09/30/2021,38071,Ramsey County,ND,49.7,Non-metro,0.35,Low Concern
+09/30/2021,55077,Marquette County,WI,47.3,Non-metro,0.26,Low Concern
+09/30/2021,29119,McDonald County,MO,26.2,Metro,0.86,Very High Concern
+09/30/2021,19091,Humboldt County,IA,44.2,Non-metro,0.14,Very Low Concern
+09/30/2021,41019,Douglas County,OR,46.9,Non-metro,0.73,High Concern
+09/30/2021,42001,Adams County,PA,47.9,Metro,0.21,Low Concern
+09/30/2021,30099,Teton County,MT,35.0,Non-metro,0.3,Low Concern
+09/30/2021,50025,Windham County,VT,58.4,Non-metro,0.31,Low Concern
+09/30/2021,9007,Middlesex County,CT,74.4,Metro,0.12,Very Low Concern
+09/30/2021,55073,Marathon County,WI,52.3,Metro,0.14,Very Low Concern
+09/30/2021,39157,Tuscarawas County,OH,38.6,Non-metro,0.34,Low Concern
+09/30/2021,42129,Westmoreland County,PA,52.3,Metro,0.14,Very Low Concern
+09/30/2021,29159,Pettis County,MO,36.7,Non-metro,0.8,Very High Concern
+09/30/2021,17035,Cumberland County,IL,30.1,Non-metro,0.16,Very Low Concern
+09/30/2021,13027,Brooks County,GA,29.7,Metro,0.84,Very High Concern
+09/30/2021,31047,Dawson County,NE,39.2,Non-metro,0.79,High Concern
+09/30/2021,13073,Columbia County,GA,24.9,Metro,0.13,Very Low Concern
+09/30/2021,17161,Rock Island County,IL,47.0,Metro,0.71,High Concern
+09/30/2021,30067,Park County,MT,51.0,Non-metro,0.07,Very Low Concern
+09/30/2021,29205,Shelby County,MO,42.4,Non-metro,0.4,Low Concern
+09/30/2021,39005,Ashland County,OH,36.4,Non-metro,0.43,Moderate Concern
+09/30/2021,40105,Nowata County,OK,34.7,Non-metro,0.59,Moderate Concern
+09/30/2021,39041,Delaware County,OH,64.6,Metro,0.02,Very Low Concern
+09/30/2021,22013,Bienville Parish,LA,40.5,Non-metro,0.94,Very High Concern
+09/30/2021,51133,Northumberland County,VA,51.3,Non-metro,0.12,Very Low Concern
+09/30/2021,36117,Wayne County,NY,54.6,Metro,0.34,Low Concern
+09/30/2021,6059,Orange County,CA,61.3,Metro,0.42,Moderate Concern
+09/30/2021,24009,Calvert County,MD,59.2,Metro,0.05,Very Low Concern
+09/30/2021,51033,Caroline County,VA,37.4,Metro,0.35,Low Concern
+09/30/2021,16047,Gooding County,ID,32.9,Non-metro,0.71,High Concern
+09/30/2021,18105,Monroe County,IN,53.8,Metro,0.45,Moderate Concern
+09/30/2021,13315,Wilcox County,GA,12.5,Non-metro,0.82,Very High Concern
+09/30/2021,30013,Cascade County,MT,46.2,Metro,0.41,Moderate Concern
+09/30/2021,47033,Crockett County,TN,40.0,Metro,0.78,High Concern
+09/30/2021,51115,Mathews County,VA,53.8,Metro,0.02,Very Low Concern
+09/30/2021,46055,Haakon County,SD,27.7,Non-metro,0.36,Low Concern
+09/30/2021,39023,Clark County,OH,45.3,Metro,0.73,High Concern
+09/30/2021,21005,Anderson County,KY,54.4,Non-metro,0.26,Low Concern
+09/30/2021,37199,Yancey County,NC,44.0,Non-metro,0.57,Moderate Concern
+09/30/2021,17141,Ogle County,IL,46.1,Non-metro,0.29,Low Concern
+09/30/2021,27027,Clay County,MN,32.9,Metro,0.22,Low Concern
+09/30/2021,18125,Pike County,IN,51.6,Non-metro,0.17,Very Low Concern
+09/30/2021,27069,Kittson County,MN,47.1,Non-metro,0.1,Very Low Concern
+09/30/2021,18043,Floyd County,IN,51.3,Metro,0.17,Very Low Concern
+09/30/2021,38091,Steele County,ND,41.2,Non-metro,0.0,Very Low Concern
+09/30/2021,13107,Emanuel County,GA,26.9,Non-metro,0.98,Very High Concern
+09/30/2021,41057,Tillamook County,OR,58.0,Non-metro,0.66,High Concern
+09/30/2021,8113,San Miguel County,CO,72.7,Non-metro,0.03,Very Low Concern
+09/30/2021,51103,Lancaster County,VA,56.4,Non-metro,0.16,Very Low Concern
+09/30/2021,20137,Norton County,KS,46.3,Non-metro,0.3,Low Concern
+09/30/2021,30083,Richland County,MT,32.2,Non-metro,0.21,Low Concern
+09/30/2021,39067,Harrison County,OH,37.2,Non-metro,0.52,Moderate Concern
+09/30/2021,28005,Amite County,MS,33.4,Non-metro,0.82,Very High Concern
+09/30/2021,36043,Herkimer County,NY,51.4,Metro,0.53,Moderate Concern
+09/30/2021,29181,Ripley County,MO,24.8,Non-metro,0.71,High Concern
+09/30/2021,16077,Power County,ID,40.4,Non-metro,0.52,Moderate Concern
+09/30/2021,45039,Fairfield County,SC,46.8,Metro,0.75,High Concern
+09/30/2021,13245,Richmond County,GA,31.6,Metro,0.93,Very High Concern
+09/30/2021,27119,Polk County,MN,34.7,Metro,0.37,Low Concern
+09/30/2021,53073,Whatcom County,WA,62.9,Metro,0.45,Moderate Concern
+09/30/2021,22081,Red River Parish,LA,30.8,Non-metro,0.81,Very High Concern
+09/30/2021,17167,Sangamon County,IL,54.5,Metro,0.44,Moderate Concern
+09/30/2021,49029,Morgan County,UT,41.2,Metro,0.0,Very Low Concern
+09/30/2021,47009,Blount County,TN,45.1,Metro,0.25,Low Concern
+09/30/2021,12011,Broward County,FL,60.9,Metro,0.58,Moderate Concern
+09/30/2021,25027,Worcester County,MA,59.7,Metro,0.41,Moderate Concern
+09/30/2021,4001,Apache County,AZ,70.8,Non-metro,0.99,Very High Concern
+09/30/2021,16063,Lincoln County,ID,31.5,Non-metro,0.56,Moderate Concern
+09/30/2021,8095,Phillips County,CO,43.8,Non-metro,0.3,Low Concern
+09/30/2021,2090,Fairbanks North Star Borough,AK,45.9,Metro,0.34,Low Concern
+09/30/2021,5073,Lafayette County,AR,33.9,Non-metro,0.79,High Concern
+09/30/2021,22111,Union Parish,LA,39.7,Metro,0.81,Very High Concern
+09/30/2021,1121,Talladega County,AL,31.4,Non-metro,0.87,Very High Concern
+09/30/2021,4023,Santa Cruz County,AZ,88.6,Non-metro,0.93,Very High Concern
+09/30/2021,37037,Chatham County,NC,49.4,Metro,0.38,Low Concern
+09/30/2021,47121,Meigs County,TN,58.5,Non-metro,0.49,Moderate Concern
+09/30/2021,51001,Accomack County,VA,60.9,Non-metro,0.8,Very High Concern
+09/30/2021,18131,Pulaski County,IN,40.3,Non-metro,0.23,Low Concern
+09/30/2021,38037,Grant County,ND,18.1,Non-metro,0.07,Very Low Concern
+09/30/2021,5111,Poinsett County,AR,37.4,Metro,0.83,Very High Concern
+09/30/2021,19135,Monroe County,IA,40.9,Non-metro,0.25,Low Concern
+09/30/2021,50015,Lamoille County,VT,53.4,Non-metro,0.13,Very Low Concern
+09/30/2021,6013,Contra Costa County,CA,69.2,Metro,0.41,Moderate Concern
+09/30/2021,45033,Dillon County,SC,37.8,Non-metro,0.97,Very High Concern
+09/30/2021,12023,Columbia County,FL,36.5,Non-metro,0.86,Very High Concern
+09/30/2021,29101,Johnson County,MO,34.0,Non-metro,0.35,Low Concern
+09/30/2021,41029,Jackson County,OR,50.6,Metro,0.74,High Concern
+09/30/2021,26011,Arenac County,MI,44.8,Non-metro,0.51,Moderate Concern
+09/30/2021,56021,Laramie County,WY,45.5,Metro,0.27,Low Concern
+09/30/2021,55137,Waushara County,WI,39.0,Non-metro,0.37,Low Concern
+09/30/2021,8021,Conejos County,CO,41.3,Non-metro,0.93,Very High Concern
+09/30/2021,42033,Clearfield County,PA,44.9,Non-metro,0.61,High Concern
+09/30/2021,18155,Switzerland County,IN,27.6,Non-metro,0.63,High Concern
+09/30/2021,13227,Pickens County,GA,13.3,Metro,0.28,Low Concern
+09/30/2021,21061,Edmonson County,KY,33.1,Metro,0.64,High Concern
+09/30/2021,13071,Colquitt County,GA,19.1,Non-metro,0.98,Very High Concern
+09/30/2021,22053,Jefferson Davis Parish,LA,31.2,Non-metro,0.81,Very High Concern
+09/30/2021,29019,Boone County,MO,54.0,Metro,0.29,Low Concern
+09/30/2021,55063,La Crosse County,WI,60.1,Metro,0.21,Low Concern
+09/30/2021,13047,Catoosa County,GA,16.0,Metro,0.13,Very Low Concern
+09/30/2021,5051,Garland County,AR,39.2,Metro,0.83,Very High Concern
+09/30/2021,13099,Early County,GA,18.1,Non-metro,0.92,Very High Concern
+09/30/2021,22061,Lincoln Parish,LA,36.7,Non-metro,0.85,Very High Concern
+09/30/2021,29107,Lafayette County,MO,40.0,Metro,0.39,Low Concern
+09/30/2021,19089,Howard County,IA,46.1,Non-metro,0.16,Very Low Concern
+09/30/2021,31051,Dixon County,NE,37.8,Metro,0.38,Low Concern
+09/30/2021,39013,Belmont County,OH,40.4,Metro,0.36,Low Concern
+09/30/2021,37173,Swain County,NC,45.6,Non-metro,0.78,High Concern
+09/30/2021,13013,Barrow County,GA,18.0,Metro,0.42,Moderate Concern
+09/30/2021,55011,Buffalo County,WI,44.5,Non-metro,0.06,Very Low Concern
+09/30/2021,40015,Caddo County,OK,54.6,Non-metro,0.95,Very High Concern
+09/30/2021,30021,Dawson County,MT,33.2,Non-metro,0.08,Very Low Concern
+09/30/2021,55119,Taylor County,WI,30.9,Non-metro,0.2,Low Concern
+09/30/2021,5105,Perry County,AR,45.7,Metro,0.64,High Concern
+09/30/2021,49035,Salt Lake County,UT,56.5,Metro,0.32,Low Concern
+09/30/2021,32033,White Pine County,NV,45.2,Non-metro,0.37,Low Concern
+09/30/2021,22101,St. Mary Parish,LA,38.5,Non-metro,0.92,Very High Concern
+09/30/2021,55141,Wood County,WI,53.5,Non-metro,0.15,Very Low Concern
+09/30/2021,5131,Sebastian County,AR,42.0,Metro,0.83,Very High Concern
+09/30/2021,37195,Wilson County,NC,43.3,Non-metro,0.94,Very High Concern
+09/30/2021,51101,King William County,VA,46.1,Metro,0.04,Very Low Concern
+09/30/2021,41023,Grant County,OR,40.4,Non-metro,0.55,Moderate Concern
+09/30/2021,39037,Darke County,OH,33.9,Non-metro,0.13,Very Low Concern
+09/30/2021,1133,Winston County,AL,18.8,Non-metro,0.7,High Concern
+09/30/2021,21095,Harlan County,KY,38.1,Non-metro,0.88,Very High Concern
+09/30/2021,13151,Henry County,GA,19.5,Metro,0.31,Low Concern
+09/30/2021,20131,Nemaha County,KS,47.4,Non-metro,0.1,Very Low Concern
+09/30/2021,12109,St. Johns County,FL,61.5,Metro,0.08,Very Low Concern
+09/30/2021,36005,Bronx County,NY,56.2,Metro,0.99,Very High Concern
+09/30/2021,28119,Quitman County,MS,42.9,Non-metro,0.95,Very High Concern
+09/30/2021,37191,Wayne County,NC,42.0,Metro,0.95,Very High Concern
+09/30/2021,54079,Putnam County,WV,16.8,Metro,0.04,Very Low Concern
+09/30/2021,16019,Bonneville County,ID,39.8,Metro,0.36,Low Concern
+09/30/2021,54007,Braxton County,WV,12.2,Non-metro,0.66,High Concern
+09/30/2021,38011,Bowman County,ND,33.2,Non-metro,0.18,Very Low Concern
+09/30/2021,21161,Mason County,KY,46.1,Non-metro,0.67,High Concern
+09/30/2021,21105,Hickman County,KY,31.7,Non-metro,0.57,Moderate Concern
+09/30/2021,17183,Vermilion County,IL,32.6,Metro,0.81,Very High Concern
+09/30/2021,36053,Madison County,NY,54.2,Metro,0.17,Very Low Concern
+09/30/2021,46109,Roberts County,SD,49.2,Non-metro,0.72,High Concern
+09/30/2021,29123,Madison County,MO,32.8,Non-metro,0.48,Moderate Concern
+09/30/2021,29089,Howard County,MO,38.4,Non-metro,0.4,Moderate Concern
+09/30/2021,19071,Fremont County,IA,45.4,Non-metro,0.06,Very Low Concern
+09/30/2021,16045,Gem County,ID,32.4,Metro,0.66,High Concern
+09/30/2021,5083,Logan County,AR,40.3,Non-metro,0.8,Very High Concern
+09/30/2021,19007,Appanoose County,IA,41.1,Non-metro,0.38,Low Concern
+09/30/2021,12097,Osceola County,FL,60.7,Metro,0.82,Very High Concern
+09/30/2021,54077,Preston County,WV,31.9,Metro,0.57,Moderate Concern
+09/30/2021,42047,Elk County,PA,51.1,Non-metro,0.12,Very Low Concern
+09/30/2021,6055,Napa County,CA,66.3,Metro,0.51,Moderate Concern
+09/30/2021,23013,Knox County,ME,73.5,Non-metro,0.15,Very Low Concern
+09/30/2021,55021,Columbia County,WI,58.8,Metro,0.12,Very Low Concern
+09/30/2021,47123,Monroe County,TN,37.1,Non-metro,0.65,High Concern
+09/30/2021,47125,Montgomery County,TN,47.4,Metro,0.52,Moderate Concern
+09/30/2021,5109,Pike County,AR,36.7,Non-metro,0.71,High Concern
+09/30/2021,29161,Phelps County,MO,38.2,Non-metro,0.66,High Concern
+09/30/2021,20167,Russell County,KS,37.6,Non-metro,0.24,Low Concern
+09/30/2021,20153,Rawlins County,KS,37.4,Non-metro,0.14,Very Low Concern
+09/30/2021,27157,Wabasha County,MN,62.4,Metro,0.06,Very Low Concern
+09/30/2021,27031,Cook County,MN,71.0,Non-metro,0.2,Low Concern
+09/30/2021,40005,Atoka County,OK,30.1,Non-metro,0.81,Very High Concern
+09/30/2021,40125,Pottawatomie County,OK,40.5,Non-metro,0.78,High Concern
+09/30/2021,5009,Boone County,AR,32.0,Non-metro,0.44,Moderate Concern
+09/30/2021,13243,Randolph County,GA,15.8,Non-metro,0.97,Very High Concern
+09/30/2021,27001,Aitkin County,MN,52.8,Non-metro,0.31,Low Concern
+09/30/2021,30009,Carbon County,MT,42.5,Metro,0.04,Very Low Concern
+09/30/2021,51089,Henry County,VA,36.2,Non-metro,0.89,Very High Concern
+09/30/2021,26067,Ionia County,MI,39.7,Non-metro,0.48,Moderate Concern
+09/30/2021,44007,Providence County,RI,60.5,Metro,0.76,High Concern
+09/30/2021,18065,Henry County,IN,46.4,Non-metro,0.38,Low Concern
+09/30/2021,8023,Costilla County,CO,53.6,Non-metro,0.94,Very High Concern
+09/30/2021,30035,Glacier County,MT,69.6,Non-metro,0.86,Very High Concern
+09/30/2021,55093,Pierce County,WI,38.8,Metro,0.08,Very Low Concern
+09/30/2021,26127,Oceana County,MI,45.9,Non-metro,0.86,Very High Concern
+09/30/2021,39145,Scioto County,OH,42.1,Non-metro,0.83,Very High Concern
+09/30/2021,28061,Jasper County,MS,41.9,Non-metro,0.77,High Concern
+09/30/2021,31113,Logan County,NE,17.8,Non-metro,0.11,Very Low Concern
+09/30/2021,49033,Rich County,UT,39.1,Non-metro,0.2,Very Low Concern
+09/30/2021,18039,Elkhart County,IN,37.3,Metro,0.77,High Concern
+09/30/2021,31055,Douglas County,NE,56.5,Metro,0.47,Moderate Concern
+09/30/2021,27025,Chisago County,MN,48.8,Metro,0.06,Very Low Concern
+09/30/2021,29225,Webster County,MO,38.0,Metro,0.64,High Concern
+09/30/2021,31111,Lincoln County,NE,26.5,Non-metro,0.37,Low Concern
+09/30/2021,41053,Polk County,OR,55.4,Metro,0.58,Moderate Concern
+09/30/2021,6009,Calaveras County,CA,51.7,Non-metro,0.23,Low Concern
+09/30/2021,30103,Treasure County,MT,40.7,Non-metro,0.06,Very Low Concern
+09/30/2021,28123,Scott County,MS,42.5,Non-metro,0.99,Very High Concern
+09/30/2021,21117,Kenton County,KY,60.9,Metro,0.34,Low Concern
+09/30/2021,50003,Bennington County,VT,37.4,Non-metro,0.29,Low Concern
+09/30/2021,29061,Daviess County,MO,27.9,Non-metro,0.47,Moderate Concern
+09/30/2021,49021,Iron County,UT,35.8,Non-metro,0.45,Moderate Concern
+09/30/2021,40093,Major County,OK,42.3,Non-metro,0.32,Low Concern
+09/30/2021,41003,Benton County,OR,67.2,Metro,0.35,Low Concern
+09/30/2021,19143,Osceola County,IA,40.9,Non-metro,0.26,Low Concern
+09/30/2021,53077,Yakima County,WA,50.9,Metro,0.93,Very High Concern
+09/30/2021,47179,Washington County,TN,51.3,Metro,0.46,Moderate Concern
+09/30/2021,12111,St. Lucie County,FL,49.9,Metro,0.72,High Concern
+09/30/2021,30105,Valley County,MT,38.3,Non-metro,0.12,Very Low Concern
+09/30/2021,55117,Sheboygan County,WI,53.6,Metro,0.22,Low Concern
+09/30/2021,55139,Winnebago County,WI,53.2,Metro,0.16,Very Low Concern
+09/30/2021,13105,Elbert County,GA,17.8,Non-metro,0.83,Very High Concern
+09/30/2021,31073,Gosper County,NE,34.1,Non-metro,0.01,Very Low Concern
+09/30/2021,13015,Bartow County,GA,14.7,Metro,0.59,Moderate Concern
+09/30/2021,21239,Woodford County,KY,66.6,Metro,0.2,Low Concern
+09/30/2021,21055,Crittenden County,KY,34.2,Non-metro,0.48,Moderate Concern
+09/30/2021,17111,McHenry County,IL,52.2,Metro,0.07,Very Low Concern
+09/30/2021,1027,Clay County,AL,35.6,Non-metro,0.56,Moderate Concern
+09/30/2021,42025,Carbon County,PA,55.7,Metro,0.3,Low Concern
+09/30/2021,41007,Clatsop County,OR,58.0,Non-metro,0.52,Moderate Concern
+09/30/2021,12087,Monroe County,FL,67.4,Non-metro,0.46,Moderate Concern
+09/30/2021,42067,Juniata County,PA,38.3,Non-metro,0.45,Moderate Concern
+09/30/2021,2230,Skagway Municipality,AK,66.2,Non-metro,0.17,Very Low Concern
+09/30/2021,29177,Ray County,MO,34.4,Metro,0.26,Low Concern
+09/30/2021,13147,Hart County,GA,25.4,Non-metro,0.72,High Concern
+09/30/2021,10001,Kent County,DE,45.6,Metro,0.73,High Concern
+09/30/2021,31093,Howard County,NE,37.9,Metro,0.08,Very Low Concern
+09/30/2021,27019,Carver County,MN,55.9,Metro,0.01,Very Low Concern
+09/30/2021,47175,Van Buren County,TN,48.6,Non-metro,0.6,High Concern
+09/30/2021,51077,Grayson County,VA,36.9,Non-metro,0.65,High Concern
+09/30/2021,51069,Frederick County,VA,43.3,Metro,0.18,Very Low Concern
+09/30/2021,12133,Washington County,FL,27.6,Non-metro,0.89,Very High Concern
+09/30/2021,41005,Clackamas County,OR,60.1,Metro,0.19,Very Low Concern
+09/30/2021,5065,Izard County,AR,32.5,Non-metro,0.57,Moderate Concern
+09/30/2021,19001,Adair County,IA,43.8,Non-metro,0.05,Very Low Concern
+09/30/2021,41055,Sherman County,OR,50.0,Non-metro,0.14,Very Low Concern
+09/30/2021,20059,Franklin County,KS,43.7,Non-metro,0.21,Low Concern
+09/30/2021,29189,St. Louis County,MO,54.3,Metro,0.26,Low Concern
+09/30/2021,13037,Calhoun County,GA,18.8,Non-metro,0.98,Very High Concern
+09/30/2021,22085,Sabine Parish,LA,31.1,Non-metro,0.83,Very High Concern
+09/30/2021,16013,Blaine County,ID,66.5,Non-metro,0.32,Low Concern
+09/30/2021,31107,Knox County,NE,43.7,Non-metro,0.33,Low Concern
+09/30/2021,42081,Lycoming County,PA,46.9,Metro,0.42,Moderate Concern
+09/30/2021,16009,Benewah County,ID,41.1,Non-metro,0.73,High Concern
+09/30/2021,31023,Butler County,NE,44.9,Non-metro,0.12,Very Low Concern
+09/30/2021,28087,Lowndes County,MS,43.3,Non-metro,0.8,High Concern
+09/30/2021,18037,Dubois County,IN,50.5,Non-metro,0.21,Low Concern
+09/30/2021,17061,Greene County,IL,35.9,Non-metro,0.2,Very Low Concern
+09/30/2021,26041,Delta County,MI,54.6,Non-metro,0.35,Low Concern
+09/30/2021,36089,St. Lawrence County,NY,53.4,Non-metro,0.75,High Concern
+09/30/2021,36037,Genesee County,NY,52.4,Non-metro,0.19,Very Low Concern
+09/30/2021,47089,Jefferson County,TN,43.0,Metro,0.56,Moderate Concern
+09/30/2021,27003,Anoka County,MN,49.3,Metro,0.14,Very Low Concern
+09/30/2021,33003,Carroll County,NH,63.1,Non-metro,0.06,Very Low Concern
+09/30/2021,18059,Hancock County,IN,60.3,Metro,0.02,Very Low Concern
+09/30/2021,51027,Buchanan County,VA,41.3,Non-metro,0.75,High Concern
+09/30/2021,39149,Shelby County,OH,31.3,Non-metro,0.19,Very Low Concern
+09/30/2021,19183,Washington County,IA,50.7,Metro,0.22,Low Concern
+09/30/2021,24043,Washington County,MD,50.3,Metro,0.61,High Concern
+09/30/2021,13113,Fayette County,GA,32.6,Metro,0.06,Very Low Concern
+09/30/2021,18007,Benton County,IN,37.7,Metro,0.33,Low Concern
+09/30/2021,31101,Keith County,NE,31.5,Non-metro,0.23,Low Concern
+09/30/2021,32017,Lincoln County,NV,32.5,Non-metro,0.42,Moderate Concern
+09/30/2021,6061,Placer County,CA,57.4,Metro,0.15,Very Low Concern
+09/30/2021,13119,Franklin County,GA,12.8,Non-metro,0.85,Very High Concern
+09/30/2021,49007,Carbon County,UT,39.5,Non-metro,0.56,Moderate Concern
+09/30/2021,36101,Steuben County,NY,51.3,Non-metro,0.47,Moderate Concern
+09/30/2021,6069,San Benito County,CA,53.5,Metro,0.52,Moderate Concern
+09/30/2021,45079,Richland County,SC,51.6,Metro,0.63,High Concern
+09/30/2021,47039,Decatur County,TN,32.6,Non-metro,0.51,Moderate Concern
+09/30/2021,12057,Hillsborough County,FL,51.7,Metro,0.67,High Concern
+09/30/2021,19185,Wayne County,IA,37.1,Non-metro,0.46,Moderate Concern
+09/30/2021,1123,Tallapoosa County,AL,33.7,Non-metro,0.89,Very High Concern
+09/30/2021,17137,Morgan County,IL,44.0,Non-metro,0.5,Moderate Concern
+09/30/2021,13081,Crisp County,GA,17.0,Non-metro,0.99,Very High Concern
+09/30/2021,39091,Logan County,OH,36.7,Non-metro,0.32,Low Concern
+09/30/2021,31175,Valley County,NE,28.6,Non-metro,0.15,Very Low Concern
+09/30/2021,27131,Rice County,MN,55.2,Non-metro,0.39,Low Concern
+09/30/2021,37131,Northampton County,NC,39.9,Non-metro,0.9,Very High Concern
+09/30/2021,40011,Blaine County,OK,39.7,Non-metro,0.67,High Concern
+09/30/2021,56039,Teton County,WY,79.1,Non-metro,0.11,Very Low Concern
+09/30/2021,47151,Scott County,TN,30.4,Non-metro,0.76,High Concern
+09/30/2021,13247,Rockdale County,GA,16.4,Metro,0.55,Moderate Concern
+09/30/2021,29157,Perry County,MO,34.4,Non-metro,0.23,Low Concern
+09/30/2021,24037,St. Mary's County,MD,57.0,Metro,0.21,Low Concern
+09/30/2021,20015,Butler County,KS,40.3,Metro,0.26,Low Concern
+09/30/2021,2105,Hoonah-Angoon Census Area,AK,64.6,Non-metro,0.42,Moderate Concern
+09/30/2021,26115,Monroe County,MI,48.8,Metro,0.15,Very Low Concern
+09/30/2021,27061,Itasca County,MN,48.1,Non-metro,0.33,Low Concern
+09/30/2021,28037,Franklin County,MS,41.1,Non-metro,0.57,Moderate Concern
+09/30/2021,1067,Henry County,AL,38.1,Metro,0.55,Moderate Concern
+09/30/2021,41043,Linn County,OR,48.9,Metro,0.68,High Concern
+09/30/2021,46057,Hamlin County,SD,32.4,Non-metro,0.16,Very Low Concern
+09/30/2021,12003,Baker County,FL,29.8,Metro,0.68,High Concern
+09/30/2021,46031,Corson County,SD,28.7,Non-metro,0.84,Very High Concern
+09/30/2021,45085,Sumter County,SC,40.9,Metro,0.97,Very High Concern
+09/30/2021,22117,Washington Parish,LA,35.8,Non-metro,1.0,Very High Concern
+09/30/2021,49049,Utah County,UT,43.1,Metro,0.28,Low Concern
+09/30/2021,53047,Okanogan County,WA,59.5,Non-metro,0.93,Very High Concern
+09/30/2021,6097,Sonoma County,CA,66.9,Metro,0.4,Moderate Concern
+09/30/2021,47099,Lawrence County,TN,30.9,Non-metro,0.83,Very High Concern
+09/30/2021,36007,Broome County,NY,56.3,Metro,0.62,High Concern
+09/30/2021,54051,Marshall County,WV,10.6,Metro,0.22,Low Concern
+09/30/2021,32003,Clark County,NV,47.6,Metro,0.74,High Concern
+09/30/2021,51155,Pulaski County,VA,39.8,Metro,0.48,Moderate Concern
+09/30/2021,13261,Sumter County,GA,35.9,Non-metro,0.98,Very High Concern
+09/30/2021,42019,Butler County,PA,56.1,Metro,0.08,Very Low Concern
+09/30/2021,13139,Hall County,GA,27.8,Metro,0.66,High Concern
+09/30/2021,39139,Richland County,OH,37.9,Metro,0.62,High Concern
+09/30/2021,18009,Blackford County,IN,40.5,Non-metro,0.37,Low Concern
+09/30/2021,31165,Sioux County,NE,21.9,Non-metro,0.02,Very Low Concern
+09/30/2021,29173,Ralls County,MO,25.5,Non-metro,0.1,Very Low Concern
+09/30/2021,1045,Dale County,AL,44.5,Non-metro,0.76,High Concern
+09/30/2021,20187,Stanton County,KS,42.6,Non-metro,0.5,Moderate Concern
+09/30/2021,19087,Henry County,IA,47.5,Non-metro,0.31,Low Concern
+09/30/2021,29121,Macon County,MO,35.8,Non-metro,0.59,Moderate Concern
+09/30/2021,19027,Carroll County,IA,55.5,Non-metro,0.05,Very Low Concern
+09/30/2021,36085,Richmond County,NY,59.1,Metro,0.48,Moderate Concern
+09/30/2021,12103,Pinellas County,FL,57.2,Metro,0.52,Moderate Concern
+09/30/2021,51035,Carroll County,VA,30.6,Non-metro,0.34,Low Concern
+09/30/2021,27147,Steele County,MN,52.5,Non-metro,0.3,Low Concern
+09/30/2021,54055,Mercer County,WV,38.3,Non-metro,0.81,Very High Concern
+09/30/2021,45011,Barnwell County,SC,45.2,Non-metro,0.99,Very High Concern
+09/30/2021,18175,Washington County,IN,36.1,Metro,0.38,Low Concern
+09/30/2021,5121,Randolph County,AR,33.9,Non-metro,0.72,High Concern
+09/30/2021,1093,Marion County,AL,31.1,Non-metro,0.67,High Concern
+09/30/2021,21149,McLean County,KY,44.2,Metro,0.42,Moderate Concern
+09/30/2021,51031,Campbell County,VA,37.5,Metro,0.26,Low Concern
+09/30/2021,37067,Forsyth County,NC,51.7,Metro,0.68,High Concern
+09/30/2021,21205,Rowan County,KY,44.9,Non-metro,0.76,High Concern
+09/30/2021,5021,Clay County,AR,39.9,Non-metro,0.65,High Concern
+09/30/2021,6047,Merced County,CA,40.5,Metro,0.97,Very High Concern
+09/30/2021,30031,Gallatin County,MT,50.7,Non-metro,0.04,Very Low Concern
+09/30/2021,38043,Kidder County,ND,27.9,Non-metro,0.03,Very Low Concern
+09/30/2021,40081,Lincoln County,OK,34.1,Metro,0.48,Moderate Concern
+09/30/2021,9011,New London County,CT,69.2,Metro,0.36,Low Concern
+09/30/2021,13159,Jasper County,GA,14.8,Metro,0.69,High Concern
+09/30/2021,16071,Oneida County,ID,33.7,Non-metro,0.34,Low Concern
+09/30/2021,19083,Hardin County,IA,49.6,Non-metro,0.12,Very Low Concern
+09/30/2021,37071,Gaston County,NC,40.3,Metro,0.67,High Concern
+09/30/2021,21155,Marion County,KY,47.4,Non-metro,0.91,Very High Concern
+09/30/2021,31109,Lancaster County,NE,58.7,Metro,0.3,Low Concern
+09/30/2021,46033,Custer County,SD,37.8,Metro,0.23,Low Concern
+09/30/2021,16007,Bear Lake County,ID,37.7,Non-metro,0.21,Low Concern
+09/30/2021,51065,Fluvanna County,VA,55.5,Metro,0.06,Very Low Concern
+09/30/2021,36103,Suffolk County,NY,64.5,Metro,0.21,Low Concern
+09/30/2021,37073,Gates County,NC,40.7,Metro,0.36,Low Concern
+09/30/2021,45069,Marlboro County,SC,36.6,Non-metro,0.99,Very High Concern
+09/30/2021,17015,Carroll County,IL,52.5,Non-metro,0.17,Very Low Concern
+09/30/2021,21227,Warren County,KY,41.4,Metro,0.71,High Concern
+09/30/2021,49023,Juab County,UT,29.2,Metro,0.23,Low Concern
+09/30/2021,5149,Yell County,AR,41.6,Non-metro,0.88,Very High Concern
+09/30/2021,27023,Chippewa County,MN,44.3,Non-metro,0.35,Low Concern
+09/30/2021,26001,Alcona County,MI,50.7,Non-metro,0.26,Low Concern
+09/30/2021,45059,Laurens County,SC,32.8,Metro,0.92,Very High Concern
+09/30/2021,22125,West Feliciana Parish,LA,79.7,Metro,0.69,High Concern
+09/30/2021,47163,Sullivan County,TN,48.8,Metro,0.54,Moderate Concern
+09/30/2021,29109,Lawrence County,MO,33.4,Non-metro,0.79,High Concern
+09/30/2021,21053,Clinton County,KY,33.2,Non-metro,0.78,High Concern
+09/30/2021,8015,Chaffee County,CO,56.4,Non-metro,0.24,Low Concern
+09/30/2021,6085,Santa Clara County,CA,74.0,Metro,0.36,Low Concern
+09/30/2021,16081,Teton County,ID,51.5,Non-metro,0.13,Very Low Concern
+09/30/2021,13045,Carroll County,GA,20.9,Metro,0.78,High Concern
+09/30/2021,6025,Imperial County,CA,65.9,Metro,1.0,Very High Concern
+09/30/2021,12089,Nassau County,FL,50.9,Metro,0.25,Low Concern
+09/30/2021,26009,Antrim County,MI,51.8,Non-metro,0.12,Very Low Concern
+09/30/2021,8089,Otero County,CO,40.8,Non-metro,0.96,Very High Concern
+09/30/2021,51683,Manassas city,VA,46.4,Metro,0.44,Moderate Concern
+09/30/2021,53021,Franklin County,WA,41.0,Metro,0.87,Very High Concern
+09/30/2021,12039,Gadsden County,FL,50.7,Metro,0.99,Very High Concern
+09/30/2021,37125,Moore County,NC,49.5,Non-metro,0.36,Low Concern
+09/30/2021,22003,Allen Parish,LA,30.8,Non-metro,0.93,Very High Concern
+09/30/2021,38019,Cavalier County,ND,53.3,Non-metro,0.02,Very Low Concern
+09/30/2021,47107,McMinn County,TN,33.7,Non-metro,0.66,High Concern
+09/30/2021,50005,Caledonia County,VT,31.7,Non-metro,0.27,Low Concern
+09/30/2021,19069,Franklin County,IA,47.4,Non-metro,0.2,Very Low Concern
+09/30/2021,5087,Madison County,AR,36.9,Metro,0.65,High Concern
+09/30/2021,46093,Meade County,SD,43.2,Metro,0.09,Very Low Concern
+09/30/2021,17201,Winnebago County,IL,46.0,Metro,0.72,High Concern
+09/30/2021,18145,Shelby County,IN,50.8,Metro,0.22,Low Concern
+09/30/2021,30029,Flathead County,MT,36.1,Non-metro,0.09,Very Low Concern
+09/30/2021,37197,Yadkin County,NC,42.1,Metro,0.64,High Concern
+09/30/2021,19095,Iowa County,IA,56.1,Non-metro,0.03,Very Low Concern
+09/30/2021,21209,Scott County,KY,56.4,Metro,0.33,Low Concern
+09/30/2021,27169,Winona County,MN,52.4,Non-metro,0.21,Low Concern
+09/30/2021,19057,Des Moines County,IA,44.8,Non-metro,0.47,Moderate Concern
+09/30/2021,40095,Marshall County,OK,37.3,Non-metro,0.85,Very High Concern
+09/30/2021,17187,Warren County,IL,42.2,Non-metro,0.61,High Concern
+09/30/2021,47065,Hamilton County,TN,48.7,Metro,0.41,Moderate Concern
+09/30/2021,21173,Montgomery County,KY,43.8,Non-metro,0.8,High Concern
+09/30/2021,37017,Bladen County,NC,31.2,Non-metro,0.94,Very High Concern
+09/30/2021,18095,Madison County,IN,46.4,Metro,0.67,High Concern
+09/30/2021,12119,Sumter County,FL,73.7,Metro,0.24,Low Concern
+09/30/2021,24031,Montgomery County,MD,75.6,Metro,0.33,Low Concern
+09/30/2021,5139,Union County,AR,40.6,Non-metro,0.81,Very High Concern
+09/30/2021,40075,Kiowa County,OK,45.0,Non-metro,0.65,High Concern
+09/30/2021,13191,McIntosh County,GA,33.7,Metro,0.59,Moderate Concern
+09/30/2021,28141,Tishomingo County,MS,33.5,Non-metro,0.67,High Concern
+09/30/2021,56001,Albany County,WY,46.6,Non-metro,0.25,Low Concern
+09/30/2021,13017,Ben Hill County,GA,12.6,Non-metro,0.87,Very High Concern
+09/30/2021,41025,Harney County,OR,39.0,Non-metro,0.71,High Concern
+09/30/2021,20107,Linn County,KS,31.1,Metro,0.45,Moderate Concern
+09/30/2021,36019,Clinton County,NY,64.0,Non-metro,0.53,Moderate Concern
+09/30/2021,53067,Thurston County,WA,56.4,Metro,0.33,Low Concern
+09/30/2021,21215,Spencer County,KY,27.3,Metro,0.04,Very Low Concern
+09/30/2021,22019,Calcasieu Parish,LA,35.7,Metro,0.74,High Concern
+09/30/2021,28143,Tunica County,MS,42.0,Metro,0.97,Very High Concern
+09/30/2021,47159,Smith County,TN,27.7,Metro,0.26,Low Concern
+09/30/2021,55087,Outagamie County,WI,55.6,Metro,0.1,Very Low Concern
+09/30/2021,31015,Boyd County,NE,30.5,Non-metro,0.09,Very Low Concern
+09/30/2021,42063,Indiana County,PA,41.3,Non-metro,0.55,Moderate Concern
+09/30/2021,13155,Irwin County,GA,13.3,Non-metro,0.84,Very High Concern
+09/30/2021,36087,Rockland County,NY,54.5,Metro,0.6,High Concern
+09/30/2021,4011,Greenlee County,AZ,36.2,Non-metro,0.62,High Concern
+09/30/2021,20035,Cowley County,KS,40.9,Non-metro,0.73,High Concern
+09/30/2021,5035,Crittenden County,AR,36.0,Metro,0.93,Very High Concern
+09/30/2021,18159,Tipton County,IN,40.5,Non-metro,0.07,Very Low Concern
+09/30/2021,21221,Trigg County,KY,40.8,Metro,0.37,Low Concern
+09/30/2021,51083,Halifax County,VA,39.3,Non-metro,0.67,High Concern
+09/30/2021,24045,Wicomico County,MD,48.4,Metro,0.77,High Concern
+09/30/2021,1031,Coffee County,AL,32.7,Non-metro,0.54,Moderate Concern
+09/30/2021,18025,Crawford County,IN,32.9,Non-metro,0.39,Low Concern
+09/30/2021,37033,Caswell County,NC,43.7,Non-metro,0.84,Very High Concern
+09/30/2021,51157,Rappahannock County,VA,48.3,Metro,0.02,Very Low Concern
+09/30/2021,30107,Wheatland County,MT,30.9,Non-metro,0.54,Moderate Concern
+09/30/2021,47091,Johnson County,TN,32.4,Non-metro,0.57,Moderate Concern
+09/30/2021,8101,Pueblo County,CO,47.5,Metro,0.87,Very High Concern
+09/30/2021,17195,Whiteside County,IL,46.7,Non-metro,0.33,Low Concern
+09/30/2021,5019,Clark County,AR,43.1,Non-metro,0.79,High Concern
+09/30/2021,31085,Hayes County,NE,20.8,Non-metro,0.04,Very Low Concern
+09/30/2021,45055,Kershaw County,SC,49.0,Metro,0.5,Moderate Concern
+09/30/2021,28095,Monroe County,MS,44.2,Non-metro,0.64,High Concern
+09/30/2021,19021,Buena Vista County,IA,57.3,Non-metro,0.74,High Concern
+09/30/2021,21169,Metcalfe County,KY,33.3,Non-metro,0.68,High Concern
+09/30/2021,26055,Grand Traverse County,MI,59.5,Non-metro,0.18,Very Low Concern
+09/30/2021,21207,Russell County,KY,40.6,Non-metro,0.86,Very High Concern
+09/30/2021,19123,Mahaska County,IA,38.4,Non-metro,0.46,Moderate Concern
+09/30/2021,41037,Lake County,OR,34.9,Non-metro,0.76,High Concern
+09/30/2021,37007,Anson County,NC,26.0,Non-metro,0.94,Very High Concern
+09/30/2021,18021,Clay County,IN,49.6,Metro,0.33,Low Concern
+09/30/2021,37051,Cumberland County,NC,53.6,Metro,0.86,Very High Concern
+09/30/2021,27115,Pine County,MN,41.1,Non-metro,0.46,Moderate Concern
+09/30/2021,5053,Grant County,AR,39.6,Metro,0.35,Low Concern
+09/30/2021,5061,Howard County,AR,45.4,Non-metro,0.9,Very High Concern
+09/30/2021,34007,Camden County,NJ,57.6,Metro,0.61,High Concern
+09/30/2021,51097,King and Queen County,VA,45.0,Non-metro,0.32,Low Concern
+09/30/2021,53033,King County,WA,69.1,Metro,0.29,Low Concern
+09/30/2021,36003,Allegany County,NY,37.1,Non-metro,0.58,Moderate Concern
+09/30/2021,27101,Murray County,MN,45.6,Non-metro,0.11,Very Low Concern
+09/30/2021,40099,Murray County,OK,39.1,Non-metro,0.71,High Concern
+09/30/2021,30037,Golden Valley County,MT,38.9,Metro,0.05,Very Low Concern
+09/30/2021,51195,Wise County,VA,39.6,Non-metro,0.86,Very High Concern
+09/30/2021,19035,Cherokee County,IA,47.8,Non-metro,0.17,Very Low Concern
+09/30/2021,28109,Pearl River County,MS,38.0,Non-metro,0.71,High Concern
+09/30/2021,46063,Harding County,SD,15.0,Non-metro,0.08,Very Low Concern
+09/30/2021,40021,Cherokee County,OK,38.6,Non-metro,0.93,Very High Concern
+09/30/2021,41039,Lane County,OR,60.8,Metro,0.65,High Concern
+09/30/2021,49043,Summit County,UT,73.3,Non-metro,0.05,Very Low Concern
+09/30/2021,19121,Madison County,IA,47.6,Metro,0.02,Very Low Concern
+09/30/2021,28075,Lauderdale County,MS,44.0,Non-metro,0.93,Very High Concern
+09/30/2021,19085,Harrison County,IA,46.0,Metro,0.06,Very Low Concern
+09/30/2021,28161,Yalobusha County,MS,57.3,Non-metro,0.73,High Concern
+09/30/2021,20071,Greeley County,KS,45.0,Non-metro,0.58,Moderate Concern
+09/30/2021,45067,Marion County,SC,41.1,Non-metro,0.93,Very High Concern
+09/30/2021,39101,Marion County,OH,41.3,Non-metro,0.64,High Concern
+09/30/2021,1051,Elmore County,AL,36.8,Metro,0.54,Moderate Concern
+09/30/2021,21165,Menifee County,KY,39.1,Non-metro,0.58,Moderate Concern
+09/30/2021,19195,Worth County,IA,46.2,Non-metro,0.07,Very Low Concern
+09/30/2021,18177,Wayne County,IN,42.8,Non-metro,0.71,High Concern
+09/30/2021,1083,Limestone County,AL,31.4,Metro,0.53,Moderate Concern
+09/30/2021,1081,Lee County,AL,33.5,Metro,0.66,High Concern
+09/30/2021,17097,Lake County,IL,58.8,Metro,0.35,Low Concern
+09/30/2021,29073,Gasconade County,MO,46.5,Non-metro,0.09,Very Low Concern
+09/30/2021,45029,Colleton County,SC,40.6,Non-metro,0.8,Very High Concern
+09/30/2021,17051,Fayette County,IL,26.4,Non-metro,0.59,Moderate Concern
+09/30/2021,21089,Greenup County,KY,42.9,Metro,0.32,Low Concern
+09/30/2021,21147,McCreary County,KY,35.7,Non-metro,0.88,Very High Concern
+09/30/2021,12007,Bradford County,FL,36.7,Non-metro,0.93,Very High Concern
+09/30/2021,31089,Holt County,NE,36.8,Non-metro,0.1,Very Low Concern
+09/30/2021,17045,Edgar County,IL,37.6,Non-metro,0.34,Low Concern
+09/30/2021,29047,Clay County,MO,45.7,Metro,0.14,Very Low Concern
+09/30/2021,5115,Pope County,AR,43.1,Non-metro,0.79,High Concern
+09/30/2021,37117,Martin County,NC,82.6,Non-metro,0.75,High Concern
+09/30/2021,40147,Washington County,OK,36.3,Non-metro,0.44,Moderate Concern
+09/30/2021,29229,Wright County,MO,32.0,Non-metro,0.9,Very High Concern
+09/30/2021,8035,Douglas County,CO,62.8,Metro,0.01,Very Low Concern
+09/30/2021,29099,Jefferson County,MO,37.9,Metro,0.19,Very Low Concern
+09/30/2021,39119,Muskingum County,OH,42.0,Non-metro,0.6,Moderate Concern
+09/30/2021,47137,Pickett County,TN,38.4,Non-metro,0.42,Moderate Concern
+09/30/2021,54053,Mason County,WV,32.3,Non-metro,0.55,Moderate Concern
+09/30/2021,26149,St. Joseph County,MI,38.3,Non-metro,0.65,High Concern
+09/30/2021,5119,Pulaski County,AR,49.2,Metro,0.63,High Concern
+09/30/2021,27049,Goodhue County,MN,57.2,Non-metro,0.17,Very Low Concern
+09/30/2021,5017,Chicot County,AR,47.7,Non-metro,1.0,Very High Concern
+09/30/2021,12073,Leon County,FL,49.7,Metro,0.49,Moderate Concern
+09/30/2021,30091,Sheridan County,MT,42.0,Non-metro,0.09,Very Low Concern
+09/30/2021,29131,Miller County,MO,29.2,Non-metro,0.5,Moderate Concern
+09/30/2021,46102,Oglala Lakota County,SD,54.9,Non-metro,0.99,Very High Concern
+09/30/2021,37019,Brunswick County,NC,53.1,Metro,0.36,Low Concern
+09/30/2021,53041,Lewis County,WA,43.0,Non-metro,0.79,High Concern
+09/30/2021,38085,Sioux County,ND,34.9,Metro,0.88,Very High Concern
+09/30/2021,13319,Wilkinson County,GA,19.8,Non-metro,0.79,High Concern
+09/30/2021,6035,Lassen County,CA,30.5,Non-metro,0.6,Moderate Concern
+09/30/2021,31155,Saunders County,NE,45.7,Metro,0.04,Very Low Concern
+09/30/2021,16035,Clearwater County,ID,35.7,Non-metro,0.44,Moderate Concern
+09/30/2021,39085,Lake County,OH,57.4,Metro,0.13,Very Low Concern
+09/30/2021,8093,Park County,CO,42.3,Metro,0.0,Very Low Concern
+09/30/2021,47025,Claiborne County,TN,38.1,Non-metro,0.71,High Concern
+09/30/2021,13019,Berrien County,GA,17.4,Non-metro,0.85,Very High Concern
+09/30/2021,38101,Ward County,ND,39.1,Non-metro,0.17,Very Low Concern
+09/30/2021,1073,Jefferson County,AL,48.9,Metro,0.66,High Concern
+09/30/2021,51775,Salem city,VA,46.5,Metro,0.31,Low Concern
+09/30/2021,45091,York County,SC,39.4,Metro,0.37,Low Concern
+09/30/2021,46047,Fall River County,SD,44.0,Non-metro,0.42,Moderate Concern
+09/30/2021,13059,Clarke County,GA,22.0,Metro,0.77,High Concern
+09/30/2021,54107,Wood County,WV,39.1,Metro,0.37,Low Concern
+09/30/2021,13235,Pulaski County,GA,13.2,Metro,0.85,Very High Concern
+09/30/2021,40033,Cotton County,OK,38.3,Metro,0.67,High Concern
+09/30/2021,24005,Baltimore County,MD,62.4,Metro,0.38,Low Concern
+09/30/2021,30047,Lake County,MT,49.4,Non-metro,0.65,High Concern
+09/30/2021,23007,Franklin County,ME,55.7,Non-metro,0.22,Low Concern
+09/30/2021,30087,Rosebud County,MT,66.6,Non-metro,0.61,High Concern
+09/30/2021,28091,Marion County,MS,38.3,Non-metro,0.94,Very High Concern
+09/30/2021,12063,Jackson County,FL,36.1,Non-metro,0.96,Very High Concern
+09/30/2021,54083,Randolph County,WV,28.2,Non-metro,0.58,Moderate Concern
+09/30/2021,21043,Carter County,KY,39.4,Non-metro,0.82,Very High Concern
+09/30/2021,30079,Prairie County,MT,32.9,Non-metro,0.08,Very Low Concern
+09/30/2021,33019,Sullivan County,NH,55.8,Non-metro,0.15,Very Low Concern
+09/30/2021,17071,Henderson County,IL,40.4,Non-metro,0.07,Very Low Concern
+09/30/2021,12086,Miami-Dade County,FL,72.3,Metro,0.82,Very High Concern
+09/30/2021,27143,Sibley County,MN,40.2,Metro,0.13,Very Low Concern
+09/30/2021,20159,Rice County,KS,38.0,Non-metro,0.43,Moderate Concern
+09/30/2021,8119,Teller County,CO,47.9,Metro,0.07,Very Low Concern
+09/30/2021,27141,Sherburne County,MN,37.6,Metro,0.09,Very Low Concern
+09/30/2021,26123,Newaygo County,MI,37.1,Non-metro,0.63,High Concern
+09/30/2021,53035,Kitsap County,WA,55.7,Metro,0.28,Low Concern
+09/30/2021,40109,Oklahoma County,OK,54.1,Metro,0.68,High Concern
+09/30/2021,26057,Gratiot County,MI,38.7,Non-metro,0.6,High Concern
+09/30/2021,40065,Jackson County,OK,43.3,Non-metro,0.82,Very High Concern
+09/30/2021,26131,Ontonagon County,MI,62.0,Non-metro,0.27,Low Concern
+09/30/2021,53027,Grays Harbor County,WA,50.2,Non-metro,0.84,Very High Concern
+09/30/2021,21017,Bourbon County,KY,50.5,Metro,0.56,Moderate Concern
+09/30/2021,26081,Kent County,MI,52.5,Metro,0.48,Moderate Concern
+09/30/2021,19037,Chickasaw County,IA,48.5,Non-metro,0.06,Very Low Concern
+09/30/2021,40007,Beaver County,OK,25.7,Non-metro,0.46,Moderate Concern
+09/30/2021,27047,Freeborn County,MN,49.2,Non-metro,0.43,Moderate Concern
+09/30/2021,40145,Wagoner County,OK,40.1,Metro,0.42,Moderate Concern
+09/30/2021,19077,Guthrie County,IA,52.6,Metro,0.12,Very Low Concern
+09/30/2021,31013,Box Butte County,NE,27.1,Non-metro,0.36,Low Concern
+09/30/2021,21023,Bracken County,KY,42.4,Metro,0.39,Low Concern
+09/30/2021,5023,Cleburne County,AR,38.8,Non-metro,0.21,Low Concern
+09/30/2021,13093,Dooly County,GA,15.9,Non-metro,0.95,Very High Concern
+09/30/2021,21223,Trimble County,KY,39.9,Metro,0.71,High Concern
+09/30/2021,31069,Garden County,NE,40.2,Non-metro,0.01,Very Low Concern
+09/30/2021,20139,Osage County,KS,44.0,Metro,0.23,Low Concern
+09/30/2021,37141,Pender County,NC,43.0,Metro,0.55,Moderate Concern
+09/30/2021,36115,Washington County,NY,57.7,Metro,0.4,Moderate Concern
+09/30/2021,2290,Yukon-Koyukuk Census Area,AK,60.1,Non-metro,0.88,Very High Concern
+09/30/2021,1011,Bullock County,AL,42.8,Non-metro,0.89,Very High Concern
+09/30/2021,51011,Appomattox County,VA,31.9,Metro,0.36,Low Concern
+09/30/2021,6001,Alameda County,CA,69.4,Metro,0.47,Moderate Concern
+09/30/2021,55025,Dane County,WI,72.7,Metro,0.17,Very Low Concern
+09/30/2021,1103,Morgan County,AL,37.1,Metro,0.69,High Concern
+09/30/2021,28077,Lawrence County,MS,47.8,Non-metro,0.66,High Concern
+09/30/2021,1117,Shelby County,AL,30.7,Metro,0.12,Very Low Concern
+09/30/2021,41051,Multnomah County,OR,69.4,Metro,0.47,Moderate Concern
+09/30/2021,39081,Jefferson County,OH,43.5,Metro,0.55,Moderate Concern
+09/30/2021,37093,Hoke County,NC,27.3,Metro,0.89,Very High Concern
+09/30/2021,6065,Riverside County,CA,48.6,Metro,0.79,High Concern
+09/30/2021,31011,Boone County,NE,44.6,Non-metro,0.03,Very Low Concern
+09/30/2021,40137,Stephens County,OK,40.6,Non-metro,0.61,High Concern
+09/30/2021,21163,Meade County,KY,36.8,Metro,0.32,Low Concern
+09/30/2021,29009,Barry County,MO,38.6,Non-metro,0.71,High Concern
+09/30/2021,45047,Greenwood County,SC,42.2,Non-metro,0.93,Very High Concern
+09/30/2021,51029,Buckingham County,VA,37.1,Metro,0.79,High Concern
+09/30/2021,29083,Henry County,MO,39.5,Non-metro,0.6,Moderate Concern
+09/30/2021,56011,Crook County,WY,24.3,Non-metro,0.03,Very Low Concern
+09/30/2021,51099,King George County,VA,42.7,Non-metro,0.02,Very Low Concern
+09/30/2021,18137,Ripley County,IN,42.0,Non-metro,0.38,Low Concern
+09/30/2021,13253,Seminole County,GA,15.5,Non-metro,0.83,Very High Concern
+09/30/2021,13313,Whitfield County,GA,20.6,Metro,0.88,Very High Concern
+09/30/2021,36111,Ulster County,NY,63.0,Metro,0.47,Moderate Concern
+09/30/2021,38031,Foster County,ND,47.4,Non-metro,0.02,Very Low Concern
+09/30/2021,37129,New Hanover County,NC,53.0,Metro,0.38,Low Concern
+09/30/2021,54021,Gilmer County,WV,39.8,Non-metro,0.76,High Concern
+09/30/2021,20101,Lane County,KS,37.2,Non-metro,0.03,Very Low Concern
+09/30/2021,20069,Gray County,KS,37.8,Non-metro,0.27,Low Concern
+09/30/2021,47049,Fentress County,TN,28.1,Non-metro,0.64,High Concern
+09/30/2021,18115,Ohio County,IN,67.1,Metro,0.03,Very Low Concern
+09/30/2021,55095,Polk County,WI,44.8,Non-metro,0.09,Very Low Concern
+09/30/2021,34003,Bergen County,NJ,67.2,Metro,0.24,Low Concern
+09/30/2021,29207,Stoddard County,MO,34.2,Non-metro,0.46,Moderate Concern
+09/30/2021,27005,Becker County,MN,46.6,Non-metro,0.3,Low Concern
+09/30/2021,55033,Dunn County,WI,42.9,Non-metro,0.18,Very Low Concern
+09/30/2021,40127,Pushmataha County,OK,29.8,Non-metro,0.79,High Concern
+09/30/2021,13091,Dodge County,GA,9.6,Non-metro,0.92,Very High Concern
+09/30/2021,38069,Pierce County,ND,40.9,Non-metro,0.19,Very Low Concern
+09/30/2021,17143,Peoria County,IL,50.6,Metro,0.61,High Concern
+09/30/2021,28041,Greene County,MS,32.2,Non-metro,0.61,High Concern
+09/30/2021,55085,Oneida County,WI,58.7,Non-metro,0.01,Very Low Concern
+09/30/2021,47139,Polk County,TN,36.1,Metro,0.49,Moderate Concern
+09/30/2021,20125,Montgomery County,KS,38.9,Non-metro,0.8,Very High Concern
+09/30/2021,51119,Middlesex County,VA,56.1,Non-metro,0.2,Low Concern
+09/30/2021,17171,Scott County,IL,35.9,Non-metro,0.14,Very Low Concern
+09/30/2021,51007,Amelia County,VA,33.6,Metro,0.32,Low Concern
+09/30/2021,55019,Clark County,WI,32.4,Non-metro,0.54,Moderate Concern
+09/30/2021,40013,Bryan County,OK,32.3,Non-metro,0.81,Very High Concern
+09/30/2021,13153,Houston County,GA,33.0,Metro,0.57,Moderate Concern
+09/30/2021,20033,Comanche County,KS,41.4,Non-metro,0.08,Very Low Concern
+09/30/2021,5147,Woodruff County,AR,50.4,Non-metro,0.85,Very High Concern
+09/30/2021,28017,Chickasaw County,MS,42.1,Non-metro,0.91,Very High Concern
+09/30/2021,28067,Jones County,MS,36.1,Non-metro,0.89,Very High Concern
+09/30/2021,31079,Hall County,NE,40.4,Metro,0.67,High Concern
+09/30/2021,1057,Fayette County,AL,29.6,Non-metro,0.7,High Concern
+09/30/2021,1037,Coosa County,AL,34.9,Non-metro,0.53,Moderate Concern
+09/30/2021,5127,Scott County,AR,39.6,Non-metro,0.89,Very High Concern
+09/30/2021,12049,Hardee County,FL,35.4,Non-metro,0.98,Very High Concern
+09/30/2021,2195,Petersburg Census Area,AK,65.5,Non-metro,0.67,High Concern
+09/30/2021,20203,Wichita County,KS,44.1,Non-metro,0.47,Moderate Concern
+09/30/2021,47087,Jackson County,TN,28.7,Non-metro,0.6,High Concern
+09/30/2021,47077,Henderson County,TN,35.8,Non-metro,0.7,High Concern
+09/30/2021,51045,Craig County,VA,31.6,Metro,0.07,Very Low Concern
+09/30/2021,16069,Nez Perce County,ID,44.0,Metro,0.51,Moderate Concern
+09/30/2021,6053,Monterey County,CA,58.0,Metro,0.8,High Concern
+09/30/2021,17199,Williamson County,IL,43.2,Metro,0.48,Moderate Concern
+09/30/2021,31021,Burt County,NE,51.1,Non-metro,0.25,Low Concern
+09/30/2021,16037,Custer County,ID,38.8,Non-metro,0.44,Moderate Concern
+09/30/2021,17109,McDonough County,IL,39.4,Non-metro,0.52,Moderate Concern
+09/30/2021,21195,Pike County,KY,45.2,Non-metro,0.79,High Concern
+09/30/2021,47027,Clay County,TN,24.9,Non-metro,0.59,Moderate Concern
+09/30/2021,16061,Lewis County,ID,40.8,Non-metro,0.57,Moderate Concern
+09/30/2021,38047,Logan County,ND,29.5,Non-metro,0.04,Very Low Concern
+09/30/2021,27149,Stevens County,MN,49.1,Non-metro,0.23,Low Concern
+09/30/2021,47037,Davidson County,TN,55.1,Metro,0.54,Moderate Concern
+09/30/2021,23027,Waldo County,ME,62.3,Non-metro,0.22,Low Concern
+09/30/2021,26107,Mecosta County,MI,34.9,Non-metro,0.6,Moderate Concern
+09/30/2021,55039,Fond du Lac County,WI,48.2,Metro,0.2,Low Concern
+09/30/2021,41031,Jefferson County,OR,53.3,Non-metro,0.91,Very High Concern
+09/30/2021,30077,Powell County,MT,39.9,Non-metro,0.25,Low Concern
+09/30/2021,55101,Racine County,WI,52.0,Metro,0.46,Moderate Concern
+09/30/2021,29221,Washington County,MO,26.9,Non-metro,0.79,High Concern
+09/30/2021,37109,Lincoln County,NC,40.7,Metro,0.36,Low Concern
+09/30/2021,46069,Hyde County,SD,39.1,Non-metro,0.09,Very Low Concern
+09/30/2021,36079,Putnam County,NY,63.7,Metro,0.08,Very Low Concern
+09/30/2021,31037,Colfax County,NE,39.1,Non-metro,0.52,Moderate Concern
+09/30/2021,22021,Caldwell Parish,LA,33.0,Non-metro,0.93,Very High Concern
+09/30/2021,47023,Chester County,TN,30.4,Metro,0.64,High Concern
+09/30/2021,31061,Franklin County,NE,34.1,Non-metro,0.08,Very Low Concern
+09/30/2021,27159,Wadena County,MN,42.0,Non-metro,0.66,High Concern
+09/30/2021,1061,Geneva County,AL,32.6,Metro,0.8,High Concern
+09/30/2021,47019,Carter County,TN,34.9,Metro,0.62,High Concern
+09/30/2021,53059,Skamania County,WA,33.8,Metro,0.22,Low Concern
+09/30/2021,13189,McDuffie County,GA,17.0,Metro,0.94,Very High Concern
+09/30/2021,38099,Walsh County,ND,48.1,Non-metro,0.37,Low Concern
+09/30/2021,13039,Camden County,GA,40.5,Non-metro,0.52,Moderate Concern
+09/30/2021,51003,Albemarle County,VA,58.6,Metro,0.17,Very Low Concern
+09/30/2021,19115,Louisa County,IA,45.9,Non-metro,0.46,Moderate Concern
+09/30/2021,17095,Knox County,IL,46.1,Non-metro,0.65,High Concern
+09/30/2021,53009,Clallam County,WA,60.2,Non-metro,0.61,High Concern
+09/30/2021,8025,Crowley County,CO,18.5,Non-metro,0.89,Very High Concern
+09/30/2021,25023,Plymouth County,MA,59.8,Metro,0.23,Low Concern
+09/30/2021,47155,Sevier County,TN,42.2,Non-metro,0.61,High Concern
+09/30/2021,12037,Franklin County,FL,42.1,Non-metro,0.81,Very High Concern
+09/30/2021,38105,Williams County,ND,24.5,Non-metro,0.25,Low Concern
+09/30/2021,17189,Washington County,IL,47.1,Non-metro,0.07,Very Low Concern
+09/30/2021,20067,Grant County,KS,40.1,Non-metro,0.38,Low Concern
+09/30/2021,41033,Josephine County,OR,44.6,Metro,0.66,High Concern
+09/30/2021,42013,Blair County,PA,44.8,Metro,0.4,Low Concern
+09/30/2021,51840,Winchester city,VA,41.0,Metro,0.72,High Concern
+09/30/2021,37041,Chowan County,NC,43.3,Non-metro,0.81,Very High Concern
+09/30/2021,46091,Marshall County,SD,43.6,Non-metro,0.21,Low Concern
+09/30/2021,42075,Lebanon County,PA,48.7,Metro,0.53,Moderate Concern
+09/30/2021,51710,Norfolk city,VA,45.3,Metro,0.77,High Concern
+09/30/2021,13069,Coffee County,GA,26.3,Non-metro,0.95,Very High Concern
+09/30/2021,1041,Crenshaw County,AL,29.2,Non-metro,0.69,High Concern
+09/30/2021,34035,Somerset County,NJ,65.4,Metro,0.1,Very Low Concern
+09/30/2021,8075,Logan County,CO,31.5,Non-metro,0.63,High Concern
+09/30/2021,50009,Essex County,VT,33.9,Non-metro,0.21,Low Concern
+09/30/2021,41045,Malheur County,OR,38.4,Non-metro,1.0,Very High Concern
+09/30/2021,29105,Laclede County,MO,32.5,Non-metro,0.62,High Concern
+09/30/2021,8001,Adams County,CO,56.9,Metro,0.59,Moderate Concern
+09/30/2021,29055,Crawford County,MO,28.8,Non-metro,0.76,High Concern
+09/30/2021,22047,Iberville Parish,LA,48.1,Metro,0.89,Very High Concern
+09/30/2021,38021,Dickey County,ND,46.9,Non-metro,0.12,Very Low Concern
+09/30/2021,18061,Harrison County,IN,45.3,Metro,0.19,Very Low Concern
+09/30/2021,5099,Nevada County,AR,34.1,Non-metro,0.88,Very High Concern
+09/30/2021,29211,Sullivan County,MO,38.1,Non-metro,0.63,High Concern
+09/30/2021,56027,Niobrara County,WY,25.0,Non-metro,0.34,Low Concern
+09/30/2021,13197,Marion County,GA,14.7,Metro,0.85,Very High Concern
+09/30/2021,13289,Twiggs County,GA,11.3,Metro,0.76,High Concern
+09/30/2021,8007,Archuleta County,CO,50.3,Non-metro,0.26,Low Concern
+09/30/2021,19017,Bremer County,IA,53.2,Metro,0.03,Very Low Concern
+09/30/2021,31099,Kearney County,NE,41.4,Non-metro,0.09,Very Low Concern
+09/30/2021,55083,Oconto County,WI,46.7,Metro,0.06,Very Low Concern
+09/30/2021,2180,Nome Census Area,AK,60.5,Non-metro,0.93,Very High Concern
+09/30/2021,20113,McPherson County,KS,46.7,Non-metro,0.11,Very Low Concern
+09/30/2021,29001,Adair County,MO,39.5,Non-metro,0.45,Moderate Concern
+09/30/2021,47167,Tipton County,TN,32.8,Metro,0.45,Moderate Concern
+09/30/2021,21041,Carroll County,KY,43.3,Non-metro,0.89,Very High Concern
+09/30/2021,19139,Muscatine County,IA,52.7,Non-metro,0.39,Low Concern
+09/30/2021,16067,Minidoka County,ID,31.0,Non-metro,0.68,High Concern
+09/30/2021,5107,Phillips County,AR,41.9,Non-metro,0.92,Very High Concern
+09/30/2021,22031,De Soto Parish,LA,35.2,Metro,0.89,Very High Concern
+09/30/2021,26119,Montmorency County,MI,46.7,Non-metro,0.37,Low Concern
+09/30/2021,26003,Alger County,MI,56.3,Non-metro,0.45,Moderate Concern
+09/30/2021,19063,Emmet County,IA,44.8,Non-metro,0.39,Low Concern
+09/30/2021,19119,Lyon County,IA,36.2,Non-metro,0.04,Very Low Concern
+09/30/2021,29175,Randolph County,MO,32.2,Non-metro,0.56,Moderate Concern
+09/30/2021,44005,Newport County,RI,69.3,Metro,0.18,Very Low Concern
+09/30/2021,20119,Meade County,KS,33.5,Non-metro,0.37,Low Concern
+09/30/2021,21235,Whitley County,KY,37.8,Non-metro,0.84,Very High Concern
+09/30/2021,26063,Huron County,MI,47.5,Non-metro,0.27,Low Concern
+09/30/2021,40135,Sequoyah County,OK,33.4,Metro,0.92,Very High Concern
+09/30/2021,19147,Palo Alto County,IA,45.3,Non-metro,0.17,Very Low Concern
+09/30/2021,29087,Holt County,MO,36.6,Non-metro,0.2,Very Low Concern
+09/30/2021,39163,Vinton County,OH,33.9,Non-metro,0.72,High Concern
+09/30/2021,29155,Pemiscot County,MO,23.8,Non-metro,0.93,Very High Concern
+09/30/2021,31145,Red Willow County,NE,32.0,Non-metro,0.24,Low Concern
+09/30/2021,26035,Clare County,MI,39.2,Non-metro,0.77,High Concern
+09/30/2021,20093,Kearny County,KS,44.2,Non-metro,0.47,Moderate Concern
+09/30/2021,21031,Butler County,KY,40.4,Metro,0.79,High Concern
+09/30/2021,13305,Wayne County,GA,28.2,Non-metro,0.92,Very High Concern
+09/30/2021,40017,Canadian County,OK,48.7,Metro,0.26,Low Concern
+09/30/2021,5077,Lee County,AR,28.4,Non-metro,0.97,Very High Concern
+09/30/2021,37085,Harnett County,NC,32.5,Non-metro,0.79,High Concern
+09/30/2021,24017,Charles County,MD,56.7,Metro,0.17,Very Low Concern
+09/30/2021,17101,Lawrence County,IL,29.3,Non-metro,0.78,High Concern
+09/30/2021,46073,Jerauld County,SD,38.3,Non-metro,0.05,Very Low Concern
+09/30/2021,42065,Jefferson County,PA,44.0,Non-metro,0.33,Low Concern
+09/30/2021,55061,Kewaunee County,WI,45.6,Metro,0.06,Very Low Concern
+09/30/2021,24041,Talbot County,MD,66.1,Non-metro,0.13,Very Low Concern
+09/30/2021,21081,Grant County,KY,45.2,Metro,0.56,Moderate Concern
+09/30/2021,24029,Kent County,MD,60.8,Non-metro,0.43,Moderate Concern
+09/30/2021,1101,Montgomery County,AL,43.6,Metro,0.84,Very High Concern
+09/30/2021,29217,Vernon County,MO,30.7,Non-metro,0.45,Moderate Concern
+09/30/2021,8053,Hinsdale County,CO,51.6,Non-metro,0.06,Very Low Concern
+09/30/2021,46079,Lake County,SD,37.4,Non-metro,0.2,Very Low Concern
+09/30/2021,47181,Wayne County,TN,35.2,Non-metro,0.76,High Concern
+09/30/2021,37143,Perquimans County,NC,23.1,Non-metro,0.5,Moderate Concern
+09/30/2021,27063,Jackson County,MN,42.3,Non-metro,0.03,Very Low Concern
+09/30/2021,37047,Columbus County,NC,36.3,Non-metro,0.95,Very High Concern
+09/30/2021,1007,Bibb County,AL,29.6,Metro,0.6,High Concern
+09/30/2021,37023,Burke County,NC,40.0,Metro,0.85,Very High Concern
+09/30/2021,22115,Vernon Parish,LA,41.9,Non-metro,0.74,High Concern
+09/30/2021,17011,Bureau County,IL,45.3,Non-metro,0.29,Low Concern
+09/30/2021,37003,Alexander County,NC,38.1,Metro,0.63,High Concern
+09/30/2021,55125,Vilas County,WI,57.4,Non-metro,0.14,Very Low Concern
+09/30/2021,46043,Douglas County,SD,33.6,Non-metro,0.15,Very Low Concern
+09/30/2021,30111,Yellowstone County,MT,44.5,Metro,0.25,Low Concern
+09/30/2021,55103,Richland County,WI,52.1,Non-metro,0.31,Low Concern
+09/30/2021,45057,Lancaster County,SC,36.4,Metro,0.51,Moderate Concern
+09/30/2021,50027,Windsor County,VT,44.2,Non-metro,0.13,Very Low Concern
+09/30/2021,16011,Bingham County,ID,36.3,Non-metro,0.51,Moderate Concern
+09/30/2021,2020,Anchorage Municipality,AK,54.1,Metro,0.46,Moderate Concern
+09/30/2021,55065,Lafayette County,WI,53.2,Non-metro,0.16,Very Low Concern
+09/30/2021,42007,Beaver County,PA,47.2,Metro,0.25,Low Concern
+09/30/2021,13259,Stewart County,GA,17.6,Non-metro,0.92,Very High Concern
+09/30/2021,51023,Botetourt County,VA,45.5,Metro,0.04,Very Low Concern
+09/30/2021,27043,Faribault County,MN,49.3,Non-metro,0.16,Very Low Concern
+09/30/2021,17153,Pulaski County,IL,31.6,Non-metro,0.69,High Concern
+09/30/2021,40151,Woods County,OK,35.2,Non-metro,0.31,Low Concern
+09/30/2021,21109,Jackson County,KY,29.6,Non-metro,0.67,High Concern
+09/30/2021,20021,Cherokee County,KS,39.8,Non-metro,0.38,Low Concern
+09/30/2021,37065,Edgecombe County,NC,39.5,Metro,0.97,Very High Concern
+09/30/2021,47069,Hardeman County,TN,38.6,Non-metro,0.87,Very High Concern
+09/30/2021,47045,Dyer County,TN,32.9,Non-metro,0.76,High Concern
+09/30/2021,45077,Pickens County,SC,40.3,Metro,0.6,Moderate Concern
+09/30/2021,18103,Miami County,IN,36.2,Non-metro,0.59,Moderate Concern
+09/30/2021,5137,Stone County,AR,32.6,Non-metro,0.51,Moderate Concern
+09/30/2021,39127,Perry County,OH,34.9,Metro,0.55,Moderate Concern
+09/30/2021,39015,Brown County,OH,35.0,Metro,0.4,Moderate Concern
+09/30/2021,31127,Nemaha County,NE,44.2,Non-metro,0.17,Very Low Concern
+09/30/2021,51125,Nelson County,VA,52.1,Metro,0.3,Low Concern
+09/30/2021,26037,Clinton County,MI,49.3,Metro,0.04,Very Low Concern
+09/30/2021,13207,Monroe County,GA,10.6,Metro,0.46,Moderate Concern
+09/30/2021,42085,Mercer County,PA,49.5,Metro,0.54,Moderate Concern
+09/30/2021,27059,Isanti County,MN,35.0,Metro,0.1,Very Low Concern
+09/30/2021,49041,Sevier County,UT,33.6,Non-metro,0.33,Low Concern
+09/30/2021,47007,Bledsoe County,TN,29.2,Non-metro,0.82,Very High Concern
+09/30/2021,36027,Dutchess County,NY,60.4,Metro,0.42,Moderate Concern
+09/30/2021,37077,Granville County,NC,49.9,Non-metro,0.66,High Concern
+09/30/2021,47187,Williamson County,TN,56.9,Metro,0.02,Very Low Concern
+09/30/2021,21133,Letcher County,KY,45.6,Non-metro,0.88,Very High Concern
+09/30/2021,51173,Smyth County,VA,42.3,Non-metro,0.75,High Concern
+09/30/2021,36035,Fulton County,NY,47.3,Non-metro,0.5,Moderate Concern
+09/30/2021,45015,Berkeley County,SC,39.6,Metro,0.51,Moderate Concern
+09/30/2021,27151,Swift County,MN,49.1,Non-metro,0.32,Low Concern
+09/30/2021,49039,Sanpete County,UT,32.1,Non-metro,0.6,High Concern
+09/30/2021,39051,Fulton County,OH,45.9,Metro,0.18,Very Low Concern
+09/30/2021,26095,Luce County,MI,39.3,Non-metro,0.53,Moderate Concern
+09/30/2021,30089,Sanders County,MT,34.0,Non-metro,0.35,Low Concern
+09/30/2021,13103,Effingham County,GA,20.7,Metro,0.24,Low Concern
+09/30/2021,47053,Gibson County,TN,37.8,Non-metro,0.74,High Concern
+09/30/2021,13249,Schley County,GA,16.6,Non-metro,0.82,Very High Concern
+09/30/2021,51147,Prince Edward County,VA,30.4,Non-metro,0.73,High Concern
+09/30/2021,17099,LaSalle County,IL,45.5,Non-metro,0.43,Moderate Concern
+09/30/2021,9015,Windham County,CT,55.8,Metro,0.42,Moderate Concern
+09/30/2021,51159,Richmond County,VA,38.4,Non-metro,0.61,High Concern
+09/30/2021,1059,Franklin County,AL,37.5,Non-metro,0.84,Very High Concern
+09/30/2021,26147,St. Clair County,MI,43.6,Metro,0.28,Low Concern
+09/30/2021,31067,Gage County,NE,37.1,Non-metro,0.11,Very Low Concern
+09/30/2021,45017,Calhoun County,SC,33.2,Metro,0.56,Moderate Concern
+09/30/2021,13199,Meriwether County,GA,22.1,Metro,0.87,Very High Concern
+09/30/2021,20097,Kiowa County,KS,44.0,Non-metro,0.26,Low Concern
+09/30/2021,8019,Clear Creek County,CO,43.4,Metro,0.02,Very Low Concern
+09/30/2021,1131,Wilcox County,AL,44.8,Non-metro,0.93,Very High Concern
+09/30/2021,38061,Mountrail County,ND,32.2,Non-metro,0.38,Low Concern
+09/30/2021,50001,Addison County,VT,61.5,Non-metro,0.1,Very Low Concern
+09/30/2021,5141,Van Buren County,AR,37.9,Non-metro,0.72,High Concern
+09/30/2021,31119,Madison County,NE,39.5,Non-metro,0.51,Moderate Concern
+09/30/2021,31167,Stanton County,NE,24.1,Non-metro,0.06,Very Low Concern
+09/30/2021,1099,Monroe County,AL,37.0,Non-metro,0.75,High Concern
+09/30/2021,42119,Union County,PA,52.6,Non-metro,0.36,Low Concern
+09/30/2021,21009,Barren County,KY,39.7,Non-metro,0.78,High Concern
+09/30/2021,27099,Mower County,MN,53.1,Non-metro,0.63,High Concern
+09/30/2021,54031,Hardy County,WV,23.7,Non-metro,0.28,Low Concern
+09/30/2021,13061,Clay County,GA,31.4,Non-metro,0.93,Very High Concern
+09/30/2021,37021,Buncombe County,NC,56.1,Metro,0.38,Low Concern
+09/30/2021,31063,Frontier County,NE,23.5,Non-metro,0.1,Very Low Concern
+09/30/2021,37139,Pasquotank County,NC,41.7,Non-metro,0.77,High Concern
+09/30/2021,49037,San Juan County,UT,49.5,Non-metro,0.98,Very High Concern
+09/30/2021,17169,Schuyler County,IL,48.9,Non-metro,0.57,Moderate Concern
+09/30/2021,42029,Chester County,PA,59.1,Metro,0.14,Very Low Concern
+09/30/2021,5097,Montgomery County,AR,32.5,Non-metro,0.7,High Concern
+09/30/2021,22089,St. Charles Parish,LA,47.6,Metro,0.35,Low Concern
+09/30/2021,17007,Boone County,IL,47.2,Metro,0.47,Moderate Concern
+09/30/2021,1097,Mobile County,AL,41.4,Metro,0.75,High Concern
+09/30/2021,37027,Caldwell County,NC,40.2,Metro,0.65,High Concern
+09/30/2021,37123,Montgomery County,NC,35.3,Non-metro,0.87,Very High Concern
+09/30/2021,51063,Floyd County,VA,36.1,Metro,0.11,Very Low Concern
+09/30/2021,51197,Wythe County,VA,34.3,Non-metro,0.4,Low Concern
+09/30/2021,53019,Ferry County,WA,47.2,Non-metro,0.82,Very High Concern
+09/30/2021,8063,Kit Carson County,CO,33.3,Non-metro,0.52,Moderate Concern
+09/30/2021,18169,Wabash County,IN,37.6,Non-metro,0.29,Low Concern
+09/30/2021,51017,Bath County,VA,40.6,Non-metro,0.25,Low Concern
+09/30/2021,55017,Chippewa County,WI,50.0,Metro,0.21,Low Concern
+09/30/2021,5093,Mississippi County,AR,34.1,Non-metro,0.96,Very High Concern
+09/30/2021,31003,Antelope County,NE,33.2,Non-metro,0.1,Very Low Concern
+09/30/2021,29163,Pike County,MO,33.2,Non-metro,0.54,Moderate Concern
+09/30/2021,29169,Pulaski County,MO,53.6,Non-metro,0.65,High Concern
+09/30/2021,6005,Amador County,CA,46.9,Non-metro,0.53,Moderate Concern
+09/30/2021,19061,Dubuque County,IA,57.5,Metro,0.23,Low Concern
+09/30/2021,17181,Union County,IL,45.3,Non-metro,0.68,High Concern
+09/30/2021,22075,Plaquemines Parish,LA,51.5,Metro,0.71,High Concern
+09/30/2021,46011,Brookings County,SD,38.6,Non-metro,0.16,Very Low Concern
+09/30/2021,37099,Jackson County,NC,45.4,Non-metro,0.62,High Concern
+09/30/2021,13065,Clinch County,GA,30.0,Non-metro,0.98,Very High Concern
+09/30/2021,28153,Wayne County,MS,32.8,Non-metro,0.9,Very High Concern
+09/30/2021,31157,Scotts Bluff County,NE,34.7,Non-metro,0.57,Moderate Concern
+09/30/2021,51139,Page County,VA,34.7,Non-metro,0.39,Low Concern
+09/30/2021,20189,Stevens County,KS,29.0,Non-metro,0.67,High Concern
+09/30/2021,46037,Day County,SD,47.4,Non-metro,0.18,Very Low Concern
+09/30/2021,10003,New Castle County,DE,57.6,Metro,0.38,Low Concern
+09/30/2021,13077,Coweta County,GA,25.6,Metro,0.24,Low Concern
+09/30/2021,36031,Essex County,NY,63.7,Non-metro,0.39,Low Concern
+09/30/2021,47021,Cheatham County,TN,42.6,Metro,0.24,Low Concern
+09/30/2021,28107,Panola County,MS,38.8,Non-metro,0.89,Very High Concern
+09/30/2021,18139,Rush County,IN,41.9,Non-metro,0.26,Low Concern
+09/30/2021,29015,Benton County,MO,42.2,Non-metro,0.55,Moderate Concern
+09/30/2021,54103,Wetzel County,WV,10.4,Non-metro,0.48,Moderate Concern
+09/30/2021,20105,Lincoln County,KS,39.1,Non-metro,0.13,Very Low Concern
+09/30/2021,51770,Roanoke city,VA,39.0,Metro,0.8,Very High Concern
+09/30/2021,6075,San Francisco County,CA,73.0,Metro,0.39,Low Concern
+09/30/2021,38003,Barnes County,ND,50.4,Non-metro,0.12,Very Low Concern
+09/30/2021,46045,Edmunds County,SD,31.4,Non-metro,0.03,Very Low Concern
+09/30/2021,13223,Paulding County,GA,18.6,Metro,0.14,Very Low Concern
+09/30/2021,21183,Ohio County,KY,34.1,Non-metro,0.58,Moderate Concern
+09/30/2021,18085,Kosciusko County,IN,36.3,Non-metro,0.46,Moderate Concern
+09/30/2021,37079,Greene County,NC,35.1,Non-metro,0.99,Very High Concern
+09/30/2021,54073,Pleasants County,WV,13.2,Non-metro,0.45,Moderate Concern
+09/30/2021,42087,Mifflin County,PA,46.4,Non-metro,0.47,Moderate Concern
+09/30/2021,33011,Hillsborough County,NH,55.5,Metro,0.19,Very Low Concern
+09/30/2021,26105,Mason County,MI,53.1,Non-metro,0.34,Low Concern
+09/30/2021,36105,Sullivan County,NY,51.4,Non-metro,0.79,High Concern
+09/30/2021,25021,Norfolk County,MA,68.0,Metro,0.21,Low Concern
+09/30/2021,19105,Jones County,IA,52.9,Metro,0.19,Very Low Concern
+09/30/2021,40063,Hughes County,OK,38.7,Non-metro,0.81,Very High Concern
+09/30/2021,17025,Clay County,IL,32.1,Non-metro,0.61,High Concern
+09/30/2021,30049,Lewis and Clark County,MT,51.8,Non-metro,0.13,Very Low Concern
+09/30/2021,18055,Greene County,IN,36.1,Non-metro,0.44,Moderate Concern
+09/30/2021,8047,Gilpin County,CO,51.9,Metro,0.0,Very Low Concern
+09/30/2021,51520,Bristol city,VA,58.9,Metro,0.75,High Concern
+09/30/2021,26019,Benzie County,MI,58.1,Non-metro,0.11,Very Low Concern
+09/30/2021,54041,Lewis County,WV,29.5,Non-metro,0.68,High Concern
+09/30/2021,27057,Hubbard County,MN,40.5,Non-metro,0.21,Low Concern
+09/30/2021,30071,Phillips County,MT,36.8,Non-metro,0.41,Moderate Concern
+09/30/2021,20165,Rush County,KS,44.8,Non-metro,0.08,Very Low Concern
+09/30/2021,51121,Montgomery County,VA,42.2,Metro,0.3,Low Concern
+09/30/2021,36119,Westchester County,NY,68.0,Metro,0.55,Moderate Concern
+09/30/2021,47011,Bradley County,TN,34.8,Metro,0.69,High Concern
+09/30/2021,28135,Tallahatchie County,MS,35.7,Non-metro,0.97,Very High Concern
+09/30/2021,37163,Sampson County,NC,42.3,Non-metro,0.97,Very High Concern
+09/30/2021,21153,Magoffin County,KY,42.6,Non-metro,0.81,Very High Concern
+09/30/2021,26089,Leelanau County,MI,73.0,Non-metro,0.02,Very Low Concern
+09/30/2021,31095,Jefferson County,NE,48.7,Non-metro,0.22,Low Concern
+09/30/2021,17049,Effingham County,IL,37.5,Non-metro,0.2,Very Low Concern
+09/30/2021,20157,Republic County,KS,45.4,Non-metro,0.06,Very Low Concern
+09/30/2021,22049,Jackson Parish,LA,36.0,Non-metro,0.94,Very High Concern
+09/30/2021,53065,Stevens County,WA,33.3,Metro,0.46,Moderate Concern
+09/30/2021,40055,Greer County,OK,31.8,Non-metro,0.77,High Concern
+09/30/2021,1109,Pike County,AL,34.9,Non-metro,0.9,Very High Concern
+09/30/2021,13301,Warren County,GA,15.7,Non-metro,0.89,Very High Concern
+09/30/2021,1089,Madison County,AL,51.5,Metro,0.31,Low Concern
+09/30/2021,18029,Dearborn County,IN,52.6,Metro,0.08,Very Low Concern
+09/30/2021,37115,Madison County,NC,42.2,Metro,0.46,Moderate Concern
+09/30/2021,51137,Orange County,VA,40.5,Non-metro,0.47,Moderate Concern
+09/30/2021,29151,Osage County,MO,35.4,Metro,0.05,Very Low Concern
+09/30/2021,53037,Kittitas County,WA,46.9,Non-metro,0.28,Low Concern
+09/30/2021,31121,Merrick County,NE,37.6,Metro,0.2,Very Low Concern
+09/30/2021,22037,East Feliciana Parish,LA,35.5,Metro,0.82,Very High Concern
+09/30/2021,39031,Coshocton County,OH,33.7,Non-metro,0.62,High Concern
+09/30/2021,21175,Morgan County,KY,42.1,Non-metro,0.83,Very High Concern
+09/30/2021,19049,Dallas County,IA,57.0,Metro,0.06,Very Low Concern
+09/30/2021,17149,Pike County,IL,34.3,Non-metro,0.35,Low Concern
+09/30/2021,53063,Spokane County,WA,51.3,Metro,0.48,Moderate Concern
+09/30/2021,45031,Darlington County,SC,41.4,Metro,0.93,Very High Concern
+09/30/2021,1035,Conecuh County,AL,35.7,Non-metro,0.81,Very High Concern
+09/30/2021,1127,Walker County,AL,40.3,Metro,0.75,High Concern
+09/30/2021,5075,Lawrence County,AR,38.8,Non-metro,0.65,High Concern
+09/30/2021,37103,Jones County,NC,42.8,Metro,0.88,Very High Concern
+09/30/2021,20031,Coffey County,KS,44.7,Non-metro,0.2,Low Concern
+09/30/2021,6077,San Joaquin County,CA,49.5,Metro,0.89,Very High Concern
+09/30/2021,45073,Oconee County,SC,39.8,Non-metro,0.73,High Concern
+09/30/2021,54093,Tucker County,WV,30.0,Non-metro,0.37,Low Concern
+09/30/2021,16001,Ada County,ID,50.2,Metro,0.14,Very Low Concern
+09/30/2021,9001,Fairfield County,CT,70.4,Metro,0.45,Moderate Concern
+09/30/2021,16055,Kootenai County,ID,36.7,Metro,0.23,Low Concern
+09/30/2021,29186,Ste. Genevieve County,MO,39.8,Non-metro,0.19,Very Low Concern
+09/30/2021,19129,Mills County,IA,48.3,Metro,0.11,Very Low Concern
+09/30/2021,6103,Tehama County,CA,33.7,Non-metro,0.96,Very High Concern
+09/30/2021,26103,Marquette County,MI,57.5,Non-metro,0.31,Low Concern
+09/30/2021,37121,Mitchell County,NC,41.7,Non-metro,0.42,Moderate Concern
+09/30/2021,40003,Alfalfa County,OK,40.3,Non-metro,0.25,Low Concern
+09/30/2021,31049,Deuel County,NE,28.9,Non-metro,0.17,Very Low Concern
+09/30/2021,20115,Marion County,KS,42.0,Non-metro,0.18,Very Low Concern
+09/30/2021,51169,Scott County,VA,49.4,Metro,0.68,High Concern
+09/30/2021,20085,Jackson County,KS,55.6,Metro,0.27,Low Concern
+09/30/2021,55029,Door County,WI,69.8,Non-metro,0.06,Very Low Concern
+09/30/2021,49011,Davis County,UT,52.9,Metro,0.08,Very Low Concern
+09/30/2021,46013,Brown County,SD,47.5,Non-metro,0.33,Low Concern
+09/30/2021,20197,Wabaunsee County,KS,41.2,Metro,0.05,Very Low Concern
+09/30/2021,29115,Linn County,MO,40.9,Non-metro,0.27,Low Concern
+09/30/2021,29043,Christian County,MO,40.6,Metro,0.15,Very Low Concern
+09/30/2021,38087,Slope County,ND,9.3,Non-metro,0.01,Very Low Concern
+09/30/2021,47153,Sequatchie County,TN,28.2,Metro,0.57,Moderate Concern
+09/30/2021,21159,Martin County,KY,44.7,Non-metro,0.85,Very High Concern
+09/30/2021,31059,Fillmore County,NE,46.3,Non-metro,0.06,Very Low Concern
+09/30/2021,37101,Johnston County,NC,43.4,Metro,0.54,Moderate Concern
+09/30/2021,19113,Linn County,IA,58.4,Metro,0.18,Very Low Concern
+09/30/2021,12065,Jefferson County,FL,52.9,Metro,0.57,Moderate Concern
+09/30/2021,24021,Frederick County,MD,65.8,Metro,0.16,Very Low Concern
+09/30/2021,53029,Island County,WA,56.9,Non-metro,0.19,Very Low Concern
+09/30/2021,39131,Pike County,OH,37.2,Non-metro,0.8,High Concern
+09/30/2021,36049,Lewis County,NY,45.1,Non-metro,0.29,Low Concern
+09/30/2021,29039,Cedar County,MO,28.3,Non-metro,0.64,High Concern
+09/30/2021,21091,Hancock County,KY,52.5,Metro,0.38,Low Concern
+09/30/2021,29017,Bollinger County,MO,29.0,Metro,0.48,Moderate Concern
+09/30/2021,42041,Cumberland County,PA,60.2,Metro,0.16,Very Low Concern
+09/30/2021,49025,Kane County,UT,41.9,Non-metro,0.11,Very Low Concern
+09/30/2021,21145,McCracken County,KY,48.7,Non-metro,0.42,Moderate Concern
+09/30/2021,4005,Coconino County,AZ,66.9,Metro,0.71,High Concern
+09/30/2021,40083,Logan County,OK,28.9,Metro,0.3,Low Concern
+09/30/2021,9013,Tolland County,CT,59.7,Metro,0.07,Very Low Concern
+09/30/2021,12123,Taylor County,FL,34.0,Non-metro,0.9,Very High Concern
+09/30/2021,51021,Bland County,VA,34.5,Non-metro,0.34,Low Concern
+09/30/2021,1021,Chilton County,AL,29.8,Metro,0.76,High Concern
+09/30/2021,26139,Ottawa County,MI,49.4,Metro,0.22,Low Concern
+09/30/2021,31139,Pierce County,NE,33.5,Non-metro,0.02,Very Low Concern
+09/30/2021,46135,Yankton County,SD,55.6,Non-metro,0.32,Low Concern
+09/30/2021,39161,Van Wert County,OH,37.6,Non-metro,0.17,Very Low Concern
+09/30/2021,53017,Douglas County,WA,52.5,Metro,0.77,High Concern
+09/30/2021,22023,Cameron Parish,LA,15.4,Metro,0.26,Low Concern
+09/30/2021,18123,Perry County,IN,51.1,Non-metro,0.31,Low Concern
+09/30/2021,32021,Mineral County,NV,48.8,Non-metro,0.88,Very High Concern
+09/30/2021,13135,Gwinnett County,GA,29.4,Metro,0.43,Moderate Concern
+09/30/2021,13181,Lincoln County,GA,17.8,Metro,0.56,Moderate Concern
+09/30/2021,42131,Wyoming County,PA,54.4,Metro,0.11,Very Low Concern
+09/30/2021,42099,Perry County,PA,44.9,Metro,0.11,Very Low Concern
+09/30/2021,21143,Lyon County,KY,52.1,Non-metro,0.33,Low Concern
+09/30/2021,18163,Vanderburgh County,IN,51.7,Metro,0.52,Moderate Concern
+09/30/2021,46129,Walworth County,SD,31.1,Non-metro,0.39,Low Concern
+09/30/2021,26023,Branch County,MI,38.8,Non-metro,0.63,High Concern
+09/30/2021,42057,Fulton County,PA,29.2,Non-metro,0.22,Low Concern
+09/30/2021,8031,Denver County,CO,64.9,Metro,0.42,Moderate Concern
+09/30/2021,47063,Hamblen County,TN,36.3,Metro,0.81,Very High Concern
+09/30/2021,27155,Traverse County,MN,53.1,Non-metro,0.26,Low Concern
+09/30/2021,20087,Jefferson County,KS,47.2,Metro,0.05,Very Low Concern
+09/30/2021,41013,Crook County,OR,44.1,Non-metro,0.57,Moderate Concern
+09/30/2021,16023,Butte County,ID,36.7,Metro,0.25,Low Concern
+09/30/2021,44009,Washington County,RI,69.3,Metro,0.09,Very Low Concern
+09/30/2021,20111,Lyon County,KS,49.4,Non-metro,0.73,High Concern
+09/30/2021,37059,Davie County,NC,47.9,Metro,0.44,Moderate Concern
+09/30/2021,40089,McCurtain County,OK,28.9,Non-metro,0.91,Very High Concern
+09/30/2021,8115,Sedgwick County,CO,44.7,Non-metro,0.69,High Concern
+09/30/2021,36077,Otsego County,NY,54.1,Non-metro,0.42,Moderate Concern
+09/30/2021,13307,Webster County,GA,17.6,Non-metro,0.79,High Concern
+09/30/2021,28079,Leake County,MS,40.1,Non-metro,0.99,Very High Concern
+09/30/2021,13311,White County,GA,10.1,Non-metro,0.24,Low Concern
+09/30/2021,6107,Tulare County,CA,41.8,Metro,0.94,Very High Concern
+09/30/2021,36099,Seneca County,NY,47.7,Non-metro,0.45,Moderate Concern
+09/30/2021,39113,Montgomery County,OH,48.5,Metro,0.67,High Concern
+09/30/2021,36021,Columbia County,NY,65.4,Non-metro,0.39,Low Concern
+09/30/2021,6081,San Mateo County,CA,71.5,Metro,0.26,Low Concern
+09/30/2021,31083,Harlan County,NE,36.2,Non-metro,0.12,Very Low Concern
+09/30/2021,18111,Newton County,IN,27.8,Metro,0.34,Low Concern
+09/30/2021,53039,Klickitat County,WA,42.8,Non-metro,0.57,Moderate Concern
+09/30/2021,54069,Ohio County,WV,12.4,Metro,0.31,Low Concern
+09/30/2021,40079,Le Flore County,OK,33.7,Metro,0.9,Very High Concern
+09/30/2021,34031,Passaic County,NJ,58.8,Metro,0.78,High Concern
+09/30/2021,39115,Morgan County,OH,36.3,Non-metro,0.57,Moderate Concern
+09/30/2021,47117,Marshall County,TN,35.8,Non-metro,0.61,High Concern
+09/30/2021,29133,Mississippi County,MO,36.8,Non-metro,0.91,Very High Concern
+09/30/2021,41067,Washington County,OR,66.1,Metro,0.32,Low Concern
+09/30/2021,54035,Jackson County,WV,17.5,Non-metro,0.25,Low Concern
+09/30/2021,46089,McPherson County,SD,10.4,Non-metro,0.29,Low Concern
+09/30/2021,19093,Ida County,IA,43.5,Non-metro,0.09,Very Low Concern
+09/30/2021,49051,Wasatch County,UT,49.0,Non-metro,0.06,Very Low Concern
+09/30/2021,21225,Union County,KY,34.6,Non-metro,0.54,Moderate Concern
+09/30/2021,4019,Pima County,AZ,57.7,Metro,0.88,Very High Concern
+09/30/2021,12093,Okeechobee County,FL,40.3,Non-metro,0.95,Very High Concern
+09/30/2021,13185,Lowndes County,GA,25.2,Metro,0.87,Very High Concern
+09/30/2021,26039,Crawford County,MI,43.4,Non-metro,0.37,Low Concern
+09/30/2021,54065,Morgan County,WV,5.5,Non-metro,0.18,Very Low Concern
+09/30/2021,18031,Decatur County,IN,42.8,Non-metro,0.21,Low Concern
+09/30/2021,27153,Todd County,MN,35.8,Non-metro,0.48,Moderate Concern
+09/30/2021,27035,Crow Wing County,MN,49.2,Non-metro,0.12,Very Low Concern
+09/30/2021,51550,Chesapeake city,VA,40.7,Metro,0.26,Low Concern
+09/30/2021,8085,Montrose County,CO,40.9,Non-metro,0.72,High Concern
+09/30/2021,17013,Calhoun County,IL,46.5,Metro,0.19,Very Low Concern
+09/30/2021,18141,St. Joseph County,IN,51.9,Metro,0.62,High Concern
+09/30/2021,45025,Chesterfield County,SC,30.9,Non-metro,0.95,Very High Concern
+09/30/2021,21237,Wolfe County,KY,45.1,Non-metro,0.86,Very High Concern
+09/30/2021,13021,Bibb County,GA,22.2,Metro,0.92,Very High Concern
+09/30/2021,53015,Cowlitz County,WA,50.3,Metro,0.79,High Concern
+09/30/2021,39027,Clinton County,OH,40.8,Non-metro,0.44,Moderate Concern
+09/30/2021,31151,Saline County,NE,44.0,Non-metro,0.6,Moderate Concern
+09/30/2021,19065,Fayette County,IA,48.6,Non-metro,0.23,Low Concern
+09/30/2021,36121,Wyoming County,NY,44.7,Non-metro,0.31,Low Concern
+09/30/2021,38103,Wells County,ND,38.1,Non-metro,0.06,Very Low Concern
+09/30/2021,8045,Garfield County,CO,54.4,Non-metro,0.35,Low Concern
+09/30/2021,28007,Attala County,MS,45.6,Non-metro,0.98,Very High Concern
+09/30/2021,12101,Pasco County,FL,50.5,Metro,0.63,High Concern
+09/30/2021,30041,Hill County,MT,50.2,Non-metro,0.7,High Concern
+09/30/2021,22077,Pointe Coupee Parish,LA,48.5,Metro,0.85,Very High Concern
+09/30/2021,38059,Morton County,ND,36.6,Metro,0.1,Very Low Concern
+09/30/2021,21219,Todd County,KY,34.8,Non-metro,0.81,Very High Concern
+09/30/2021,29153,Ozark County,MO,27.1,Non-metro,0.58,Moderate Concern
+09/30/2021,39125,Paulding County,OH,37.5,Non-metro,0.29,Low Concern
+09/30/2021,42049,Erie County,PA,52.9,Metro,0.62,High Concern
+09/30/2021,41015,Curry County,OR,48.6,Non-metro,0.49,Moderate Concern
+09/30/2021,5085,Lonoke County,AR,41.3,Metro,0.33,Low Concern
+09/30/2021,28021,Claiborne County,MS,46.0,Non-metro,0.99,Very High Concern
+09/30/2021,39171,Williams County,OH,39.6,Non-metro,0.27,Low Concern
+09/30/2021,54047,McDowell County,WV,22.5,Non-metro,0.9,Very High Concern
+09/30/2021,42077,Lehigh County,PA,63.5,Metro,0.63,High Concern
+09/30/2021,16003,Adams County,ID,36.8,Non-metro,0.29,Low Concern
+09/30/2021,51135,Nottoway County,VA,40.0,Non-metro,0.91,Very High Concern
+09/30/2021,56003,Big Horn County,WY,30.9,Non-metro,0.4,Low Concern
+09/30/2021,30025,Fallon County,MT,29.2,Non-metro,0.02,Very Low Concern
+09/30/2021,36067,Onondaga County,NY,64.9,Metro,0.52,Moderate Concern
+09/30/2021,34009,Cape May County,NJ,64.8,Metro,0.34,Low Concern
+09/30/2021,26125,Oakland County,MI,58.4,Metro,0.11,Very Low Concern
+09/30/2021,22105,Tangipahoa Parish,LA,39.4,Metro,0.89,Very High Concern
+09/30/2021,42071,Lancaster County,PA,55.4,Metro,0.46,Moderate Concern
+09/30/2021,47185,White County,TN,36.5,Non-metro,0.6,Moderate Concern
+09/30/2021,51043,Clarke County,VA,55.7,Metro,0.11,Very Low Concern
+09/30/2021,54029,Hancock County,WV,22.6,Metro,0.41,Moderate Concern
+09/30/2021,19079,Hamilton County,IA,55.5,Non-metro,0.12,Very Low Concern
+09/30/2021,22093,St. James Parish,LA,43.7,Metro,0.63,High Concern
+09/30/2021,29075,Gentry County,MO,38.5,Non-metro,0.44,Moderate Concern
+09/30/2021,42125,Washington County,PA,56.3,Metro,0.17,Very Low Concern
+09/30/2021,46101,Moody County,SD,40.0,Non-metro,0.39,Low Concern
+09/30/2021,20013,Brown County,KS,52.0,Non-metro,0.27,Low Concern
+09/30/2021,8017,Cheyenne County,CO,27.7,Non-metro,0.26,Low Concern
+09/30/2021,31033,Cheyenne County,NE,37.3,Non-metro,0.12,Very Low Concern
+09/30/2021,13255,Spalding County,GA,14.2,Metro,0.87,Very High Concern
+09/30/2021,45003,Aiken County,SC,39.2,Metro,0.67,High Concern
+09/30/2021,54039,Kanawha County,WV,31.0,Metro,0.57,Moderate Concern
+09/30/2021,21015,Boone County,KY,62.7,Metro,0.13,Very Low Concern
+09/30/2021,1105,Perry County,AL,41.6,Non-metro,0.99,Very High Concern
+09/30/2021,18093,Lawrence County,IN,43.7,Non-metro,0.28,Low Concern
+09/30/2021,29195,Saline County,MO,41.3,Non-metro,0.82,Very High Concern
+09/30/2021,42037,Columbia County,PA,55.3,Metro,0.28,Low Concern
+09/30/2021,17147,Piatt County,IL,47.9,Metro,0.0,Very Low Concern
+09/30/2021,18147,Spencer County,IN,39.8,Non-metro,0.09,Very Low Concern
+09/30/2021,21125,Laurel County,KY,35.7,Non-metro,0.75,High Concern
+09/30/2021,37113,Macon County,NC,35.2,Non-metro,0.35,Low Concern
+09/30/2021,49055,Wayne County,UT,44.6,Non-metro,0.29,Low Concern
+09/30/2021,51015,Augusta County,VA,44.9,Metro,0.15,Very Low Concern
+09/30/2021,51700,Newport News city,VA,46.0,Metro,0.82,Very High Concern
+09/30/2021,13233,Polk County,GA,12.6,Non-metro,0.8,Very High Concern
+09/30/2021,39155,Trumbull County,OH,48.0,Metro,0.46,Moderate Concern
+09/30/2021,37089,Henderson County,NC,49.3,Metro,0.32,Low Concern
+09/30/2021,31181,Webster County,NE,34.6,Non-metro,0.11,Very Low Concern
+09/30/2021,45075,Orangeburg County,SC,46.7,Non-metro,0.92,Very High Concern
+09/30/2021,21049,Clark County,KY,50.7,Metro,0.61,High Concern
+09/30/2021,21201,Robertson County,KY,33.8,Non-metro,0.35,Low Concern
+09/30/2021,13293,Upson County,GA,34.0,Non-metro,0.85,Very High Concern
+09/30/2021,21057,Cumberland County,KY,37.0,Non-metro,0.53,Moderate Concern
+09/30/2021,39117,Morrow County,OH,36.2,Metro,0.19,Very Low Concern
+09/30/2021,13179,Liberty County,GA,38.3,Metro,0.89,Very High Concern
+09/30/2021,24013,Carroll County,MD,64.5,Metro,0.04,Very Low Concern
+09/30/2021,40029,Coal County,OK,34.6,Non-metro,0.83,Very High Concern
+09/30/2021,20089,Jewell County,KS,40.8,Non-metro,0.09,Very Low Concern
+09/30/2021,36093,Schenectady County,NY,62.9,Metro,0.39,Low Concern
+09/30/2021,21113,Jessamine County,KY,49.9,Metro,0.52,Moderate Concern
+09/30/2021,42111,Somerset County,PA,42.7,Non-metro,0.42,Moderate Concern
+09/30/2021,27121,Pope County,MN,49.5,Non-metro,0.03,Very Low Concern
+09/30/2021,6095,Solano County,CA,55.3,Metro,0.59,Moderate Concern
+09/30/2021,4003,Cochise County,AZ,52.9,Metro,0.91,Very High Concern
+09/30/2021,28097,Montgomery County,MS,48.6,Non-metro,0.89,Very High Concern
+09/30/2021,51087,Henrico County,VA,51.1,Metro,0.26,Low Concern
+09/30/2021,36075,Oswego County,NY,52.2,Metro,0.65,High Concern
+09/30/2021,13145,Harris County,GA,19.2,Metro,0.13,Very Low Concern
+09/30/2021,41011,Coos County,OR,50.2,Non-metro,0.74,High Concern
+09/30/2021,37155,Robeson County,NC,33.6,Non-metro,0.99,Very High Concern
+09/30/2021,13213,Murray County,GA,13.6,Metro,0.71,High Concern
+09/30/2021,8083,Montezuma County,CO,52.8,Non-metro,0.49,Moderate Concern
+09/30/2021,28127,Simpson County,MS,38.5,Metro,0.91,Very High Concern
+09/30/2021,36081,Queens County,NY,70.3,Metro,0.62,High Concern
+09/30/2021,42009,Bedford County,PA,33.5,Non-metro,0.27,Low Concern
+09/30/2021,19025,Calhoun County,IA,52.9,Non-metro,0.16,Very Low Concern
+09/30/2021,26111,Midland County,MI,50.4,Metro,0.16,Very Low Concern
+09/30/2021,54013,Calhoun County,WV,12.4,Non-metro,0.52,Moderate Concern
+09/30/2021,46017,Buffalo County,SD,49.2,Non-metro,0.97,Very High Concern
+09/30/2021,45087,Union County,SC,34.7,Metro,0.87,Very High Concern
+09/30/2021,2068,Denali Borough,AK,45.5,Non-metro,0.1,Very Low Concern
+09/30/2021,9005,Litchfield County,CT,67.8,Non-metro,0.08,Very Low Concern
+09/30/2021,27167,Wilkin County,MN,28.0,Non-metro,0.19,Very Low Concern
+09/30/2021,38079,Rolette County,ND,52.1,Non-metro,0.91,Very High Concern
+09/30/2021,19191,Winneshiek County,IA,55.2,Non-metro,0.01,Very Low Concern
+09/30/2021,34029,Ocean County,NJ,47.4,Metro,0.34,Low Concern
+09/30/2021,26137,Otsego County,MI,49.0,Non-metro,0.37,Low Concern
+09/30/2021,38049,McHenry County,ND,35.7,Non-metro,0.03,Very Low Concern
+09/30/2021,1023,Choctaw County,AL,55.3,Non-metro,0.87,Very High Concern
+09/30/2021,54005,Boone County,WV,30.3,Metro,0.7,High Concern
+09/30/2021,30027,Fergus County,MT,40.5,Non-metro,0.24,Low Concern
+09/30/2021,13023,Bleckley County,GA,10.0,Non-metro,0.74,High Concern
+09/30/2021,26025,Calhoun County,MI,43.5,Metro,0.72,High Concern
+09/30/2021,24023,Garrett County,MD,43.2,Non-metro,0.18,Very Low Concern
+09/30/2021,39039,Defiance County,OH,43.3,Non-metro,0.22,Low Concern
+09/30/2021,40111,Okmulgee County,OK,36.7,Metro,0.87,Very High Concern
+09/30/2021,47071,Hardin County,TN,34.9,Non-metro,0.71,High Concern
+09/30/2021,18023,Clinton County,IN,41.8,Non-metro,0.57,Moderate Concern
+09/30/2021,5049,Fulton County,AR,28.1,Non-metro,0.67,High Concern
+09/30/2021,21179,Nelson County,KY,51.4,Non-metro,0.29,Low Concern
+09/30/2021,29063,DeKalb County,MO,24.9,Metro,0.41,Moderate Concern
+09/30/2021,6045,Mendocino County,CA,57.9,Non-metro,0.88,Very High Concern
+09/30/2021,16043,Fremont County,ID,35.0,Non-metro,0.51,Moderate Concern
+09/30/2021,55067,Langlade County,WI,47.6,Non-metro,0.35,Low Concern
+09/30/2021,46065,Hughes County,SD,49.4,Non-metro,0.41,Moderate Concern
+09/30/2021,47097,Lauderdale County,TN,31.3,Non-metro,0.97,Very High Concern
+09/30/2021,46019,Butte County,SD,28.5,Non-metro,0.36,Low Concern
+09/30/2021,19101,Jefferson County,IA,42.9,Non-metro,0.49,Moderate Concern
+09/30/2021,26061,Houghton County,MI,45.0,Non-metro,0.5,Moderate Concern
+09/30/2021,6109,Tuolumne County,CA,51.1,Non-metro,0.47,Moderate Concern
+09/30/2021,18149,Starke County,IN,32.4,Non-metro,0.34,Low Concern
+09/30/2021,31017,Brown County,NE,31.8,Non-metro,0.13,Very Low Concern
+09/30/2021,42093,Montour County,PA,69.1,Metro,0.31,Low Concern
+09/30/2021,21103,Henry County,KY,50.6,Metro,0.53,Moderate Concern
+09/30/2021,27105,Nobles County,MN,50.5,Non-metro,0.81,Very High Concern
+09/30/2021,30003,Big Horn County,MT,65.7,Non-metro,0.83,Very High Concern
+09/30/2021,42043,Dauphin County,PA,56.3,Metro,0.5,Moderate Concern
+09/30/2021,19043,Clayton County,IA,43.6,Non-metro,0.18,Very Low Concern
+09/30/2021,1085,Lowndes County,AL,40.7,Metro,0.92,Very High Concern
+09/30/2021,29053,Cooper County,MO,37.5,Non-metro,0.39,Low Concern
+09/30/2021,27053,Hennepin County,MN,63.2,Metro,0.31,Low Concern
+09/30/2021,4012,La Paz County,AZ,40.5,Non-metro,0.92,Very High Concern
+09/30/2021,20081,Haskell County,KS,32.1,Non-metro,0.41,Moderate Concern
+09/30/2021,16041,Franklin County,ID,33.8,Metro,0.14,Very Low Concern
+09/30/2021,16053,Jerome County,ID,33.0,Non-metro,0.67,High Concern
+09/30/2021,12081,Manatee County,FL,53.3,Metro,0.52,Moderate Concern
+09/30/2021,40071,Kay County,OK,35.9,Non-metro,0.84,Very High Concern
+09/30/2021,13057,Cherokee County,GA,28.6,Metro,0.12,Very Low Concern
+09/30/2021,28001,Adams County,MS,45.5,Non-metro,0.99,Very High Concern
+09/30/2021,47115,Marion County,TN,37.4,Metro,0.51,Moderate Concern
+09/30/2021,29167,Polk County,MO,34.6,Metro,0.6,Moderate Concern
+09/30/2021,31125,Nance County,NE,25.9,Non-metro,0.08,Very Low Concern
+09/30/2021,20199,Wallace County,KS,33.2,Non-metro,0.14,Very Low Concern
+09/30/2021,41071,Yamhill County,OR,54.7,Metro,0.66,High Concern
+09/30/2021,13055,Chattooga County,GA,12.5,Non-metro,0.93,Very High Concern
+09/30/2021,22107,Tensas Parish,LA,53.9,Non-metro,0.84,Very High Concern
+09/30/2021,27039,Dodge County,MN,50.5,Metro,0.06,Very Low Concern
+09/30/2021,12001,Alachua County,FL,58.4,Metro,0.47,Moderate Concern
+09/30/2021,29139,Montgomery County,MO,43.4,Non-metro,0.53,Moderate Concern
+09/30/2021,12131,Walton County,FL,40.5,Metro,0.58,Moderate Concern
+09/30/2021,17177,Stephenson County,IL,50.5,Non-metro,0.5,Moderate Concern
+09/30/2021,51037,Charlotte County,VA,36.4,Non-metro,0.71,High Concern
+09/30/2021,51730,Petersburg city,VA,33.1,Metro,0.96,Very High Concern
+09/30/2021,26069,Iosco County,MI,48.7,Non-metro,0.45,Moderate Concern
+09/30/2021,8099,Prowers County,CO,35.7,Non-metro,0.94,Very High Concern
+09/30/2021,16075,Payette County,ID,25.9,Non-metro,0.6,High Concern
+09/30/2021,20161,Riley County,KS,33.3,Metro,0.44,Moderate Concern
+09/30/2021,30051,Liberty County,MT,30.0,Non-metro,0.41,Moderate Concern
+09/30/2021,39133,Portage County,OH,50.1,Metro,0.25,Low Concern
+09/30/2021,21107,Hopkins County,KY,45.3,Non-metro,0.55,Moderate Concern
+09/30/2021,29125,Maries County,MO,33.5,Non-metro,0.51,Moderate Concern
+09/30/2021,45049,Hampton County,SC,54.0,Non-metro,0.8,Very High Concern
+09/30/2021,18053,Grant County,IN,37.4,Non-metro,0.73,High Concern
+09/30/2021,8109,Saguache County,CO,30.8,Non-metro,0.81,Very High Concern
+09/30/2021,51091,Highland County,VA,54.0,Non-metro,0.06,Very Low Concern
+09/30/2021,49047,Uintah County,UT,32.6,Non-metro,0.48,Moderate Concern
+09/30/2021,46107,Potter County,SD,45.6,Non-metro,0.05,Very Low Concern
+09/30/2021,55113,Sawyer County,WI,51.8,Non-metro,0.43,Moderate Concern
+09/30/2021,1015,Calhoun County,AL,39.2,Metro,0.83,Very High Concern
+09/30/2021,29223,Wayne County,MO,31.6,Non-metro,0.76,High Concern
+09/30/2021,46021,Campbell County,SD,28.3,Non-metro,0.01,Very Low Concern
+09/30/2021,28115,Pontotoc County,MS,36.4,Non-metro,0.9,Very High Concern
+09/30/2021,51047,Culpeper County,VA,42.7,Metro,0.49,Moderate Concern
+09/30/2021,55105,Rock County,WI,60.1,Metro,0.46,Moderate Concern
+09/30/2021,13095,Dougherty County,GA,21.5,Metro,0.95,Very High Concern
+09/30/2021,34023,Middlesex County,NJ,62.2,Metro,0.47,Moderate Concern
+09/30/2021,16021,Boundary County,ID,28.3,Non-metro,0.31,Low Concern
+09/30/2021,29057,Dade County,MO,39.3,Non-metro,0.66,High Concern
+09/30/2021,24033,Prince George's County,MD,60.6,Metro,0.63,High Concern
+09/30/2021,8081,Moffat County,CO,36.2,Non-metro,0.55,Moderate Concern
+09/30/2021,49017,Garfield County,UT,47.3,Non-metro,0.46,Moderate Concern
+09/30/2021,31137,Phelps County,NE,33.5,Non-metro,0.12,Very Low Concern
+09/30/2021,20209,Wyandotte County,KS,46.4,Metro,0.92,Very High Concern
+09/30/2021,13225,Peach County,GA,12.7,Metro,0.94,Very High Concern
+09/30/2021,42103,Pike County,PA,49.8,Metro,0.13,Very Low Concern
+09/30/2021,28039,George County,MS,33.7,Non-metro,0.61,High Concern
+09/30/2021,19053,Decatur County,IA,36.2,Non-metro,0.68,High Concern
+09/30/2021,29203,Shannon County,MO,27.0,Non-metro,0.64,High Concern
+09/30/2021,8059,Jefferson County,CO,67.6,Metro,0.06,Very Low Concern
+09/30/2021,39011,Auglaize County,OH,34.6,Non-metro,0.05,Very Low Concern
+09/30/2021,18035,Delaware County,IN,43.0,Metro,0.57,Moderate Concern
+09/30/2021,20193,Thomas County,KS,36.4,Non-metro,0.07,Very Low Concern
+09/30/2021,46117,Stanley County,SD,51.5,Non-metro,0.11,Very Low Concern
+09/30/2021,36091,Saratoga County,NY,69.8,Metro,0.05,Very Low Concern
+09/30/2021,38025,Dunn County,ND,19.4,Non-metro,0.22,Low Concern
+09/30/2021,21135,Lewis County,KY,32.1,Non-metro,0.62,High Concern
+09/30/2021,12029,Dixie County,FL,29.8,Non-metro,0.9,Very High Concern
+09/30/2021,26043,Dickinson County,MI,58.9,Non-metro,0.23,Low Concern
+09/30/2021,27067,Kandiyohi County,MN,44.5,Non-metro,0.41,Moderate Concern
+09/30/2021,13251,Screven County,GA,33.5,Non-metro,0.85,Very High Concern
+09/30/2021,47093,Knox County,TN,51.8,Metro,0.3,Low Concern
+09/30/2021,5133,Sevier County,AR,36.4,Non-metro,0.77,High Concern
+09/30/2021,31005,Arthur County,NE,16.6,Non-metro,0.01,Very Low Concern
+09/30/2021,29025,Caldwell County,MO,34.0,Metro,0.45,Moderate Concern
+09/30/2021,21045,Casey County,KY,30.2,Non-metro,0.77,High Concern
+09/30/2021,36055,Monroe County,NY,63.2,Metro,0.52,Moderate Concern
+09/30/2021,2110,Juneau City and Borough,AK,64.5,Non-metro,0.3,Low Concern
+09/30/2021,8111,San Juan County,CO,85.4,Non-metro,0.13,Very Low Concern
+09/30/2021,18087,LaGrange County,IN,19.9,Non-metro,0.37,Low Concern
+09/30/2021,17065,Hamilton County,IL,32.2,Non-metro,0.15,Very Low Concern
+09/30/2021,51149,Prince George County,VA,51.0,Metro,0.32,Low Concern
+09/30/2021,2013,Aleutians East Borough,AK,68.2,Non-metro,0.58,Moderate Concern
+09/30/2021,20103,Leavenworth County,KS,51.9,Metro,0.24,Low Concern
+09/30/2021,12021,Collier County,FL,62.1,Metro,0.46,Moderate Concern
+09/30/2021,8117,Summit County,CO,74.5,Non-metro,0.07,Very Low Concern
+09/30/2021,37133,Onslow County,NC,45.5,Metro,0.75,High Concern
+09/30/2021,13309,Wheeler County,GA,9.3,Non-metro,0.81,Very High Concern
+09/30/2021,37097,Iredell County,NC,42.9,Metro,0.37,Low Concern
+09/30/2021,18081,Johnson County,IN,51.8,Metro,0.14,Very Low Concern
+09/30/2021,22069,Natchitoches Parish,LA,36.2,Non-metro,0.86,Very High Concern
+09/30/2021,55037,Florence County,WI,40.8,Non-metro,0.15,Very Low Concern
+09/30/2021,20049,Elk County,KS,28.9,Non-metro,0.39,Low Concern
+09/30/2021,28145,Union County,MS,34.3,Non-metro,0.83,Very High Concern
+09/30/2021,42123,Warren County,PA,42.6,Non-metro,0.21,Low Concern
+09/30/2021,12031,Duval County,FL,52.0,Metro,0.69,High Concern
+09/30/2021,55121,Trempealeau County,WI,56.7,Non-metro,0.28,Low Concern
+09/30/2021,28133,Sunflower County,MS,45.4,Non-metro,0.95,Very High Concern
+09/30/2021,39147,Seneca County,OH,42.7,Non-metro,0.38,Low Concern
+09/30/2021,40023,Choctaw County,OK,27.8,Non-metro,0.96,Very High Concern
+09/30/2021,27083,Lyon County,MN,48.1,Non-metro,0.45,Moderate Concern
+09/30/2021,13297,Walton County,GA,21.4,Metro,0.29,Low Concern
+09/30/2021,8105,Rio Grande County,CO,53.6,Non-metro,0.96,Very High Concern
+09/30/2021,2016,Aleutians West Census Area,AK,54.5,Non-metro,0.49,Moderate Concern
+09/30/2021,12015,Charlotte County,FL,58.0,Metro,0.49,Moderate Concern
+09/30/2021,47127,Moore County,TN,19.1,Non-metro,0.09,Very Low Concern
+09/30/2021,20017,Chase County,KS,39.5,Non-metro,0.41,Moderate Concern
+09/30/2021,27085,McLeod County,MN,48.2,Non-metro,0.13,Very Low Concern
+09/30/2021,51093,Isle of Wight County,VA,44.6,Metro,0.34,Low Concern
+09/30/2021,18161,Union County,IN,43.1,Metro,0.17,Very Low Concern
+09/30/2021,19059,Dickinson County,IA,52.3,Non-metro,0.09,Very Low Concern
+09/30/2021,29147,Nodaway County,MO,43.1,Non-metro,0.22,Low Concern
+09/30/2021,13143,Haralson County,GA,13.2,Metro,0.54,Moderate Concern
+09/30/2021,51760,Richmond city,VA,40.3,Metro,0.77,High Concern
+09/30/2021,27013,Blue Earth County,MN,52.6,Metro,0.28,Low Concern
+09/30/2021,36095,Schoharie County,NY,50.2,Metro,0.4,Moderate Concern
+09/30/2021,42095,Northampton County,PA,57.9,Metro,0.29,Low Concern
+09/30/2021,27045,Fillmore County,MN,58.0,Metro,0.22,Low Concern
+09/30/2021,47135,Perry County,TN,33.6,Non-metro,0.68,High Concern
+09/30/2021,27093,Meeker County,MN,40.5,Non-metro,0.19,Very Low Concern
+09/30/2021,55041,Forest County,WI,51.6,Non-metro,0.58,Moderate Concern
+09/30/2021,8003,Alamosa County,CO,48.0,Non-metro,0.95,Very High Concern
+09/30/2021,13049,Charlton County,GA,11.0,Non-metro,0.88,Very High Concern
+09/30/2021,23001,Androscoggin County,ME,59.5,Metro,0.56,Moderate Concern
+09/30/2021,29135,Moniteau County,MO,32.0,Metro,0.51,Moderate Concern
+09/30/2021,26073,Isabella County,MI,37.8,Non-metro,0.6,High Concern
+09/30/2021,22033,East Baton Rouge Parish,LA,48.4,Metro,0.67,High Concern
+09/30/2021,30053,Lincoln County,MT,30.3,Non-metro,0.42,Moderate Concern
+09/30/2021,38017,Cass County,ND,49.8,Metro,0.14,Very Low Concern
+09/30/2021,1095,Marshall County,AL,38.2,Non-metro,0.73,High Concern
+09/30/2021,27117,Pipestone County,MN,46.9,Non-metro,0.46,Moderate Concern
+09/30/2021,20099,Labette County,KS,43.4,Non-metro,0.64,High Concern
+09/30/2021,25015,Hampshire County,MA,57.8,Metro,0.23,Low Concern
+09/30/2021,2050,Bethel Census Area,AK,55.9,Non-metro,0.97,Very High Concern
+09/30/2021,12051,Hendry County,FL,40.3,Non-metro,0.99,Very High Concern
+09/30/2021,51510,Alexandria city,VA,55.5,Metro,0.2,Low Concern
+09/30/2021,20009,Barton County,KS,37.1,Non-metro,0.54,Moderate Concern
+09/30/2021,34013,Essex County,NJ,58.9,Metro,0.84,Very High Concern
+09/30/2021,5113,Polk County,AR,29.5,Non-metro,0.89,Very High Concern
+09/30/2021,19013,Black Hawk County,IA,52.6,Metro,0.43,Moderate Concern
+09/30/2021,26101,Manistee County,MI,51.5,Non-metro,0.4,Low Concern
+09/30/2021,49031,Piute County,UT,31.6,Non-metro,0.27,Low Concern
+09/30/2021,37057,Davidson County,NC,39.6,Metro,0.68,High Concern
+09/30/2021,30039,Granite County,MT,32.6,Non-metro,0.08,Very Low Concern
+09/30/2021,45061,Lee County,SC,35.2,Non-metro,0.92,Very High Concern
+09/30/2021,17037,DeKalb County,IL,43.8,Metro,0.49,Moderate Concern
+09/30/2021,19171,Tama County,IA,55.1,Non-metro,0.33,Low Concern
+09/30/2021,30063,Missoula County,MT,57.2,Metro,0.18,Very Low Concern
+09/30/2021,53003,Asotin County,WA,35.7,Metro,0.42,Moderate Concern
+09/30/2021,31143,Polk County,NE,36.1,Non-metro,0.19,Very Low Concern
+09/30/2021,28083,Leflore County,MS,53.2,Non-metro,0.97,Very High Concern
+09/30/2021,40087,McClain County,OK,41.6,Metro,0.16,Very Low Concern
+09/30/2021,18041,Fayette County,IN,34.1,Non-metro,0.61,High Concern
+09/30/2021,8027,Custer County,CO,42.2,Non-metro,0.24,Low Concern
+09/30/2021,27171,Wright County,MN,45.7,Metro,0.05,Very Low Concern
+09/30/2021,30001,Beaverhead County,MT,47.8,Non-metro,0.25,Low Concern
+09/30/2021,24027,Howard County,MD,73.5,Metro,0.13,Very Low Concern
+09/30/2021,45019,Charleston County,SC,55.6,Metro,0.32,Low Concern
+09/30/2021,17173,Shelby County,IL,34.1,Non-metro,0.09,Very Low Concern
+09/30/2021,47035,Cumberland County,TN,41.2,Non-metro,0.54,Moderate Concern
+09/30/2021,47141,Putnam County,TN,43.7,Non-metro,0.62,High Concern
+09/30/2021,26165,Wexford County,MI,42.7,Non-metro,0.5,Moderate Concern
+09/30/2021,17023,Clark County,IL,36.9,Non-metro,0.21,Low Concern
+09/30/2021,28117,Prentiss County,MS,37.6,Non-metro,0.85,Very High Concern
+09/30/2021,6067,Sacramento County,CA,56.0,Metro,0.73,High Concern
+09/30/2021,27145,Stearns County,MN,48.3,Metro,0.39,Low Concern
+09/30/2021,38083,Sheridan County,ND,32.9,Non-metro,0.07,Very Low Concern
+09/30/2021,12113,Santa Rosa County,FL,42.6,Metro,0.31,Low Concern
+09/30/2021,40049,Garvin County,OK,40.7,Non-metro,0.51,Moderate Concern
+09/30/2021,49027,Millard County,UT,34.4,Non-metro,0.36,Low Concern
+09/30/2021,13131,Grady County,GA,17.6,Non-metro,0.93,Very High Concern
+09/30/2021,26135,Oscoda County,MI,37.3,Non-metro,0.67,High Concern
+09/30/2021,34011,Cumberland County,NJ,41.9,Metro,0.96,Very High Concern
+09/30/2021,21191,Pendleton County,KY,40.3,Metro,0.41,Moderate Concern
+09/30/2021,19155,Pottawattamie County,IA,49.7,Metro,0.46,Moderate Concern
+09/30/2021,21129,Lee County,KY,41.8,Non-metro,0.82,Very High Concern
+09/30/2021,42079,Luzerne County,PA,55.5,Metro,0.61,High Concern
+09/30/2021,6019,Fresno County,CA,49.4,Metro,0.96,Very High Concern
+09/30/2021,31149,Rock County,NE,31.7,Non-metro,0.01,Very Low Concern
+09/30/2021,23021,Piscataquis County,ME,55.0,Non-metro,0.49,Moderate Concern
+09/30/2021,40101,Muskogee County,OK,42.5,Non-metro,0.93,Very High Concern
+09/30/2021,31027,Cedar County,NE,36.7,Non-metro,0.01,Very Low Concern

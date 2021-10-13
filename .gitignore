@@ -1,6 +1,12 @@
 # API Key
 api_key.py
 
+# Source data
+01 COVID-19_Vaccinations_in_the_United_States_County_CDC.csv
+01_vaccine_us_county.csv
+02_us_county_sociohealth_data.csv
+03_president_county_candidate.csv
+04_siv_county.csv
 #Mac Compatibility
 .DS_Store
 

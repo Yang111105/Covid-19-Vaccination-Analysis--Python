@@ -8,3 +8,5 @@ Our analysis explores whether vaccination rates vary significantly within severa
 There are two notebooks:
 1) Data Cleaning Notebook - for data cleaning and merging
 2) Factor Impact Vaccination - for analysis (linear regression and hypothesis tests)
+
+Factor Impact Vaccination pptx

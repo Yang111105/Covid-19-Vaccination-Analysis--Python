@@ -9,4 +9,4 @@ There are two notebooks:
 1) Data Cleaning Notebook - for data cleaning and merging
 2) Factor Impact Vaccination - for analysis (linear regression and hypothesis tests)
 
-Factor Impact Vaccination pptx
+The repo contains a presentation with title: Project 1 - Factors Affecting Covid-19 Vaccination Rate

@@ -15,4 +15,4 @@ Other contents:
 1) Presentation: Project 1 - Factors Affecting Covid-19 Vaccination Rate
 2) Resouce folder with raw data files
 3) Clean data file with datasets output for analysis purpose
-4) Image folder with ourput graphs
+4) Image folder with output graphs

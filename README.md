@@ -1,5 +1,6 @@
-# Project1
 ## Team 9 project 1- Factors Affecting Covid-19 Vaccination: Data Analysis by US County
+### Team Members: Ricardo Herrera, Eugene Witherspoon, Feipeng Yang, Jenny(Yijuan) Yang
+
 
 Although COVID-19 vaccination may be a controversial topic, it remains a public health priority among many health entities at the federal, state and and local level.
 

@@ -21,12 +21,12 @@ Other contents:
 Data Sources:
 
 1) Vaccination Complete Percentage by County:
-Data.CDC.gov- Selected Sept 30th, 2021 accumulated data
+https://data.cdc.gov/Vaccinations/COVID-19-Vaccinations-in-the-United-States-Jurisdi/unsk-b7fc
 2)  US Socio Health Data by County: 
-Kaggle- 180 columns covering aspects including Socio Health/Economics/Education etc
+https://www.kaggle.com/johnjdavisiv/us-counties-covid19-weather-sociohealth-data?select=us_county_sociohealth_data.csv
 3)  US 2020 Presidential Election Voting by County: 
-Kaggle- Political party Dem/Rep represented by president candidates  
+https://www.kaggle.com/nadiashalaby/president-county-candidate 
 4)  US Social Vulnerability Index (SVI) by County:
-Kaggle- Selected columns from original dataset: Vaccine Hesitancy for COVID-19
+https://www.kaggle.com/jaykumar1607/covid-vaccine-hesitancy-usa-plotly-mapbox/data?select=Vaccine_Hesitancy_for_COVID-19__County_and_local_estimates.csv
 5)  US County Coordinates:
-Kaggle- with FIPS/Lat/Long
+https://www.kaggle.com/fireballbyedimyrnmom/us-counties-covid-19-dataset?select=us-counties.csv

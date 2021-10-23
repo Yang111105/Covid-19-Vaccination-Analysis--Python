@@ -17,3 +17,16 @@ Other contents:
 2) Resouce folder with raw data files
 3) Clean data file with datasets output for analysis purpose
 4) Image folder with output graphs
+
+Data Sources:
+
+1) Vaccination Complete Percentage by County:
+Data.CDC.gov- Selected Sept 30th, 2021 accumulated data
+2)  US Socio Health Data by County: 
+Kaggle- 180 columns covering aspects including Socio Health/Economics/Education etc
+3)  US 2020 Presidential Election Voting by County: 
+Kaggle- Political party Dem/Rep represented by president candidates  
+4)  US Social Vulnerability Index (SVI) by County:
+Kaggle- Selected columns from original dataset: Vaccine Hesitancy for COVID-19
+5)  US County Coordinates:
+Kaggle- with FIPS/Lat/Long

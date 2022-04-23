@@ -1,4 +1,4 @@
-## Team 9 project 1- Factors Affecting Covid-19 Vaccination: Data Analysis by US County
+## Factors Affecting Covid-19 Vaccination: Data Analysis by US County
 ### Team Members: Ricardo Herrera, Eugene Witherspoon, Feipeng Yang, Jenny(Yijuan) Yang
 
 
